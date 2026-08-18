@@ -1,0 +1,16 @@
+FICTIONAL TRAINING DATA — NOT FOR BUSINESS USE
+
+Green Office Week milestone tracker
+
+Milestone | Owner role | Due date | Status
+Five-day agenda confirmed | Programme Lead | 21 August 2026 | In progress
+Room layout confirmed | Facilities Coordinator | 25 August 2026 | Not started
+Bilingual announcement approved | Communications Lead | 27 August 2026 | Not started
+Registration opens | Communications Lead | 31 August 2026 | Not started
+Registration closes | Programme Lead | 9 September 2026 | Not started
+Final attendee note sent | Communications Lead | 11 September 2026 | Not started
+Event delivery | Programme Team | 14–18 September 2026 | Not started
+
+Training note
+The registration-open date in this tracker intentionally differs from the date in the Project Brief. The learner should identify and preserve the conflict instead of choosing a date automatically.
+
