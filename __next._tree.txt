@@ -1,2 +1,2 @@
 :HL["/ai-tool-lab-preview/_next/static/chunks/0cgbvx0445g0s.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"TuxPkGCgR2i3EoeXIamC2"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"5tC6NlC9EwQNlI9TuLew8"}
