@@ -1,0 +1,117 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Plugins screen with Plugins and Search plugins highlighted</title>
+  <desc id="desc">A neutralized Codex Plugins screen showing where to open Plugins and search for a plugin.</desc>
+  <rect width="1600" height="1000" rx="28" fill="#ffffff"/>
+  <rect x="0" y="0" width="356" height="1000" fill="#f5f7fb"/>
+  <rect x="356" y="0" width="1" height="1000" fill="#e6e8ed"/>
+
+  <circle cx="25" cy="25" r="9" fill="#ff5f57"/>
+  <circle cx="49" cy="25" r="9" fill="#febc2e"/>
+  <circle cx="73" cy="25" r="9" fill="#28c840"/>
+  <rect x="103" y="16" width="16" height="16" rx="4" stroke="#8d929a" stroke-width="2"/>
+  <path d="M149 18l-12 12 12 12" stroke="#9ba1aa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184 18l12 12-12 12" stroke="#c2c6cc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="274" y="10" width="74" height="28" rx="14" fill="#5a8dee"/>
+  <text x="311" y="30" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="700" text-anchor="middle">Update</text>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" fill="#2d2d2f">
+    <text x="42" y="77">New chat</text>
+    <text x="42" y="116">Search</text>
+    <text x="42" y="155">Plugins</text>
+    <text x="42" y="194">Automations</text>
+    <text x="42" y="233">Sites</text>
+  </g>
+  <g stroke="#737980" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 66h8m-4-4v8m-5 8l17-17"/>
+    <circle cx="22" cy="107" r="7"/>
+    <path d="M28 113l8 8"/>
+    <circle cx="18" cy="145" r="3"/><circle cx="30" cy="145" r="3"/><circle cx="18" cy="157" r="3"/><circle cx="30" cy="157" r="3"/>
+    <circle cx="24" cy="185" r="8"/><path d="M24 178v8l5 3"/>
+    <rect x="17" y="221" width="12" height="12" rx="2"/><rect x="33" y="221" width="12" height="12" rx="2"/><rect x="17" y="237" width="12" height="12" rx="2"/><rect x="33" y="237" width="12" height="12" rx="2"/>
+  </g>
+  <rect x="5" y="132" width="342" height="42" rx="12" fill="#e9eaed"/>
+  <rect x="5" y="132" width="342" height="42" rx="12" stroke="#d93025" stroke-width="4"/>
+  <path d="M348 132h72v52" stroke="#d93025" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <rect x="420" y="162" width="210" height="64" rx="14" fill="#ffffff" stroke="#d93025" stroke-width="4"/>
+  <text x="446" y="193" fill="#181818" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="700">1. Open Plugins</text>
+
+  <text x="16" y="292" fill="#9ca0a6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Projects</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" fill="#5f6368">
+    <text x="42" y="335" font-size="18">OpenAI Workshop</text>
+    <text x="42" y="374" font-size="17">Create workflow skill</text>
+    <text x="42" y="411" font-size="17">Test automation</text>
+    <text x="42" y="462" font-size="18">Workshop Templates</text>
+    <text x="42" y="501" font-size="17">Build slide artifact</text>
+  </g>
+  <g stroke="#858a91" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 324h19l5 6v13H16z"/>
+    <path d="M16 451h19l5 6v13H16z"/>
+  </g>
+  <circle cx="26" cy="958" r="11" fill="#111"/>
+  <text x="47" y="965" fill="#202020" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Settings</text>
+
+  <rect x="376" y="0" width="1224" height="1000" fill="#ffffff"/>
+  <rect x="391" y="8" width="87" height="34" rx="17" fill="#f0f0f0"/>
+  <text x="434" y="31" fill="#202020" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21" font-weight="600" text-anchor="middle">Plugins</text>
+  <text x="510" y="31" fill="#90949a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21">Skills</text>
+  <rect x="1337" y="9" width="108" height="34" rx="17" fill="#f5f5f5"/>
+  <text x="1391" y="31" fill="#202020" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500" text-anchor="middle">Manage</text>
+  <rect x="1456" y="9" width="104" height="34" rx="17" fill="#ffffff" stroke="#e4e4e4"/>
+  <text x="1508" y="31" fill="#202020" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500" text-anchor="middle">Create</text>
+
+  <text x="963" y="118" fill="#171717" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="39" font-weight="500" text-anchor="middle">Make Codex work your way</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <rect x="535" y="162" width="170" height="34" rx="17" fill="#f0f0f0"/>
+    <text x="620" y="185" fill="#232323" font-size="18" font-weight="500" text-anchor="middle">Curated by OpenAI</text>
+    <text x="725" y="185" fill="#9a9a9a" font-size="18">Shared with you</text>
+    <text x="875" y="185" fill="#9a9a9a" font-size="18">Created by me</text>
+    <text x="1020" y="185" fill="#9a9a9a" font-size="18">Your workspace</text>
+  </g>
+
+  <rect x="1254" y="161" width="220" height="37" rx="16" fill="#ffffff" stroke="#e1e1e1"/>
+  <circle cx="1274" cy="180" r="8" stroke="#7f858d" stroke-width="2"/>
+  <path d="M1280 186l8 8" stroke="#7f858d" stroke-width="2" stroke-linecap="round"/>
+  <text x="1297" y="186" fill="#767b82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18">Search plugins</text>
+  <rect x="1254" y="161" width="220" height="37" rx="16" stroke="#d93025" stroke-width="4"/>
+  <path d="M1364 198v84h-130" stroke="#d93025" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <rect x="928" y="251" width="306" height="64" rx="14" fill="#ffffff" stroke="#d93025" stroke-width="4"/>
+  <text x="954" y="291" fill="#181818" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="700">2. Search for the plugin</text>
+
+  <rect x="535" y="216" width="890" height="330" rx="18" fill="#dfe7ff"/>
+  <rect x="535" y="216" width="890" height="330" rx="18" fill="url(#grad)"/>
+  <rect x="764" y="354" width="434" height="54" rx="24" fill="#ffffff" fill-opacity="0.78" stroke="#d0d5dd"/>
+  <text x="793" y="388" fill="#1268d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="600">SharePoint</text>
+  <text x="908" y="388" fill="#2a2a2a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20">Connect project files and folders</text>
+  <rect x="905" y="477" width="150" height="44" rx="16" fill="#111111"/>
+  <text x="980" y="506" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="500" text-anchor="middle">Try in chat</text>
+
+  <text x="535" y="606" fill="#202020" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="25" font-weight="500">Featured</text>
+  <rect x="535" y="626" width="890" height="1" fill="#ececec"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <g transform="translate(548 662)">
+      <rect width="48" height="48" rx="12" fill="#eef4ff" stroke="#e5e7eb"/>
+      <text x="72" y="20" fill="#202020" font-size="19" font-weight="600">Outlook</text>
+      <text x="72" y="49" fill="#6b6f76" font-size="17">Read and manage email</text>
+      <circle cx="398" cy="24" r="18" fill="#f0f0f0"/>
+      <text x="398" y="31" fill="#202020" font-size="26" text-anchor="middle">+</text>
+    </g>
+    <g transform="translate(1004 662)">
+      <rect width="48" height="48" rx="12" fill="#eef4ff" stroke="#e5e7eb"/>
+      <text x="72" y="20" fill="#202020" font-size="19" font-weight="600">SharePoint</text>
+      <text x="72" y="49" fill="#6b6f76" font-size="17">Use approved files</text>
+      <circle cx="398" cy="24" r="18" fill="#f0f0f0"/>
+      <text x="398" y="31" fill="#202020" font-size="26" text-anchor="middle">+</text>
+    </g>
+  </g>
+
+  <rect x="535" y="864" width="890" height="62" rx="10" fill="#f7faff" stroke="#c8dcff"/>
+  <text x="561" y="900" fill="#0b5ed7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="700">Install the plugins your workflow needs. You only need to do this once.</text>
+  <defs>
+    <linearGradient id="grad" x1="535" y1="216" x2="1425" y2="546" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ccd8ff"/>
+      <stop offset="0.58" stop-color="#ece8ff"/>
+      <stop offset="1" stop-color="#d7e6ff"/>
+    </linearGradient>
+  </defs>
+</svg>
+

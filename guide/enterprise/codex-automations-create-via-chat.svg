@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Automations page with Automations and Create via chat highlighted</title>
+  <desc id="desc">A neutralized Codex Automations screen showing the Automations navigation item highlighted and the Create via chat button highlighted.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#d92d20"/>
+    </marker>
+    <filter id="softShadow" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#101828" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="900" fill="#ffffff"/>
+  <rect width="356" height="900" fill="#f6f8fb"/>
+  <rect x="356" y="0" width="1" height="900" fill="#e6e8eb"/>
+
+  <circle cx="22" cy="22" r="8" fill="#ff5f57"/>
+  <circle cx="50" cy="22" r="8" fill="#ffbd2e"/>
+  <circle cx="78" cy="22" r="8" fill="#28c840"/>
+  <rect x="108" y="14" width="16" height="16" rx="4" fill="none" stroke="#9aa0a6" stroke-width="1.5"/>
+  <path d="M156 22h-30m8-8-8 8 8 8" fill="none" stroke="#c3c6cc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184 14l8 8-8 8m-20-8h28" fill="none" stroke="#c3c6cc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" fill="#252525">
+    <g transform="translate(16 64)" font-size="19" font-weight="500">
+      <text x="26" y="0">New chat</text>
+      <text x="26" y="40">Search</text>
+      <text x="26" y="80">Plugins</text>
+    </g>
+
+    <rect x="0" y="152" width="346" height="38" rx="11" fill="#e9eaec"/>
+    <g transform="translate(16 178)" font-size="19" font-weight="600">
+      <circle cx="5" cy="-6" r="8" fill="none" stroke="#35383d" stroke-width="2"/>
+      <path d="M5-11v6l4 3" fill="none" stroke="#35383d" stroke-width="2" stroke-linecap="round"/>
+      <text x="26" y="0">Automations</text>
+    </g>
+    <g transform="translate(16 218)" font-size="19" font-weight="500">
+      <text x="26" y="0">Sites</text>
+    </g>
+
+    <text x="14" y="282" fill="#a1a5ad" font-size="18" font-weight="500">Projects</text>
+    <g font-size="18" fill="#5d626b">
+      <text x="42" y="326">OpenAI Workshop</text>
+      <text x="42" y="366">Create Launch Intelligence skill</text>
+      <text x="42" y="406">Build slide artifact</text>
+      <text x="42" y="446">Create automation</text>
+      <text x="42" y="516">Workshop Project</text>
+      <text x="42" y="556">Review first output</text>
+      <text x="42" y="596">Submit build reflection</text>
+    </g>
+    <g stroke="#6f757d" stroke-width="1.8" fill="none">
+      <path d="M14 311h13l5 6h18v18H14z"/>
+      <path d="M14 501h13l5 6h18v18H14z"/>
+    </g>
+    <text x="42" y="864" font-size="19" font-weight="500">Settings</text>
+
+    <text x="542" y="92" font-size="34" font-weight="500">Automations</text>
+    <text x="542" y="158" font-size="22" font-weight="600">Current</text>
+    <line x1="542" y1="176" x2="1428" y2="176" stroke="#eceef1"/>
+
+    <g font-size="20">
+      <circle cx="552" cy="218" r="8" fill="none" stroke="#9aa0a6" stroke-width="2"/>
+      <text x="574" y="226" font-weight="500">Launch Intelligence brief</text>
+      <text x="783" y="226" fill="#8d9299">OpenAI Workshop</text>
+      <text x="1376" y="226" fill="#8d9299" text-anchor="end">Weekly</text>
+    </g>
+    <line x1="542" y1="252" x2="1428" y2="252" stroke="#f3f4f6"/>
+
+    <g font-size="20" opacity="0.28">
+      <circle cx="552" cy="286" r="8" fill="none" stroke="#9aa0a6" stroke-width="2"/>
+      <text x="574" y="294" font-weight="500">Additional workshop automation</text>
+      <text x="842" y="294" fill="#8d9299">Hidden example</text>
+      <text x="1376" y="294" fill="#8d9299" text-anchor="end">Draft</text>
+    </g>
+
+    <rect x="1396" y="10" width="190" height="38" rx="12" fill="#171717"/>
+    <text x="1420" y="36" fill="#ffffff" font-size="18" font-weight="500">Create via chat</text>
+    <path d="M1562 24l7 7 7-7" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <rect x="8" y="144" width="346" height="54" rx="14" fill="none" stroke="#d92d20" stroke-width="4"/>
+  <rect x="1388" y="4" width="204" height="50" rx="15" fill="none" stroke="#d92d20" stroke-width="4"/>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" filter="url(#softShadow)">
+    <rect x="384" y="118" width="224" height="54" rx="12" fill="#ffffff" stroke="#d92d20" stroke-width="3"/>
+    <text x="402" y="152" fill="#d92d20" font-size="20" font-weight="700">1. Open Automations</text>
+    <path d="M384 148 C282 142 210 160 156 168" fill="none" stroke="#d92d20" stroke-width="3" marker-end="url(#arrow)"/>
+
+    <rect x="1122" y="70" width="244" height="54" rx="12" fill="#ffffff" stroke="#d92d20" stroke-width="3"/>
+    <text x="1140" y="104" fill="#d92d20" font-size="20" font-weight="700">2. Create new automation</text>
+    <path d="M1366 96 C1416 82 1452 62 1492 50" fill="none" stroke="#d92d20" stroke-width="3" marker-end="url(#arrow)"/>
+  </g>
+</svg>
+
