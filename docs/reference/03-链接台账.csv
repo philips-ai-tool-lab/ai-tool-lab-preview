@@ -1,0 +1,11 @@
+类别,名称,用途,链接,访问说明
+主要入口,AI Gateway,Philips AI 工具总入口,https://www.aigateway.ai.inside.philips.com/,需要 Philips 内网
+主要入口,AI Skills Navigator,Microsoft Copilot 学习资源,https://aiskillsnavigator.microsoft.com/playlists/join?invite=MjkxZmYxYmEtYzc1NC00NGYxLTk4MTQtZWY4OTE3ZjhjOTg5,可能需要 Microsoft 登录
+主要入口,Philips AI Tool Lab,培训网站和 10 个实验,https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/,公开可访问
+主要入口,Microsoft 365 Copilot,Copilot 使用入口,https://m365.cloud.microsoft/,需要企业账号和许可证
+Notebook 资料,Copilot Notebooks 入门,Notebook 基础入口与功能说明,https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-microsoft-365-copilot-notebooks,Microsoft 官方资料
+Notebook 资料,Copilot Notebooks 工作原理,Notebook 工作方式与资料边界,https://support.microsoft.com/en-us/microsoft-365-copilot/how-microsoft-365-copilot-notebooks-works,Microsoft 官方资料
+Notebook 资料,向 Notebook 添加参考资料,添加文件和资料来源,https://support.microsoft.com/en-us/microsoft-365-copilot/add-references-to-your-microsoft-365-copilot-notebook,Microsoft 官方资料
+Notebook 资料,设置 Notebook 自定义说明,设置实验使用的 Instructions,https://support.microsoft.com/en-us/microsoft-365-copilot/provide-custom-instructions-for-your-microsoft-365-copilot-notebook,Microsoft 官方资料
+Notebook 资料,共享 Copilot Notebook,共享与权限说明,https://support.microsoft.com/en-us/microsoft-365-copilot/share-a-microsoft-365-copilot-notebook,Microsoft 官方资料
+Library 资料,Copilot Library 入门,Library 入口与内容复用能力,https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-microsoft-365-copilot-library,Microsoft 官方资料
