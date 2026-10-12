@@ -107,13 +107,15 @@ npm run build:pages
 - Funnel Sample Data.xlsx 和 Chart Sample.pptx。
 - SharePoint、Outlook、Teams 及 AI Asset Inventory MCP 的账号与连接权限。
 
-2026-10-12 已追加 [training/](training/README.md)：会议材料目录 10 个文件、课程归档目录 176 个文件、培训计划输出 3 个文件，原有共 189 个文件；本次另补充服务销售培训 3 个交付文件，合计 192 个原始文件，包含正式 PPT、课堂配套资料、ZIP 材料包、历史课件、参考资料、制作脚本和检查记录。文件内容及原目录内的文件名均原样保留；重复副本也保留，以便对照来源。仅排除 1 个 PowerPoint 临时锁文件。
+2026-10-12 已完成主题分类，培训原始文件迁入独立仓库：
 
-服务销售30分钟示范版见 [专用索引](training/service-sales-30min/README.md)：PPT、离线 HTML 和完整 ZIP。ZIP 内包含讲师手册与提示词、使用说明、源文件、素材及练习资料。接收人和授课安排尚待业务交接确认。
+- [Bootcamp 培训](https://github.com/philips-ai-tool-lab/bootcamp-training)：189 个原始文件，含会议材料、课程归档和培训计划。
+- [Copilot 服务销售培训](https://github.com/philips-ai-tool-lab/copilot-service-sales-training)：3 个交付文件，含 PPT、离线 HTML 和完整材料包。
+- [People Function 内容材料](https://github.com/philips-ai-tool-lab/people-function-materials)：入职计划、参考资料、Agent 指令及任务模板，仅整理内容。
 
-原路径与仓库路径映射、大小和 SHA256 见 training/manifest.json。training/.gitattributes 禁用文本换行转换，以保留原始文件字节。课件及表格未在本次上传中编辑或重新渲染，归档脚本未执行。历史说明里的本机绝对路径和版本描述仍按原文保留；查找仓库内文件时使用 training/README.md 和清单。
+前两类资料按原始字节迁移，各专用仓库的 manifest.json 保留来源与 SHA256。旧 training/ 仅保留跳转索引；旧提交仍保留历史文件。网站自身的 training-data/ 及 source/public/training-data/ 保留用于 Lab 练习。
 
-上述三个资料目录以外的原始邮件附件、Instruction.docx、完整个人工作交接记录、node_modules 和构建缓存仍未包含。本次上传不意味着已经获得前述外部 SharePoint 文件或系统访问权限。
+原始邮件附件、Instruction.docx、完整个人工作交接记录、依赖和构建缓存不属于本网站仓库。本次分类不表示已获得外部 SharePoint 文件或系统访问权限。
 
 ## 权限与接手确认
 

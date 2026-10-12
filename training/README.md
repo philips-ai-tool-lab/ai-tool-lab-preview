@@ -1,53 +1,10 @@
-# 培训课件与配套资料
+# 培训资料已按主题迁移
 
-2026-10-12 按交接要求原样补充，共 192 个原始文件，约 258.96 MiB。下方目录保留来源目录内部的层次和中文文件名；重复副本与历史版本未删减。
+2026-10-12，培训原始文件已迁入同组织的独立仓库，逐文件校验内容一致。本目录仅保留分类入口。
 
-## 先找这些材料
-
-| 材料 | 文件 |
+| 资料 | 新位置 |
 |---|---|
-| 90 分钟完整 Lab 课件 | [打开 PPT](meeting-materials/飞利浦新员工人工智能训练营_90分钟课件_保留完整Lab_2026年09月16日.pptx) |
-| 第一课：Copilot 基础与实操 | [打开 PPT](meeting-materials/飞利浦新员工人工智能训练营_第一课_Copilot基础与实操_含智能体入口图.pptx) |
-| 第二课：Agent Builder Lab | [打开 PPT](meeting-materials/飞利浦新员工人工智能训练营_第二课_AgentBuilderLab_副本.pptx) |
-| 90 分钟完整材料包 | [下载 ZIP](meeting-materials/飞利浦新员工人工智能训练营_90分钟完整Lab材料包_2026年09月16日.zip) |
-| 课堂提示词与操作入口 | [打开 TXT](meeting-materials/04_课堂示例提示词与Lab操作入口_90分钟.txt) |
-| 90 分钟授课安排 | [打开说明](meeting-materials/05_90分钟授课安排与材料使用说明.md) |
-| 绿色办公周练习说明 | [打开说明](meeting-materials/00_绿色办公周三份练习资料说明_中英文.md) |
-| 培训计划表格 | [查看表格及检查记录](training-plan/training-plan-20260922/) |
+| Bootcamp 正式课件、课堂练习、历史归档与培训计划，共 189 个原始文件 | [bootcamp-training](https://github.com/philips-ai-tool-lab/bootcamp-training) |
+| Copilot 服务销售30分钟 PPT、离线 HTML、完整 ZIP，共 3 个原始文件 | [copilot-service-sales-training](https://github.com/philips-ai-tool-lab/copilot-service-sales-training) |
 
-服务销售培训另见 [30分钟示范版资料入口](service-sales-30min/README.md)，含 PPT、离线 HTML 和完整材料包。
-
-## 完整目录与来源
-
-| 仓库目录 | 本地来源目录名称 | 文件数 |
-|---|---|---:|
-| [meeting-materials/](meeting-materials/) | Bootcamp培训会议材料_正式课件与绿色办公周实操文件 | 10 |
-| [course-archive/](course-archive/) | 飞利浦新员工人工智能训练营_课件与配套资料归档 | 176 |
-| [training-plan/](training-plan/) | outputs/training-plan-20260922 | 3 |
-| [service-sales-30min/](service-sales-30min/) | outputs 中的服务销售30分钟示范版交付文件 | 3 |
-
-course-archive/ 包括：
-
-- 01_正式授课使用的课件。
-- 02_课堂实操文件与任务参考。
-- 03_课程参考资料与原始演示文稿。
-- 04_网页操作截图与演示结果。
-- 05_历史课件与修改阶段留档。
-- 06_制作脚本与质量检查记录。
-- 07_资料来源与归档路径对照，以及原归档说明。
-
-## 版本和使用注意事项
-
-- 9 月 16 日的 90 分钟完整 Lab 课件在既有交接记录中记为 53 页；同时提供后来保存的第一课、第二课文件。本次只是上传，未重新确定课程安排，也未将这些不同课件合并。
-- 历史 41 页、61 页课件及其他修改阶段版本保留在归档中；不要仅按“最终版”等文件名判断本次应使用哪份。
-- 文件正文、备注、图片、内部链接及历史检查结果均未修改；历史验证结论不等于本次重新验证。
-- 部分 Markdown、脚本和记录仍引用原 Windows 本机路径。仓库位置请以 [manifest.json](manifest.json) 的 source/path 对照为准；不要直接执行历史脚本来覆盖现有资料。
-- 绿色办公周资料为虚构练习数据，故意保留的日期冲突没有修正。
-- 仅排除一份以 ~$ 开头的 PowerPoint 临时锁文件；依赖和构建缓存不在原有三个资料目录及本次服务销售交付文件的交接范围内。
-- 本仓库保持公开，这些文件可以被公开下载。网站源码及三项未修正注意事项仍见根目录 [HANDOFF.md](../HANDOFF.md)。
-
-## 校验
-
-[manifest.json](manifest.json) 记录全部 192 个原始文件的来源相对路径、仓库路径、字节数和 SHA256。上传前逐文件校验一致。
-
-此目录的 .gitattributes 使用 `* -text`，禁用 Git 文本转换，保留资料原始字节。本次没有编辑 PPT、修改表格、运行制作脚本或重新构建网站。
+各仓库的 README 提供分类索引，manifest.json 提供来源路径和 SHA256。旧提交保留迁移前的文件历史。

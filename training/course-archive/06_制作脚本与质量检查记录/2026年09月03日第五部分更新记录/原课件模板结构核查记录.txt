@@ -1,5 +1,0 @@
-Source deck: current 61-slide final Bootcamp presentation.
-All source slide renders were inspected in the existing complete render inventory. Slides 45-61 were additionally reviewed individually at full size.
-The fifth section uses two inherited layouts: a dark section divider and a white screenshot-plus-explanation layout.
-This revision keeps all 61 slides, preserves masters/layouts/theme, and edits inherited text and image frames in place.
-The unavailable unzip dependency prevented the bundled inventory helper from completing, so the current full render/layout inventory and artifact-tool inspection are used instead.

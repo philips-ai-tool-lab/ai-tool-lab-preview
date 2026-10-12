@@ -1,5 +1,0 @@
-Slides 45-61 retain their inherited source layouts.
-Text changes align the fifth section with the 2026-09-03 AI Tool Lab website.
-Slides 49, 50, 51, 57, and 59 replace inherited screenshot assets inside their existing image frames with current website screenshots.
-Slide 52 preserves the existing six visual groups while mapping the website's eight steps into six memorable groups.
-No new slides, masters, layouts, charts, tables, or decorative overlays are added.
