@@ -5,6 +5,7 @@
 - 网站：https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/
 - [交接说明与注意事项](HANDOFF.md)
 - [开发源码及原始说明](source/README.md)
+- [正式课件、课堂配套资料与培训归档](training/README.md)
 - [10 个实验的范围与来源](docs/reference/02-十个实验来源与页面映射.md)
 - [历史链接台账](docs/reference/03-链接台账.csv)
 - [文件清单与校验值](docs/handoff-manifest.json)
@@ -18,8 +19,10 @@
 | 根目录 index.html、labs/、guide/、training-data/、_next/ 及导航数据 | 现有静态网站发布文件，基于提交 3181ac998c257ec6ba07769c139d26ce28e6f93f 保留 |
 | source/ | 2026-10-12 本地活动工作树的 88 个源码、配置、资源和说明文件，包含原先未提交的最新内容 |
 | docs/reference/ | 5 份历史交接说明及链接台账，按原文件保留 |
+| training/ | 189 个培训文件：正式 PPT、课堂练习、材料包、历史课件、截图、制作与检查记录、培训计划表；文件内容原样保留 |
 | HANDOFF.md | 已知问题、版本关系、运行说明、发布差异和接手核对项目 |
 | docs/handoff-manifest.json | 本次新增源码及参考资料的文件清单、整理时 SHA256 和 Git 内容标识 |
+| training/manifest.json | 培训资料原路径与仓库路径对照、文件大小及 SHA256 校验清单 |
 
 ## 先阅读的三项注意事项
 

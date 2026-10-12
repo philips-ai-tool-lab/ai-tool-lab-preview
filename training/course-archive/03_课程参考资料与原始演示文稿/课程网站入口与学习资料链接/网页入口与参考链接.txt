@@ -1,0 +1,34 @@
+Bootcamp AI 培训网页入口与参考链接
+
+1. Philips AI Gateway
+https://www.aigateway.ai.inside.philips.com/
+用途：Philips AI 工具与访问治理入口，需要 Philips 内网及相应登录状态。
+
+2. Microsoft AI Skills Navigator — MS-4004
+https://aiskillsnavigator.microsoft.com/playlists/291ff1ba-c754-44f1-9814-ef8917f8c989
+用途：Microsoft 365 Copilot Use Cases 学习路径。
+
+3. Microsoft Learn — MS-4004 中文课程页
+https://learn.microsoft.com/zh-cn/training/courses/ms-4004
+用途：课程介绍、模块范围及官方学习入口。
+
+4. Philips AI Tool Lab
+https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/
+用途：中文分步实验、虚构训练数据和完成检查。
+
+5. Meeting Follow-up Assistant Lab
+https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/meeting-follow-up/
+用途：本次推荐的 Agent Builder 动手实验。
+
+6. Microsoft 365 Copilot Chat
+https://m365.cloud.microsoft/chat
+用途：Copilot 日常实操和 Agent Builder 入口，需要企业账号及相应许可证。
+
+7. Microsoft Agent Builder 官方说明
+https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/agent-builder
+
+8. 添加知识来源
+https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/agent-builder-add-knowledge
+
+9. 分享和管理 Agent
+https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/agent-builder-share-manage-agents

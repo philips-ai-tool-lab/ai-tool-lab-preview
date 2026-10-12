@@ -1,0 +1,1156 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"PHILIPS YOUNG BOOTCAMP","textShapes":5}
+{"kind":"shape","id":"sh/sryl4zqx","slide":1,"name":"Rectangle 6","bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/547294r6","slide":1,"name":"Rectangle 1","text":"PHILIPS YOUNG BOOTCAMP","textPreview":"PHILIPS YOUNG BOOTCAMP","textChars":22,"textLines":1,"bbox":[84,82,600,30]}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"Rectangle 2","text":"从 AI 认知到可用 Agent","textPreview":"从 AI 认知到可用 Agent","textChars":16,"textLines":1,"bbox":[84,158,850,68]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"Rectangle 3","text":"AI Gateway 导航 · GCR AI Ambassador · Copilot 实操 · Agent Builder 动手实验","textPreview":"AI Gateway 导航 · GCR AI Ambassador · Copilot 实操 · Agent Builder 动手实验","textChars":67,"textLines":1,"bbox":[84,246,1080,60]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"Rectangle 4","text":"讲解、演示与动手练习相结合","textPreview":"讲解、演示与动手练习相结合","textChars":13,"textLines":1,"bbox":[84,530,600,30]}
+{"kind":"textbox","id":"sh/ts7md4r2","slide":1,"name":"Rectangle: Rounded Corners 5","text":"打开 AI Skills Navigator  ↗","textPreview":"打开 AI Skills Navigator  ↗","textChars":25,"textLines":1,"bbox":[84,602,260,36]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"[Sources]\n- https://aiskillsnavigator.microsoft.com/"}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"01 介绍与引入","textShapes":15}
+{"kind":"shape","id":"sh/76twva5c","slide":2,"name":"Rectangle 21","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/9072xkry","slide":2,"name":"Rectangle 1","text":"01 介绍与引入","textPreview":"01 介绍与引入","textChars":8,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"Rectangle 2","text":"Philips 的 AI 方向：创新、运营、协作","textPreview":"Philips 的 AI 方向：创新、运营、协作","textChars":24,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"Rectangle 3","text":"今天先看 AI 怎样帮助业务创新、改善日常工作和支持跨团队协作，同时了解使用这些工具时必须遵守的企业要求。","textPreview":"今天先看 AI 怎样帮助业务创新、改善日常工作和支持跨团队协作，同时了解使用这些工具时必须遵守的企业要求。","textChars":53,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"Rectangle 4","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/w3i1sfa9","slide":2,"name":"Rectangle: Rounded Corners 6","bbox":[82,205,344,240]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"Rectangle 7","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[108,232,42,26]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"Rectangle 8","text":"创新｜How we innovate","textPreview":"创新｜How we innovate","textChars":18,"textLines":1,"bbox":[108,274,292,36]}
+{"kind":"textbox","id":"sh/ove9o7yd","slide":2,"name":"Rectangle 9","text":"聚焦高价值业务场景，为患者、客户、消费者和业务创造更大价值。","textPreview":"聚焦高价值业务场景，为患者、客户、消费者和业务创造更大价值。","textChars":30,"textLines":1,"bbox":[108,330,292,82]}
+{"kind":"shape","id":"sh/9wnqhczy","slide":2,"name":"Rectangle: Rounded Corners 10","bbox":[458,205,344,240]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"Rectangle 11","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[484,232,42,26]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"Rectangle 12","text":"运营｜How we operate","textPreview":"运营｜How we operate","textChars":17,"textLines":1,"bbox":[484,274,292,36]}
+{"kind":"textbox","id":"sh/wjy9sry9","slide":2,"name":"Rectangle 13","text":"重新审视工作方式，打破流程壁垒，让跨团队协作更顺畅、交付更高效。","textPreview":"重新审视工作方式，打破流程壁垒，让跨团队协作更顺畅、交付更高效。","textChars":32,"textLines":1,"bbox":[484,330,292,82]}
+{"kind":"shape","id":"sh/xk7qlczu","slide":2,"name":"Rectangle: Rounded Corners 14","bbox":[834,205,344,240]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"Rectangle 15","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[860,232,42,26]}
+{"kind":"textbox","id":"sh/bip8jmho","slide":2,"name":"Rectangle 16","text":"协作｜How we collaborate","textPreview":"协作｜How we collaborate","textChars":21,"textLines":1,"bbox":[860,274,292,36]}
+{"kind":"textbox","id":"sh/cnupgny5","slide":2,"name":"Rectangle 17","text":"持续投入工具与能力建设，帮助员工成长，并提升组织面向未来的竞争力。","textPreview":"持续投入工具与能力建设，帮助员工成长，并提升组织面向未来的竞争力。","textChars":33,"textLines":1,"bbox":[860,330,292,82]}
+{"kind":"shape","id":"sh/do3q9szq","slide":2,"name":"Rectangle: Rounded Corners 18","bbox":[82,476,1096,78]}
+{"kind":"textbox","id":"sh/t8byxkn2","slide":2,"name":"Rectangle 19","text":"质量、安全、合规与人工负责，是 Philips 推进 AI 规模化应用的共同原则。","textPreview":"质量、安全、合规与人工负责，是 Philips 推进 AI 规模化应用的共同原则。","textChars":41,"textLines":1,"bbox":[118,501,1024,34]}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"name":"Rectangle: Rounded Corners 20","text":"进入 AI Gateway  ↗","textPreview":"进入 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"[Sources]\n- [Updated] Jul. townhall AI slide.pptx — slide 1\n- https://www.aigateway.ai.inside.philips.com/"}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"01 介绍与引入","textShapes":14}
+{"kind":"shape","id":"sh/943mhgre","slide":3,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"Rectangle 1","text":"01 介绍与引入","textPreview":"01 介绍与引入","textChars":8,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"Rectangle 2","text":"创新、运营和协作共同回答：AI怎样进入业务","textPreview":"创新、运营和协作共同回答：AI怎样进入业务","textChars":21,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"name":"Rectangle 3","text":"三个方向并不是彼此独立的口号，而是一条从业务价值到组织能力的完整路径。","textPreview":"三个方向并不是彼此独立的口号，而是一条从业务价值到组织能力的完整路径。","textChars":35,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/3ah8rqlg","slide":3,"name":"Rectangle 4","text":"02A","textPreview":"02A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/obq90bml","slide":3,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/pcjqtg36","slide":3,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/m5cra54z","slide":3,"name":"Rectangle 7","text":"三者如何协同","textPreview":"三者如何协同","textChars":6,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"Rectangle 8","text":"首先看创新。Philips 推进 AI，不是为了追逐工具本身，而是从患者、客户、消费者和业务的真实问题出发，优先选择能够创造明确价值的场景。\n\n接着看运营。当一个场景证明有效以后，还需要重新设计流程、减少交接和重复劳动，让不同团队可以更顺畅地协作，并把效果稳定地交付出来。\n\n最后看协作。要让 AI 长期发挥作用，员工需要掌握工具，组织也需要持续建设能力；无论使用什么工具，质量、安全、合规和人工负责始终是共同底线。","textPreview":"首先看创新。Philips 推进 AI，不是为了追逐工具本身，而是从患者、客户、消费者和业务的真实问题出发，优先选择能够创造明确价值的场景。 |  | 接着看运营。当一个场景证明有效以后，还需要重新设计流程、减少交接和重复劳动，让不同团队可以更顺畅地协作，并把效果稳定地交付...","textChars":208,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"Rectangle 9","text":"AI 落地是一条从价值场景到流程改变，再到组织能力的完整路径。","textPreview":"AI 落地是一条从价值场景到流程改变，再到组织能力的完整路径。","textChars":31,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/m1c3mlsn","slide":3,"name":"Rectangle: Rounded Corners 10","text":"进入 AI Gateway  ↗","textPreview":"进入 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/83ulovat","slide":3,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/v6l4jq94","slide":3,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"name":"逻辑标签 1","text":"价值场景","textPreview":"价值场景","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/w7ulsvqp","slide":3,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/ja54na9g","slide":3,"name":"逻辑标签 2","text":"流程改变","textPreview":"流程改变","textChars":4,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/i9w3u58v","slide":3,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/e10f2twf","slide":3,"name":"逻辑标签 3","text":"组织能力","textPreview":"组织能力","textChars":4,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources]\n- Philips AI strategy material already cited on slide 2\n- https://www.aigateway.ai.inside.philips.com/"}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"01 介绍与引入","textShapes":16}
+{"kind":"shape","id":"sh/ilwf69kv","slide":4,"name":"Rectangle 29","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"Rectangle 1","text":"01 介绍与引入","textPreview":"01 介绍与引入","textChars":8,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"Rectangle 2","text":"今天的学习路径","textPreview":"今天的学习路径","textChars":7,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"name":"Rectangle 3","text":"先认识企业入口，再练习通用任务，最后把重复流程构建成 Agent。学习过程按照“观察、模仿、独立完成”逐步推进，后半程会留出较长时间进行实际操作。","textPreview":"先认识企业入口，再练习通用任务，最后把重复流程构建成 Agent。学习过程按照“观察、模仿、独立完成”逐步推进，后半程会留出较长时间进行实际操作。","textChars":73,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/ql8jytsj","slide":4,"name":"Rectangle 4","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/doj29oba","slide":4,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/sna103ap","slide":4,"name":"Rectangle: Rounded Corners 6","bbox":[72,235,198,190]}
+{"kind":"textbox","id":"sh/3ihk3et8","slide":4,"name":"Rectangle 7","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[92,258,42,42]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"Rectangle 8","text":"介绍与引入","textPreview":"介绍与引入","textChars":5,"textLines":1,"bbox":[92,323,158,70]}
+{"kind":"shape","id":"sh/kbm987y5","slide":4,"name":"Arrow: Chevron 9","bbox":[271,310,26,38]}
+{"kind":"shape","id":"sh/5cva1cfq","slide":4,"name":"Rectangle: Rounded Corners 10","bbox":[298,235,198,190]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"Rectangle 11","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[318,258,42,42]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"Rectangle 12","text":"AI 全景与入口","textPreview":"AI 全景与入口","textChars":8,"textLines":1,"bbox":[318,323,158,70]}
+{"kind":"shape","id":"sh/w72947yt","slide":4,"name":"Arrow: Chevron 13","bbox":[497,310,26,38]}
+{"kind":"shape","id":"sh/x8vaxsfe","slide":4,"name":"Rectangle: Rounded Corners 14","bbox":[524,235,198,190]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"Rectangle 15","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[544,258,42,42]}
+{"kind":"textbox","id":"sh/v6tsv2xo","slide":4,"name":"Rectangle 16","text":"AI Ambassador","textPreview":"AI Ambassador","textChars":13,"textLines":1,"bbox":[544,323,158,70]}
+{"kind":"shape","id":"sh/g36tgryd","slide":4,"name":"Arrow: Chevron 17","bbox":[723,310,26,38]}
+{"kind":"shape","id":"sh/h4fa9wfy","slide":4,"name":"Rectangle: Rounded Corners 18","bbox":[750,235,198,190]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"Oval 19","bbox":[770,258,42,42]}
+{"kind":"textbox","id":"sh/oz29krqh","slide":4,"name":"Rectangle 20","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[770,258,42,42]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"Rectangle 21","text":"Copilot 实操","textPreview":"Copilot 实操","textChars":10,"textLines":1,"bbox":[770,323,158,70]}
+{"kind":"shape","id":"sh/2xkrih8b","slide":4,"name":"Arrow: Chevron 22","bbox":[949,310,26,38]}
+{"kind":"shape","id":"sh/1wbapc7q","slide":4,"name":"Rectangle: Rounded Corners 23","bbox":[976,235,198,190]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"Oval 24","bbox":[996,258,42,42]}
+{"kind":"textbox","id":"sh/fu9sn2p0","slide":4,"name":"Rectangle 25","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[996,258,42,42]}
+{"kind":"textbox","id":"sh/et0reh8f","slide":4,"name":"Rectangle 26","text":"Agent 动手 Lab","textPreview":"Agent 动手 Lab","textChars":12,"textLines":1,"bbox":[996,323,158,70]}
+{"kind":"textbox","id":"sh/tsrqlc7u","slide":4,"name":"Rectangle 27","text":"学习方式：观察 → 模仿 → 独立完成。课堂上会保留足够的实践时间，请直接在自己的工作环境中操作。","textPreview":"学习方式：观察 → 模仿 → 独立完成。课堂上会保留足够的实践时间，请直接在自己的工作环境中操作。","textChars":49,"textLines":1,"bbox":[112,490,1056,68]}
+{"kind":"textbox","id":"sh/sri9s7q9","slide":4,"name":"Rectangle: Rounded Corners 28","text":"微软官方学习网站  ↗","textPreview":"微软官方学习网站  ↗","textChars":11,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources]\n- https://aiskillsnavigator.microsoft.com/"}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"01 介绍与引入","textShapes":14}
+{"kind":"shape","id":"sh/ahkvi1cb","slide":5,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"Rectangle 1","text":"01 介绍与引入","textPreview":"01 介绍与引入","textChars":8,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"Rectangle 2","text":"今天的学习顺序，是从会选择工具到会完成任务","textPreview":"今天的学习顺序，是从会选择工具到会完成任务","textChars":21,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/z2tcnm5s","slide":5,"name":"Rectangle 3","text":"每一步都为下一步建立基础，因此不需要一开始就直接进入复杂的 Agent 构建。","textPreview":"每一步都为下一步建立基础，因此不需要一开始就直接进入复杂的 Agent 构建。","textChars":39,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"Rectangle 4","text":"03A","textPreview":"03A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/l4bupwny","slide":5,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/032tgr6d","slide":5,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"Rectangle 7","text":"学习顺序的逻辑","textPreview":"学习顺序的逻辑","textChars":7,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/m5kbi1oj","slide":5,"name":"Rectangle 8","text":"首先，我们会认识 Philips 提供的企业 AI 入口和使用要求，知道不同工具分别解决什么问题，也知道遇到账号、网络和合规问题时应该从哪里开始。\n\n接着，我们会认识 GCR AI Ambassador 支持网络，并进入 Copilot 实操。这里重点练习怎样阅读资料、整理信息、发现冲突，再把分析结果转化成邮件或简报。\n\n最后，课程才会进入 Agent Builder。到那时，我们会把前面已经验证有效的任务步骤、参考资料和输出要求，固化成一个可以重复使用和持续调整的 Agent。","textPreview":"首先，我们会认识 Philips 提供的企业 AI 入口和使用要求，知道不同工具分别解决什么问题，也知道遇到账号、网络和合规问题时应该从哪里开始。 |  | 接着，我们会认识 GCR AI Ambassador 支持网络，并进入 Copilot 实操。这里重点练习怎样阅读资...","textChars":242,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"Rectangle 9","text":"先会选工具，再会完成任务，最后才把稳定的方法固化为 Agent。","textPreview":"先会选工具，再会完成任务，最后才把稳定的方法固化为 Agent。","textChars":32,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"Rectangle: Rounded Corners 10","text":"微软官方学习网站  ↗","textPreview":"微软官方学习网站  ↗","textChars":11,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/v2twb6dw","slide":5,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/k7mxovud","slide":5,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/58vehgvy","slide":5,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"逻辑标签 1","text":"选择工具","textPreview":"选择工具","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"逻辑标签 2","text":"完成任务","textPreview":"完成任务","textChars":4,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/tcfel0vu","slide":5,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/hgrmpwj2","slide":5,"name":"逻辑标签 3","text":"构建 Agent","textPreview":"构建 Agent","textChars":8,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources]\n- https://aiskillsnavigator.microsoft.com/"}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"PART 2","textShapes":4}
+{"kind":"shape","id":"sh/ml07i9sv","slide":6,"name":"Rectangle 5","bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"Rectangle 1","text":"PART 2","textPreview":"PART 2","textChars":6,"textLines":1,"bbox":[84,88,350,36]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"Rectangle 2","text":"Philips AI 全景与工具导航","textPreview":"Philips AI 全景与工具导航","textChars":18,"textLines":1,"bbox":[84,160,1030,115]}
+{"kind":"textbox","id":"sh/87ipkzal","slide":6,"name":"Rectangle 3","text":"这一部分先建立 Philips 企业 AI 工具的整体地图，重点回答三个问题：在哪里申请、怎样完成访问准备，以及不同入口分别用于什么。\n\n首先认识 AI Gateway，它负责 Enterprise ChatGPT 的状态、申请和使用要求；中国用户还需要完成网络服务和本机工具准备。\n\n随后再区分学习与日常操作入口：课程在 AI Skills Navigator，实际使用 Copilot 则进入 Microsoft 365 Copilot。","textPreview":"这一部分先建立 Philips 企业 AI 工具的整体地图，重点回答三个问题：在哪里申请、怎样完成访问准备，以及不同入口分别用于什么。 |  | 首先认识 AI Gateway，它负责 Enterprise ChatGPT 的状态、申请和使用要求；中国用户还需要完成网络服务...","textChars":221,"textLines":5,"bbox":[84,306,1020,245]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"Rectangle: Rounded Corners 4","text":"打开 AI Gateway  ↗","textPreview":"打开 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[84,602,232,36]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"[Sources]\n- https://www.aigateway.ai.inside.philips.com/"}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"02 Philips AI 全景与工具导航","textShapes":7}
+{"kind":"shape","id":"sh/cbq1sv25","slide":7,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"Rectangle 2","text":"可持续发展 AI 战略：重点项目、当前进展与下一阶段计划","textPreview":"可持续发展 AI 战略：重点项目、当前进展与下一阶段计划","textChars":28,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"name":"Rectangle 3","text":"Group Sustainability 将 AI 工作划分为五条重点方向，每条方向都标明负责人、当前进展和下一阶段计划。绿色 Now 代表正在运行或部署的工作，橙色 Next 代表后续扩展项目。","textPreview":"Group Sustainability 将 AI 工作划分为五条重点方向，每条方向都标明负责人、当前进展和下一阶段计划。绿色 Now 代表正在运行或部署的工作，橙色 Next 代表后续扩展项目。","textChars":98,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/zedcfa9g","slide":7,"name":"Rectangle 4","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/eh0ba1sr","slide":7,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/fi9c369c","slide":7,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/baxkjqlk","slide":7,"name":"Rectangle 9","text":"战略框架","textPreview":"战略框架","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/a9ojq5kz","slide":7,"name":"Rectangle 10","text":"五条重点方向：AI Capability & Adoption、Supplier Sustainability、Regulatory & Compliance、Business & Markets、Reporting & Analysis。\n\nNow 与 Next：Now 记录已经投入使用或正在部署的项目；Next 列出准备扩展、标准化或接入正式流程的后续工作。\n\n项目负责人：每一列底部都写明谁提供业务支持、谁承担领导责任、谁负责日常推进。","textPreview":"五条重点方向：AI Capability & Adoption、Supplier Sustainability、Regulatory & Compliance、Business & Markets、Reporting & Analysis。 |  | Now 与 Next：...","textChars":222,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/xcz2l03q","slide":7,"name":"Rectangle: Rounded Corners 11","text":"打开 AI Gateway  ↗","textPreview":"打开 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"image","id":"im/k36xo3i5","slide":7,"name":"Picture 20","geometry":"roundRect","bbox":[76.33,185,693.33,390]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"[Sources]\n- User-provided sustainability-ai-strategy-one-pager.pptx\n- https://www.aigateway.ai.inside.philips.com/"}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"02 Philips AI 全景与工具导航","textShapes":7}
+{"kind":"shape","id":"sh/n6pwfmd8","slide":8,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"Rectangle 2","text":"三条基础工作流：能力建设、供应商风险与法规处理","textPreview":"三条基础工作流：能力建设、供应商风险与法规处理","textChars":23,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/ri9g7uhw","slide":8,"name":"Rectangle 3","text":"三条工作流覆盖员工能力建设、供应商风险数据和法规研读，并与战略图中的项目方向相对应。","textPreview":"三条工作流覆盖员工能力建设、供应商风险数据和法规研读，并与战略图中的项目方向相对应。","textChars":42,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"Rectangle 4","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/tkby9kzm","slide":8,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/je9g3ahk","slide":8,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/id0fu50z","slide":8,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/o7ydoret","slide":8,"name":"Rectangle 9","text":"基础工作流","textPreview":"基础工作流","textChars":5,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"Rectangle 10","text":"1｜员工能力与应用推广：当前正在为不同岗位设计 AI 学习路径，并通过内部社区分享案例。下一步会收集、筛选值得推广的 AI 用例，同时建立内部推广网络。\n\n2｜供应商可持续发展：AI 已用于发现供应商可持续风险、辅助成熟度评估，并自动筛查公开信息。下一步将进一步处理报告、问卷等非结构化资料，支持后续改进。\n\n3｜法规与合规：AI 每年辅助整理 2,000 多项可持续发展法规，并帮助团队更快完成法规解读。下一步将把法规监测连接到质量管理和审计流程。","textPreview":"1｜员工能力与应用推广：当前正在为不同岗位设计 AI 学习路径，并通过内部社区分享案例。下一步会收集、筛选值得推广的 AI 用例，同时建立内部推广网络。 |  | 2｜供应商可持续发展：AI 已用于发现供应商可持续风险、辅助成熟度评估，并自动筛查公开信息。下一步将进一步处理...","textChars":225,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"Rectangle: Rounded Corners 11","text":"查看战略原图  ↗","textPreview":"查看战略原图  ↗","textChars":9,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"image","id":"im/zqd8fe18","slide":8,"name":"Picture 20","geometry":"roundRect","bbox":[76.33,185,693.33,390]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"[Sources]\n- User-provided sustainability-ai-strategy-one-pager.pptx"}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"02 Philips AI 全景与工具导航","textShapes":7}
+{"kind":"shape","id":"sh/3y107axw","slide":9,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"Rectangle 2","text":"商业支持、报告分析与 2026 年重点","textPreview":"商业支持、报告分析与 2026 年重点","textChars":19,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"name":"Rectangle 3","text":"Business & Markets 聚焦投标和市场支持；Reporting & Analysis 覆盖双重重要性评估、数据采集及披露流程。理解集团方向后，下一页会进一步说明大中华区的业务重点。","textPreview":"Business & Markets 聚焦投标和市场支持；Reporting & Analysis 覆盖双重重要性评估、数据采集及披露流程。理解集团方向后，下一页会进一步说明大中华区的业务重点。","textChars":97,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/mdonql4z","slide":9,"name":"Rectangle 4","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/9gzml0nq","slide":9,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/bih4na5w","slide":9,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/ah8nu54b","slide":9,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"Rectangle 9","text":"业务落地与规模化","textPreview":"业务落地与规模化","textChars":8,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/p0ji9kf2","slide":9,"name":"Rectangle 10","text":"4｜商业与市场支持：Tender Assistant 正在支持 150 多个销售后台团队，帮助准备投标材料并减少人工协调。下一步将在更多区域和重点投标场景中推广。\n\n5｜报告与分析：AI 正在支持双重重要性评估，也就是同时评估可持续议题的业务影响和外部影响；同时帮助制造基地收集发票数据。下一步将支持更多可持续披露流程。\n\n2026 年重点：扩大已经验证有效的项目，统一可重复使用的能力，并优先推进效果能够衡量的场景。每个项目都明确支持人和日常负责人。","textPreview":"4｜商业与市场支持：Tender Assistant 正在支持 150 多个销售后台团队，帮助准备投标材料并减少人工协调。下一步将在更多区域和重点投标场景中推广。 |  | 5｜报告与分析：AI 正在支持双重重要性评估，也就是同时评估可持续议题的业务影响和外部影响；同时帮助...","textChars":226,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/2xsjepgb","slide":9,"name":"Rectangle: Rounded Corners 11","text":"进入 AI Gateway  ↗","textPreview":"进入 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"image","id":"im/7mxozqdo","slide":9,"name":"Picture 20","geometry":"roundRect","bbox":[76.33,185,693.33,390]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"[Sources]\n- User-provided sustainability-ai-strategy-one-pager.pptx\n- https://www.aigateway.ai.inside.philips.com/"}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"02 Philips AI 全景与工具导航","textShapes":25}
+{"kind":"shape","id":"sh/xo7ytkzy","slide":10,"name":"Rectangle 41","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"Rectangle 2","text":"大中华区 AI 计划：五个业务方向和四项基础能力","textPreview":"大中华区 AI 计划：五个业务方向和四项基础能力","textChars":24,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"Rectangle 3","text":"五个方向分别解决员工能力、销售机会、运营服务、职能工作和创新协作问题；技术平台、数据、管理机制和负责任使用为这些工作提供基础支持。","textPreview":"五个方向分别解决员工能力、销售机会、运营服务、职能工作和创新协作问题；技术平台、数据、管理机制和负责任使用为这些工作提供基础支持。","textChars":65,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"Rectangle 4","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/l036l83y","slide":10,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/kzu5c32t","slide":10,"name":"Rectangle: Rounded Corners 6","bbox":[62,190,222,288]}
+{"kind":"shape","id":"sh/725onyl4","slide":10,"name":"Rectangle 7","bbox":[62,190,222,8]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"Rectangle 8","text":"提升员工\nAI 能力","textPreview":"提升员工 | AI 能力","textChars":10,"textLines":2,"bbox":[80,220,186,58]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"Rectangle 9","text":"Learn & adopt","textPreview":"Learn & adopt","textChars":13,"textLines":1,"bbox":[80,286,186,24]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"Rectangle 10","text":"通过学习社群，\n开展岗位培训，\n并分享实践案例。","textPreview":"通过学习社群， | 开展岗位培训， | 并分享实践案例。","textChars":24,"textLines":3,"bbox":[82,330,182,112]}
+{"kind":"shape","id":"sh/q5gb21kb","slide":10,"name":"Rectangle: Rounded Corners 11","bbox":[306,190,222,288]}
+{"kind":"shape","id":"sh/r6pcv6lw","slide":10,"name":"Rectangle 12","bbox":[306,190,222,8]}
+{"kind":"textbox","id":"sh/0bit8b2d","slide":10,"name":"Rectangle 13","text":"提升商机洞察\n和赢率","textPreview":"提升商机洞察 | 和赢率","textChars":10,"textLines":2,"bbox":[324,220,186,58]}
+{"kind":"textbox","id":"sh/1cru1g3y","slide":10,"name":"Rectangle 14","text":"Sales insights","textPreview":"Sales insights","textChars":14,"textLines":1,"bbox":[324,286,186,24]}
+{"kind":"textbox","id":"sh/e9gb61k7","slide":10,"name":"Rectangle 15","text":"先分析销售机会，\n再复盘赢失单，\n并支持投标定价。","textPreview":"先分析销售机会， | 再复盘赢失单， | 并支持投标定价。","textChars":25,"textLines":3,"bbox":[326,330,182,112]}
+{"kind":"shape","id":"sh/fapcz6ls","slide":10,"name":"Rectangle: Rounded Corners 16","bbox":[550,190,222,288]}
+{"kind":"shape","id":"sh/ozitcv29","slide":10,"name":"Rectangle 17","bbox":[550,190,222,8]}
+{"kind":"textbox","id":"sh/p0ru503u","slide":10,"name":"Rectangle 18","text":"改善运营\n和服务","textPreview":"改善运营 | 和服务","textChars":8,"textLines":2,"bbox":[568,220,186,58]}
+{"kind":"textbox","id":"sh/xwnupgvy","slide":10,"name":"Rectangle 19","text":"Operations","textPreview":"Operations","textChars":10,"textLines":1,"bbox":[568,286,186,24]}
+{"kind":"textbox","id":"sh/wvetgbud","slide":10,"name":"Rectangle 20","text":"先简化订单处理，\n再改善服务运营，\n并支持工厂和供应链。","textPreview":"先简化订单处理， | 再改善服务运营， | 并支持工厂和供应链。","textChars":28,"textLines":3,"bbox":[570,330,182,112]}
+{"kind":"shape","id":"sh/bu5cnqd8","slide":10,"name":"Rectangle: Rounded Corners 21","bbox":[794,190,222,288]}
+{"kind":"shape","id":"sh/atwbelcn","slide":10,"name":"Rectangle 22","bbox":[794,190,222,8]}
+{"kind":"textbox","id":"sh/lk7ut0va","slide":10,"name":"Rectangle 23","text":"支持职能\n日常工作","textPreview":"支持职能 | 日常工作","textChars":9,"textLines":2,"bbox":[812,220,186,58]}
+{"kind":"textbox","id":"sh/kjytkvup","slide":10,"name":"Rectangle 24","text":"Functions","textPreview":"Functions","textChars":9,"textLines":1,"bbox":[812,286,186,24]}
+{"kind":"textbox","id":"sh/jypcrqd4","slide":10,"name":"Rectangle 25","text":"覆盖市场、财务与 HR，\n也支持法规、质量和法务，\n以及战略与竞品分析。","textPreview":"覆盖市场、财务与 HR， | 也支持法规、质量和法务， | 以及战略与竞品分析。","textChars":36,"textLines":3,"bbox":[814,330,182,112]}
+{"kind":"shape","id":"sh/yxgbilcj","slide":10,"name":"Rectangle: Rounded Corners 26","bbox":[1038,190,222,288]}
+{"kind":"shape","id":"sh/1o3ahwvq","slide":10,"name":"Rectangle 27","bbox":[1038,190,222,8]}
+{"kind":"textbox","id":"sh/0nut8rul","slide":10,"name":"Rectangle 28","text":"连接伙伴\n加速创新","textPreview":"连接伙伴 | 加速创新","textChars":9,"textLines":2,"bbox":[1056,220,186,58]}
+{"kind":"textbox","id":"sh/q9srixs3","slide":10,"name":"Rectangle 29","text":"Innovation","textPreview":"Innovation","textChars":10,"textLines":1,"bbox":[1056,286,186,24]}
+{"kind":"textbox","id":"sh/ru18r2to","slide":10,"name":"Rectangle 30","text":"先找到本地 AI 合作方，\n再推进生态合作，\n从而加快创新流程。","textPreview":"先找到本地 AI 合作方， | 再推进生态合作， | 从而加快创新流程。","textChars":32,"textLines":3,"bbox":[1058,330,182,112]}
+{"kind":"textbox","id":"sh/cva9k7a9","slide":10,"name":"Rectangle 31","text":"每个支柱由业务牵头，并与支持伙伴和 AI Ambassador 协同推进。","textPreview":"每个支柱由业务牵头，并与支持伙伴和 AI Ambassador 协同推进。","textChars":37,"textLines":1,"bbox":[126,492,1028,28]}
+{"kind":"shape","id":"sh/dwjqtcbu","slide":10,"name":"Rectangle: Rounded Corners 32","bbox":[82,536,256,44]}
+{"kind":"textbox","id":"sh/exsrmhsf","slide":10,"name":"Rectangle 33","text":"技术与平台","textPreview":"技术与平台","textChars":5,"textLines":1,"bbox":[94,548,232,22]}
+{"kind":"shape","id":"sh/zyl8vmt0","slide":10,"name":"Rectangle: Rounded Corners 34","bbox":[362,536,256,44]}
+{"kind":"textbox","id":"sh/0zu9ora5","slide":10,"name":"Rectangle 35","text":"数据底座","textPreview":"数据底座","textChars":4,"textLines":1,"bbox":[374,548,232,22]}
+{"kind":"shape","id":"sh/103qxcbq","slide":10,"name":"Rectangle: Rounded Corners 36","bbox":[642,536,256,44]}
+{"kind":"textbox","id":"sh/u187adsv","slide":10,"name":"Rectangle 37","text":"运营模式与治理","textPreview":"运营模式与治理","textChars":7,"textLines":1,"bbox":[654,548,232,22]}
+{"kind":"shape","id":"sh/f2h8jitg","slide":10,"name":"Rectangle: Rounded Corners 38","bbox":[922,536,256,44]}
+{"kind":"textbox","id":"sh/bmpgrah8","slide":10,"name":"Rectangle 39","text":"负责任的 AI 与合规","textPreview":"负责任的 AI 与合规","textChars":11,"textLines":1,"bbox":[934,548,232,22]}
+{"kind":"textbox","id":"sh/algfy50n","slide":10,"name":"Rectangle: Rounded Corners 40","text":"进入 AI Gateway  ↗","textPreview":"进入 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"[Sources]\n- [Updated] Jul. townhall AI slide.pptx — slide 2\n- https://www.aigateway.ai.inside.philips.com/"}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"02 Philips AI 全景与工具导航","textShapes":14}
+{"kind":"shape","id":"sh/mdobedg3","slide":11,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/xcryxg7y","slide":11,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/wbih4b6d","slide":11,"name":"Rectangle 2","text":"五个业务方向背后，共享同一套基础能力","textPreview":"五个业务方向背后，共享同一套基础能力","textChars":18,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/n69grmpw","slide":11,"name":"Rectangle 3","text":"业务场景可以不同，但平台、数据、治理和负责任使用必须共同建设。","textPreview":"业务场景可以不同，但平台、数据、治理和负责任使用必须共同建设。","textChars":31,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/250zy18b","slide":11,"name":"Rectangle 4","text":"08A","textPreview":"08A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/98rytw72","slide":11,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/o7ih0r6h","slide":11,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/72t03qp0","slide":11,"name":"Rectangle 7","text":"共同基础是什么","textPreview":"共同基础是什么","textChars":7,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/61kzalof","slide":11,"name":"Rectangle 8","text":"首先，五个方向分别从员工能力、销售机会、运营服务、职能工作和创新协作切入。它们面对的是不同业务问题，因此每个方向都需要由熟悉场景的业务团队牵头。\n\n接着，这些方向不能各自建设一套孤立能力。技术平台和数据底座需要支持重复使用，运营模式需要明确负责人、资源和衡量方式，才能把零散试点逐步扩展到稳定流程。\n\n最后，负责任的 AI 与合规不是额外附加的一层检查，而是所有方向共同的基础。AI Ambassador 和支持伙伴会帮助团队理解工具、分享案例，并把实际问题连接到合适资源。","textPreview":"首先，五个方向分别从员工能力、销售机会、运营服务、职能工作和创新协作切入。它们面对的是不同业务问题，因此每个方向都需要由熟悉场景的业务团队牵头。 |  | 接着，这些方向不能各自建设一套孤立能力。技术平台和数据底座需要支持重复使用，运营模式需要明确负责人、资源和衡量方式，才...","textChars":237,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/ofqtgnyt","slide":11,"name":"Rectangle 9","text":"业务决定做什么，共享能力决定这些场景能否安全、稳定地规模化。","textPreview":"业务决定做什么，共享能力决定这些场景能否安全、稳定地规模化。","textChars":30,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/9gza9sze","slide":11,"name":"Rectangle: Rounded Corners 10","text":"进入 AI Gateway  ↗","textPreview":"进入 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/nehs7iho","slide":11,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/0b6tc3yx","slide":11,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/1cfa58zi","slide":11,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/epobatgr","slide":11,"name":"逻辑标签 1","text":"业务场景","textPreview":"业务场景","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/zaxs3yhc","slide":11,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/cn6t83y1","slide":11,"name":"逻辑标签 2","text":"共用底座","textPreview":"共用底座","textChars":4,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/dofa18z6","slide":11,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/tsnip0ny","slide":11,"name":"逻辑标签 3","text":"责任治理","textPreview":"责任治理","textChars":4,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"[Sources]\n- GCR AI roadmap material already cited on slide 8\n- https://www.aigateway.ai.inside.philips.com/"}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"02 Philips AI 全景与工具导航","textShapes":15}
+{"kind":"shape","id":"sh/tgrm1wzy","slide":12,"name":"Rectangle 23","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/1gbm9s3a","slide":12,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/0f2lgnmp","slide":12,"name":"Rectangle 2","text":"当前ChatGPT完整流程：先申请，再安装并登录","textPreview":"当前ChatGPT完整流程：先申请，再安装并登录","textChars":24,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/ra943il8","slide":12,"name":"Rectangle 3","text":"先完成部门审批，然后并行提交两项申请；收到两封确认邮件后，再进入 Company Portal 完成安装。","textPreview":"先完成部门审批，然后并行提交两项申请；收到两封确认邮件后，再进入 Company Portal 完成安装。","textChars":53,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/q903ad4n","slide":12,"name":"Rectangle 4","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/dcbm583y","slide":12,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/sb2lcnmd","slide":12,"name":"Rectangle: Rounded Corners 6","bbox":[88,205,335,250]}
+{"kind":"shape","id":"sh/b6d4f2lc","slide":12,"name":"Oval 7","bbox":[110,227,42,42]}
+{"kind":"textbox","id":"sh/a543mx4r","slide":12,"name":"Rectangle 8","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[110,233,42,25]}
+{"kind":"textbox","id":"sh/wvupgz6t","slide":12,"name":"Rectangle 9","text":"获得 GCMT 批准","textPreview":"获得 GCMT 批准","textChars":10,"textLines":1,"bbox":[168,225,233,32]}
+{"kind":"textbox","id":"sh/xw3q94ne","slide":12,"name":"Rectangle 10","text":"确认业务用途，并准备部门批准材料。","textPreview":"确认业务用途，并准备部门批准材料。","textChars":17,"textLines":1,"bbox":[110,279,291,158]}
+{"kind":"shape","id":"sh/atc7epon","slide":12,"name":"Rectangle: Rounded Corners 11","bbox":[472,205,335,250]}
+{"kind":"shape","id":"sh/bulo7u58","slide":12,"name":"Oval 12","bbox":[494,227,42,42]}
+{"kind":"textbox","id":"sh/orapcf6h","slide":12,"name":"Rectangle 13","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[494,233,42,25]}
+{"kind":"textbox","id":"sh/9sj65kn2","slide":12,"name":"Rectangle 14","text":"并行提交两项申请","textPreview":"并行提交两项申请","textChars":8,"textLines":1,"bbox":[552,225,233,32]}
+{"kind":"textbox","id":"sh/mps7a5or","slide":12,"name":"Rectangle 15","text":"AI Gateway：申请 Enterprise ChatGPT 账号\nServiceNow：申请中国网络服务","textPreview":"AI Gateway：申请 Enterprise ChatGPT 账号 | ServiceNow：申请中国网络服务","textChars":55,"textLines":2,"bbox":[494,279,291,158]}
+{"kind":"shape","id":"sh/nq1o3a5w","slide":12,"name":"Rectangle: Rounded Corners 16","bbox":[856,205,335,250]}
+{"kind":"shape","id":"sh/0nap8f6l","slide":12,"name":"Oval 17","bbox":[878,227,42,42]}
+{"kind":"textbox","id":"sh/1oj61kn6","slide":12,"name":"Rectangle 18","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[878,233,42,25]}
+{"kind":"textbox","id":"sh/hkbm5wzu","slide":12,"name":"Rectangle 19","text":"确认、安装并登录","textPreview":"确认、安装并登录","textChars":8,"textLines":1,"bbox":[936,225,233,32]}
+{"kind":"textbox","id":"sh/gj25cry9","slide":12,"name":"Rectangle 20","text":"收到 OpenAI 与 SNOW 邮件后，在 Company Portal 安装 Proxy Doctor；连接办公网或 VPN，再登录企业工作区。","textPreview":"收到 OpenAI 与 SNOW 邮件后，在 Company Portal 安装 Proxy Doctor；连接办公网或 VPN，再登录企业工作区。","textChars":74,"textLines":1,"bbox":[878,279,291,158]}
+{"kind":"textbox","id":"sh/fit436ho","slide":12,"name":"Rectangle 21","text":"两项申请可以同时进行；两封确认邮件都收到后，再安装并登录。","textPreview":"两项申请可以同时进行；两封确认邮件都收到后，再安装并登录。","textChars":29,"textLines":1,"bbox":[100,500,1080,70]}
+{"kind":"textbox","id":"sh/uh0na1g3","slide":12,"name":"Rectangle: Rounded Corners 22","text":"查看完整使用手册  ↗","textPreview":"查看完整使用手册  ↗","textChars":11,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/sfi58ryd","slide":12,"name":"流程箭头 1","bbox":[432,304,30,38]}
+{"kind":"shape","id":"sh/7u94zmhs","slide":12,"name":"流程箭头 2","bbox":[816,304,30,38]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"[Sources]\n- https://philips.service-now.com/itportal?id=kb_article&sysparm_article=KB1528249&sys_id=24240f5bfb794b54ae1afb576eefdc0f&spa=1\n- Enterprise_ChatGPT申请与使用OnePager.pptx\n- User-provided Company Portal screenshots"}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"02 Philips AI 全景与工具导航","textShapes":14}
+{"kind":"shape","id":"sh/vaxg7ulo","slide":13,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/q50nydsj","slide":13,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/bq9orito","slide":13,"name":"Rectangle 2","text":"账号、网络和安装分别由三个入口负责","textPreview":"账号、网络和安装分别由三个入口负责","textChars":17,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/o3i5w3ad","slide":13,"name":"Rectangle 3","text":"理解三个入口的分工以后，整个开通过程就不会因为跳步或找错网站而中断。","textPreview":"理解三个入口的分工以后，整个开通过程就不会因为跳步或找错网站而中断。","textChars":34,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/p4r6p8by","slide":13,"name":"Rectangle 4","text":"09A","textPreview":"09A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/21gnuts7","slide":13,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/32ponyts","slide":13,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/gzy5s3a1","slide":13,"name":"Rectangle 7","text":"三个入口如何分工","textPreview":"三个入口如何分工","textChars":8,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/1076lobm","slide":13,"name":"Rectangle 8","text":"第一步是准备业务用途并取得 GCMT 批准。完成这项前提以后，可以同时提交两项申请：在 AI Gateway 申请 Enterprise ChatGPT 账号，在 ServiceNow 申请中国网络服务。\n\n第二步是等待两封确认邮件。OpenAI 开通邮件表示账号已经准备完成，SNOW 完成邮件表示中国网络服务已经开通；两项申请可以并行，但不能只完成其中一项。\n\n第三步是在 Windows Company Portal 中安装 ChatGPT Proxy Doctor。安装完成后连接 Philips 办公网或 VPN，再使用 Philips 账号登录企业工作区。","textPreview":"第一步是准备业务用途并取得 GCMT 批准。完成这项前提以后，可以同时提交两项申请：在 AI Gateway 申请 Enterprise ChatGPT 账号，在 ServiceNow 申请中国网络服务。 |  | 第二步是等待两封确认邮件。OpenAI 开通邮件表示账号已...","textChars":284,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/hcfy9k3u","slide":13,"name":"Rectangle 9","text":"正确顺序是：并行申请，收到两封邮件，再安装并登录。","textPreview":"正确顺序是：并行申请，收到两封邮件，再安装并登录。","textChars":25,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/gb6x0zm9","slide":13,"name":"Rectangle: Rounded Corners 10","text":"查看完整使用手册  ↗","textPreview":"查看完整使用手册  ↗","textChars":11,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/u9ofyp43","slide":13,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/t8fy5k3i","slide":13,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/876xwfmx","slide":13,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/7mdg3als","slide":13,"name":"逻辑标签 1","text":"提交申请","textPreview":"提交申请","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/6l4fu547","slide":13,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/lkvy103m","slide":13,"name":"逻辑标签 2","text":"邮件确认","textPreview":"邮件确认","textChars":4,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/kjmxsfm1","slide":13,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/cnqh8fux","slide":13,"name":"逻辑标签 3","text":"安装登录","textPreview":"安装登录","textChars":4,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"[Sources]\n- KB1528249 — 飞利浦中国用户 ChatGPT 申请与使用手册"}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"02 Philips AI 全景与工具导航","textShapes":7}
+{"kind":"shape","id":"sh/b2507exs","slide":14,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/xc7eds76","slide":14,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/wbydknq1","slide":14,"name":"Rectangle 2","text":"完整操作以 KB1528249 使用手册为准","textPreview":"完整操作以 KB1528249 使用手册为准","textChars":22,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/jepwf2pc","slide":14,"name":"Rectangle 3","text":"这一部分提炼当前操作路径；实际申请时，请按知识库当前版本逐项操作。","textPreview":"这一部分提炼当前操作路径；实际申请时，请按知识库当前版本逐项操作。","textChars":33,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/idgvmx8r","slide":14,"name":"Rectangle 4","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/5grehs7i","slide":14,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/zi5c3y98","slide":14,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/ehwvat8n","slide":14,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/c3e1gjyd","slide":14,"name":"Rectangle 9","text":"开始前确认三件事","textPreview":"开始前确认三件事","textChars":8,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/x4ni9ofy","slide":14,"name":"Rectangle 10","text":"首先准备 Philips 账号和部门 GCMT 批准材料。\n\n接着并行完成两项申请：在 AI Gateway 申请账号，在 ServiceNow 申请中国网络服务。\n\n收到 OpenAI 和 SNOW 两封确认邮件后，在 Windows Company Portal 安装 ChatGPT Proxy Doctor。","textPreview":"首先准备 Philips 账号和部门 GCMT 批准材料。 |  | 接着并行完成两项申请：在 AI Gateway 申请账号，在 ServiceNow 申请中国网络服务。 |  | 收到 OpenAI 和 SNOW 两封确认邮件后，在 Windows Company Po...","textChars":158,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/a1wze9g7","slide":14,"name":"Rectangle: Rounded Corners 11","text":"查看完整使用手册  ↗","textPreview":"查看完整使用手册  ↗","textChars":11,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"image","id":"im/rq1cvq1g","slide":14,"name":"Picture 20","geometry":"roundRect","bbox":[70,215,707,290]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"[Sources]\n- https://philips.service-now.com/itportal?id=kb_article&sysparm_article=KB1528249&sys_id=24240f5bfb794b54ae1afb576eefdc0f&spa=1\n- User-provided screenshot of KB1528249 v6.0"}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"02 Philips AI 全景与工具导航","textShapes":8}
+{"kind":"shape","id":"sh/4vm9ovel","slide":15,"name":"Rectangle 13","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/547mhg3m","slide":15,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/k3y5ov21","slide":15,"name":"Rectangle 2","text":"第1步：在 AI Gateway 申请 Enterprise ChatGPT 账号","textPreview":"第1步：在 AI Gateway 申请 Enterprise ChatGPT 账号","textChars":41,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/76p4jqls","slide":15,"name":"Rectangle 3","text":"获得 GCMT 批准后，提交 Enterprise ChatGPT 访问申请，并等待 OpenAI 开通邮件。","textPreview":"获得 GCMT 批准后，提交 Enterprise ChatGPT 访问申请，并等待 OpenAI 开通邮件。","textChars":55,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/65gnqlk7","slide":15,"name":"Rectangle 4","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/t87ml0ji","slide":15,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/na5476l8","slide":15,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,712,420]}
+{"kind":"shape","id":"sh/m9c3e1kn","slide":15,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,416]}
+{"kind":"textbox","id":"sh/wrm9kvep","slide":15,"name":"Rectangle 9","text":"怎么操作","textPreview":"怎么操作","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/hsvat0fa","slide":15,"name":"Rectangle 10","text":"首先打开 AI Gateway，查看当前账号状态；如果尚未开通，进入 AI Assistant。\n\n接着输入或选择“Access”，提交 Enterprise ChatGPT 申请，并按页面要求提供 GCMT 批准材料。\n\n完成标志是收到 OpenAI 开通邮件；收到后保留邮件，并继续确认网络申请状态。","textPreview":"首先打开 AI Gateway，查看当前账号状态；如果尚未开通，进入 AI Assistant。 |  | 接着输入或选择“Access”，提交 Enterprise ChatGPT 申请，并按页面要求提供 GCMT 批准材料。 |  | 完成标志是收到 OpenAI 开通...","textChars":152,"textLines":5,"bbox":[824,251,360,328]}
+{"kind":"textbox","id":"sh/upkrilwj","slide":15,"name":"Rectangle: Rounded Corners 11","text":"打开 AI Gateway  ↗","textPreview":"打开 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"textbox","id":"sh/vqdsrqx4","slide":15,"name":"Rectangle: Rounded Corners 12","text":"查看完整使用手册  ↗","textPreview":"查看完整使用手册  ↗","textChars":11,"textLines":1,"bbox":[320,616,250,36]}
+{"kind":"image","id":"im/ids3ids7","slide":15,"name":"Picture 27","geometry":"roundRect","bbox":[74,195.87,704,394.25]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"[Sources]\n- https://www.aigateway.ai.inside.philips.com/\n- User-provided AI Gateway screenshot\n- https://philips.service-now.com/itportal?id=kb_article&sysparm_article=KB1528249&sys_id=24240f5bfb794b54ae1afb576eefdc0f&spa=1"}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"02 Philips AI 全景与工具导航","textShapes":8}
+{"kind":"shape","id":"sh/nqlg3a5k","slide":16,"name":"Rectangle 13","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/8z2h8bq1","slide":16,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/9kby1g7m","slide":16,"name":"Rectangle 2","text":"第2步：在 ServiceNow 申请中国网络服务","textPreview":"第2步：在 ServiceNow 申请中国网络服务","textChars":25,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/ytkf2h8j","slide":16,"name":"Rectangle 3","text":"这项申请可以和账号申请同时提交；收到 SNOW 完成邮件后，网络服务即完成开通。","textPreview":"这项申请可以和账号申请同时提交；收到 SNOW 完成邮件后，网络服务即完成开通。","textChars":40,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/zutgvm94","slide":16,"name":"Rectangle 4","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/kv2h4rqp","slide":16,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/ip4zel83","slide":16,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,712,420]}
+{"kind":"shape","id":"sh/3qdg7qpo","slide":16,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,416]}
+{"kind":"textbox","id":"sh/fm1gzq5o","slide":16,"name":"Rectangle 9","text":"怎么操作","textPreview":"怎么操作","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/e1sf65o3","slide":16,"name":"Rectangle 10","text":"首先打开 ServiceNow，搜索“China Internet Acceleration Service”，进入对应的服务申请页面。\n\n接着填写业务需求，并按页面要求上传个人承诺书、GCMT 批准邮件或其他材料。\n\n完成标志是收到 ServiceNow（SNOW）完成邮件；与 OpenAI 邮件一起作为进入安装步骤的确认。","textPreview":"首先打开 ServiceNow，搜索“China Internet Acceleration Service”，进入对应的服务申请页面。 |  | 接着填写业务需求，并按页面要求上传个人承诺书、GCMT 批准邮件或其他材料。 |  | 完成标志是收到 ServiceNow（...","textChars":164,"textLines":5,"bbox":[824,251,360,328]}
+{"kind":"textbox","id":"sh/1ojy10ne","slide":16,"name":"Rectangle: Rounded Corners 11","text":"查看完整使用手册  ↗","textPreview":"查看完整使用手册  ↗","textChars":11,"textLines":1,"bbox":[72,616,280,36]}
+{"kind":"textbox","id":"sh/gnax8v6t","slide":16,"name":"Rectangle: Rounded Corners 12","text":"申请中国网络服务  ↗","textPreview":"申请中国网络服务  ↗","textChars":11,"textLines":1,"bbox":[370,616,260,36]}
+{"kind":"image","id":"im/5kra9kra","slide":16,"name":"Picture 27","geometry":"roundRect","bbox":[72,203.45,708,379.11]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":"[Sources]\n- Enterprise_ChatGPT申请与使用OnePager.pptx\n- https://philips.service-now.com/itportal?id=kb_article&sysparm_article=KB1528249&sys_id=24240f5bfb794b54ae1afb576eefdc0f&spa=1"}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"02 Philips AI 全景与工具导航","textShapes":7}
+{"kind":"shape","id":"sh/gnepkr69","slide":17,"name":"Rectangle 13","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/1c7e50ni","slide":17,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/gbedwfmx","slide":17,"name":"Rectangle 2","text":"第3步：在 Company Portal 安装 ChatGPT Proxy Doctor","textPreview":"第3步：在 Company Portal 安装 ChatGPT Proxy Doctor","textChars":44,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/rm5czq50","slide":17,"name":"Rectangle 3","text":"从 Windows 开始菜单打开 Company Portal，找到 ChatGPT Proxy Doctor，然后点击 Install。","textPreview":"从 Windows 开始菜单打开 Company Portal，找到 ChatGPT Proxy Doctor，然后点击 Install。","textChars":69,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/6lwvql4v","slide":17,"name":"Rectangle 4","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/t8ne10n6","slide":17,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/jilcvq54","slide":17,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,712,420]}
+{"kind":"shape","id":"sh/ihcvml4j","slide":17,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,416]}
+{"kind":"textbox","id":"sh/4by9or6l","slide":17,"name":"Rectangle 9","text":"怎么操作","textPreview":"怎么操作","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/pc7qhwn6","slide":17,"name":"Rectangle 10","text":"首先从 Windows 开始菜单打开 Company Portal。\n\n接着搜索并打开 ChatGPT Proxy Doctor，确认应用名称后点击 Install。\n\n安装完成后保留默认设置；如果系统提示更新，按 Company Portal 页面提示完成。","textPreview":"首先从 Windows 开始菜单打开 Company Portal。 |  | 接着搜索并打开 ChatGPT Proxy Doctor，确认应用名称后点击 Install。 |  | 安装完成后保留默认设置；如果系统提示更新，按 Company Portal 页面提示完成。","textChars":130,"textLines":5,"bbox":[824,251,360,328]}
+{"kind":"textbox","id":"sh/3ap8fm50","slide":17,"name":"Rectangle: Rounded Corners 12","text":"查看完整使用手册  ↗","textPreview":"查看完整使用手册  ↗","textChars":11,"textLines":1,"bbox":[350,616,250,36]}
+{"kind":"image","id":"im/a1kzel0j","slide":17,"name":"Picture 21","geometry":"roundRect","bbox":[72,193.87,708,398.25]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":"[Sources]\n- User-provided Company Portal home screenshot\n- User-provided ChatGPT Proxy Doctor details screenshot\n- https://philips.service-now.com/itportal?id=kb_article&sysparm_article=KB1528249&sys_id=24240f5bfb794b54ae1afb576eefdc0f&spa=1"}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"02 Philips AI 全景与工具导航","textShapes":19}
+{"kind":"shape","id":"sh/gbylkbqh","slide":18,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/wrelszu9","slide":18,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/hsn2l4bu","slide":18,"name":"Rectangle 2","text":"第4步：连接办公网或 VPN，并登录使用","textPreview":"第4步：连接办公网或 VPN，并登录使用","textChars":20,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/itw3upcf","slide":18,"name":"Rectangle 3","text":"确认账号、网络和工具已经准备完成，然后连接 Philips 办公网或 VPN，登录企业工作区。","textPreview":"确认账号、网络和工具已经准备完成，然后连接 Philips 办公网或 VPN，登录企业工作区。","textChars":47,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/je5knut0","slide":18,"name":"Rectangle 4","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/4felwzu5","slide":18,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/6hw3y9sb","slide":18,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/rip4retw","slide":18,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/fapkr6pw","slide":18,"name":"Rectangle 9","text":"登录前检查","textPreview":"登录前检查","textChars":5,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/upg3i18r","slide":18,"name":"Rectangle 10","text":"先确认四项准备：收到 OpenAI 开通邮件、收到 SNOW 完成邮件、已安装 ChatGPT Proxy Doctor，并已连接 Philips 办公网或 VPN。\n\n接着使用 Philips 账号登录 Enterprise ChatGPT。\n\n登录后不输入禁止处理的敏感数据；AI 输出先作为草稿，重要事实、判断和决定仍由员工确认。","textPreview":"先确认四项准备：收到 OpenAI 开通邮件、收到 SNOW 完成邮件、已安装 ChatGPT Proxy Doctor，并已连接 Philips 办公网或 VPN。 |  | 接着使用 Philips 账号登录 Enterprise ChatGPT。 |  | 登录后不输...","textChars":168,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/1cr2tg72","slide":18,"name":"Rectangle: Rounded Corners 11","text":"打开 AI Gateway  ↗","textPreview":"打开 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/7mpknmp0","slide":18,"name":"登录方向箭头","bbox":[493,338,54,42]}
+{"kind":"textbox","id":"sh/6lg3e18f","slide":18,"name":"检查图说明","text":"完成四项准备","textPreview":"完成四项准备","textChars":6,"textLines":1,"bbox":[105,214,370,30]}
+{"kind":"textbox","id":"sh/to72pw76","slide":18,"name":"检查完成 1","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[108,255,38,38]}
+{"kind":"textbox","id":"sh/snylgrql","slide":18,"name":"检查项 1","text":"收到 OpenAI 开通邮件","textPreview":"收到 OpenAI 开通邮件","textChars":14,"textLines":1,"bbox":[161,257,310,40]}
+{"kind":"textbox","id":"sh/bi94zqp4","slide":18,"name":"检查完成 2","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[108,317,38,38]}
+{"kind":"textbox","id":"sh/qh03ql8j","slide":18,"name":"检查项 2","text":"收到 SNOW 完成邮件","textPreview":"收到 SNOW 完成邮件","textChars":12,"textLines":1,"bbox":[161,319,310,40]}
+{"kind":"textbox","id":"sh/md4nipsr","slide":18,"name":"检查完成 3","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[108,379,38,38]}
+{"kind":"textbox","id":"sh/nedoru9c","slide":18,"name":"检查项 3","text":"ChatGPT Proxy Doctor 已安装","textPreview":"ChatGPT Proxy Doctor 已安装","textChars":24,"textLines":1,"bbox":[161,381,310,40]}
+{"kind":"textbox","id":"sh/8zm5kzax","slide":18,"name":"检查完成 4","text":"✓","textPreview":"✓","textChars":1,"textLines":1,"bbox":[108,441,38,38]}
+{"kind":"textbox","id":"sh/90v6t4ri","slide":18,"name":"检查项 4","text":"Philips 办公网或 VPN 已连接","textPreview":"Philips 办公网或 VPN 已连接","textChars":20,"textLines":1,"bbox":[161,443,310,40]}
+{"kind":"shape","id":"sh/a14nm9s3","slide":18,"name":"登录企业工作区","bbox":[558,257,190,220]}
+{"kind":"textbox","id":"sh/v2xovu9o","slide":18,"name":"登录标志","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[628,283,50,50]}
+{"kind":"textbox","id":"sh/w36poza9","slide":18,"name":"登录标题","text":"登录企业工作区","textPreview":"登录企业工作区","textChars":7,"textLines":1,"bbox":[563,346,180,34]}
+{"kind":"textbox","id":"sh/x4f6x4re","slide":18,"name":"登录说明","text":"使用 Philips 账号登录\nEnterprise ChatGPT","textPreview":"使用 Philips 账号登录 | Enterprise ChatGPT","textChars":34,"textLines":2,"bbox":[580,391,146,62]}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":"[Sources]\n- https://philips.service-now.com/itportal?id=kb_article&sysparm_article=KB1528249&sys_id=24240f5bfb794b54ae1afb576eefdc0f&spa=1\n- https://www.aigateway.ai.inside.philips.com/\n- Diagram summarizes the confirmed steps from slides 9–13"}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"02 Philips AI 全景与工具导航","textShapes":14}
+{"kind":"shape","id":"sh/qpgjex8f","slide":19,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/9gb6xgbi","slide":19,"name":"Rectangle 1","text":"02 Philips AI 全景与工具导航","textPreview":"02 Philips AI 全景与工具导航","textChars":21,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/8v2pobax","slide":19,"name":"Rectangle 2","text":"完成登录以后，仍然需要遵守企业使用边界","textPreview":"完成登录以后，仍然需要遵守企业使用边界","textChars":19,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/vitozqt8","slide":19,"name":"Rectangle 3","text":"账号和网络准备完成，只代表可以访问工具，并不代表可以忽略数据和人工复核要求。","textPreview":"账号和网络准备完成，只代表可以访问工具，并不代表可以忽略数据和人工复核要求。","textChars":38,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/ahk7qls3","slide":19,"name":"Rectangle 4","text":"14A","textPreview":"14A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/xkbq10be","slide":19,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/wj2psvat","slide":19,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/jmd83atk","slide":19,"name":"Rectangle 7","text":"登录后还要注意什么","textPreview":"登录后还要注意什么","textChars":9,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/il47u5sz","slide":19,"name":"Rectangle 8","text":"登录以前，先确认四项准备：已经收到 OpenAI 开通邮件，已经收到 SNOW 完成邮件，已经安装 ChatGPT Proxy Doctor，并且当前连接了 Philips 办公网或 VPN。\n\n确认以上条件以后，再使用 Philips 账号登录 Enterprise ChatGPT。如果页面无法打开，先回到四项检查中逐项排查，而不是自行配置未经批准的代理或其他网络方式。\n\n登录以后，不要输入禁止处理的敏感数据。AI 生成的内容应先作为草稿使用，涉及重要事实、判断和决定时，仍然需要由员工核对并承担最终责任。","textPreview":"登录以前，先确认四项准备：已经收到 OpenAI 开通邮件，已经收到 SNOW 完成邮件，已经安装 ChatGPT Proxy Doctor，并且当前连接了 Philips 办公网或 VPN。 |  | 确认以上条件以后，再使用 Philips 账号登录 Enterpris...","textChars":256,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/cri1gnql","slide":19,"name":"Rectangle 9","text":"能够登录只是开始，数据边界和人工确认贯穿整个使用过程。","textPreview":"能够登录只是开始，数据边界和人工确认贯穿整个使用过程。","textChars":27,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/dsri9sr6","slide":19,"name":"Rectangle: Rounded Corners 10","text":"打开 AI Gateway  ↗","textPreview":"打开 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/rqp07290","slide":19,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/0vi1k7qx","slide":19,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/1gridcr2","slide":19,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/et0jix8r","slide":19,"name":"逻辑标签 1","text":"登录检查","textPreview":"登录检查","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/zu90b29c","slide":19,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/oj21o7qt","slide":19,"name":"逻辑标签 2","text":"进入工作区","textPreview":"进入工作区","textChars":5,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/9kb2hcre","slide":19,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/x07i1cji","slide":19,"name":"逻辑标签 3","text":"负责使用","textPreview":"负责使用","textChars":4,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":"[Sources]\n- KB1528249 — 飞利浦中国用户 ChatGPT 申请与使用手册\n- https://www.aigateway.ai.inside.philips.com/"}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"PART 3","textShapes":5}
+{"kind":"shape","id":"sh/3ml0rmpw","slide":20,"name":"Rectangle 6","bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/qpwjmh8n","slide":20,"name":"Rectangle 1","text":"PART 3","textPreview":"PART 3","textChars":6,"textLines":1,"bbox":[84,88,350,36]}
+{"kind":"textbox","id":"sh/rq50vmp8","slide":20,"name":"Rectangle 2","text":"Philips GCR AI Ambassador","textPreview":"Philips GCR AI Ambassador","textChars":25,"textLines":1,"bbox":[84,160,1030,115]}
+{"kind":"textbox","id":"sh/4nu1krqh","slide":20,"name":"Rectangle 3","text":"这一部分介绍 GCR AI Ambassador 支持网络，以及遇到不同问题时应该找谁。\n\n首先认识 Champion、Ambassador、Catalyst 和 Guru 的分工：有人负责方向，有人推动学习，有人梳理业务场景，也有人连接技术资源。\n\n随后通过名单找到自己部门、业务单元或市场的联系人。学习和工具问题可以先咨询 Ambassador，业务决定与数据授权仍由本部门负责人确认。","textPreview":"这一部分介绍 GCR AI Ambassador 支持网络，以及遇到不同问题时应该找谁。 |  | 首先认识 Champion、Ambassador、Catalyst 和 Guru 的分工：有人负责方向，有人推动学习，有人梳理业务场景，也有人连接技术资源。 |  | 随后通...","textChars":195,"textLines":5,"bbox":[84,306,1020,245]}
+{"kind":"textbox","id":"sh/po3itc72","slide":20,"name":"Rectangle: Rounded Corners 4","text":"进入 AI Gateway  ↗","textPreview":"进入 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[84,602,232,36]}
+{"kind":"textbox","id":"sh/2lczih8r","slide":20,"name":"Rectangle: Rounded Corners 5","text":"查看 AI Tool Lab  ↗","textPreview":"查看 AI Tool Lab  ↗","textChars":17,"textLines":1,"bbox":[336,602,232,36]}
+{"kind":"notes","id":"nt/zyxsni5k","slide":20,"text":"[Sources]\n- https://www.aigateway.ai.inside.philips.com/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/"}
+{"kind":"slide","id":"sl/m1wvqtk3","slide":21,"title":"03 GCR AI Ambassador","textShapes":22}
+{"kind":"shape","id":"sh/5c32hcvy","slide":21,"name":"Rectangle 32","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/1gbmxs7a","slide":21,"name":"Rectangle 1","text":"03 GCR AI Ambassador","textPreview":"03 GCR AI Ambassador","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/0f2lon6p","slide":21,"name":"Rectangle 2","text":"GCR AI Network：四类角色分别提供方向、推广、场景和技术支持","textPreview":"GCR AI Network：四类角色分别提供方向、推广、场景和技术支持","textChars":36,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/ra9kryp8","slide":21,"name":"Rectangle 3","text":"Champion 负责方向，Ambassador 组织学习和推广，Catalysts 从日常流程中寻找适合 AI 的任务，Guru 把业务问题连接到合适的技术资源。","textPreview":"Champion 负责方向，Ambassador 组织学习和推广，Catalysts 从日常流程中寻找适合 AI 的任务，Guru 把业务问题连接到合适的技术资源。","textChars":82,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/qp03yt8n","slide":21,"name":"Rectangle 4","text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/dcb2t87y","slide":21,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/sb2lk36t","slide":21,"name":"Rectangle: Rounded Corners 6","bbox":[82,188,1096,78]}
+{"kind":"shape","id":"sh/b6d432pc","slide":21,"name":"Oval 7","bbox":[104,204,46,46]}
+{"kind":"textbox","id":"sh/al43uxor","slide":21,"name":"Rectangle 8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[104,214,46,24]}
+{"kind":"textbox","id":"sh/4jax4nqd","slide":21,"name":"Rectangle 9","text":"AI 先锋｜Champion","textPreview":"AI 先锋｜Champion","textChars":14,"textLines":1,"bbox":[174,202,310,30]}
+{"kind":"textbox","id":"sh/5kjydsri","slide":21,"name":"Rectangle 10","text":"Yiqiu Chen","textPreview":"Yiqiu Chen","textChars":10,"textLines":1,"bbox":[174,235,310,20]}
+{"kind":"textbox","id":"sh/ixsf2d87","slide":21,"name":"Rectangle 11","text":"制定战略方向，聚焦高价值场景，推动 AI 创造业务价值。","textPreview":"制定战略方向，聚焦高价值场景，推动 AI 创造业务价值。","textChars":28,"textLines":1,"bbox":[510,208,630,42]}
+{"kind":"shape","id":"sh/jy1gbi9s","slide":21,"name":"Rectangle: Rounded Corners 12","bbox":[82,283,1096,78]}
+{"kind":"shape","id":"sh/wvax03q1","slide":21,"name":"Oval 13","bbox":[104,299,46,46]}
+{"kind":"textbox","id":"sh/hwjy98rm","slide":21,"name":"Rectangle 14","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[104,309,46,24]}
+{"kind":"textbox","id":"sh/utsfyt8v","slide":21,"name":"Rectangle 15","text":"AI 大使｜Ambassador","textPreview":"AI 大使｜Ambassador","textChars":16,"textLines":1,"bbox":[174,297,310,30]}
+{"kind":"textbox","id":"sh/vu1w7y9g","slide":21,"name":"Rectangle 16","text":"24 people","textPreview":"24 people","textChars":9,"textLines":1,"bbox":[174,330,310,20]}
+{"kind":"textbox","id":"sh/8rqxw3q5","slide":21,"name":"Rectangle 17","text":"组织学习和经验分享，帮助更多团队了解并使用合适的 AI 工具。","textPreview":"组织学习和经验分享，帮助更多团队了解并使用合适的 AI 工具。","textChars":31,"textLines":1,"bbox":[510,303,630,42]}
+{"kind":"shape","id":"sh/9sze58rq","slide":21,"name":"Rectangle: Rounded Corners 18","bbox":[82,378,1096,78]}
+{"kind":"shape","id":"sh/porutkje","slide":21,"name":"Oval 19","bbox":[104,394,46,46]}
+{"kind":"textbox","id":"sh/onid0f2t","slide":21,"name":"Rectangle 20","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[104,404,46,24]}
+{"kind":"textbox","id":"sh/nm9cru18","slide":21,"name":"Rectangle 21","text":"AI 推动者｜Catalysts","textPreview":"AI 推动者｜Catalysts","textChars":16,"textLines":1,"bbox":[174,392,310,30]}
+{"kind":"textbox","id":"sh/2l0vypkn","slide":21,"name":"Rectangle 22","text":"每个团队约 5%–10%","textPreview":"每个团队约 5%–10%","textChars":12,"textLines":1,"bbox":[174,425,310,20]}
+{"kind":"textbox","id":"sh/1kru5kj2","slide":21,"name":"Rectangle 23","text":"熟悉业务流程，从日常工作中寻找切入点，推动 AI 融入真实工作流。","textPreview":"熟悉业务流程，从日常工作中寻找切入点，推动 AI 融入真实工作流。","textChars":33,"textLines":1,"bbox":[510,398,630,42]}
+{"kind":"shape","id":"sh/0jidwf2x","slide":21,"name":"Rectangle: Rounded Corners 24","bbox":[82,473,1096,78]}
+{"kind":"shape","id":"sh/fi9c3a1c","slide":21,"name":"Oval 25","bbox":[104,489,46,46]}
+{"kind":"textbox","id":"sh/ehgvu5kr","slide":21,"name":"Rectangle 26","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[104,499,46,24]}
+{"kind":"textbox","id":"sh/lgbe14jm","slide":21,"name":"Rectangle 27","text":"AI 专家｜Guru","textPreview":"AI 专家｜Guru","textChars":10,"textLines":1,"bbox":[174,487,310,30]}
+{"kind":"textbox","id":"sh/kf2d8zi1","slide":21,"name":"Rectangle 28","text":"每个团队约 3%","textPreview":"每个团队约 3%","textChars":8,"textLines":1,"bbox":[174,520,310,20]}
+{"kind":"textbox","id":"sh/ipcjmhw7","slide":21,"name":"Rectangle 29","text":"把业务问题连接到合适的技术资源，并在开发、运行和改进过程中提供支持。","textPreview":"把业务问题连接到合适的技术资源，并在开发、运行和改进过程中提供支持。","textChars":34,"textLines":1,"bbox":[510,493,630,42]}
+{"kind":"textbox","id":"sh/jqlkfmds","slide":21,"name":"Rectangle: Rounded Corners 30","text":"回到 AI Gateway  ↗","textPreview":"回到 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"textbox","id":"sh/4ru1o7ed","slide":21,"name":"Rectangle: Rounded Corners 31","text":"继续探索 AI Tool Lab  ↗","textPreview":"继续探索 AI Tool Lab  ↗","textChars":19,"textLines":1,"bbox":[320,616,260,36]}
+{"kind":"notes","id":"nt/m1wvqtk3","slide":21,"text":"[Sources]\n- [Updated] Jul. townhall AI slide.pptx — slide 3\n- https://www.aigateway.ai.inside.philips.com/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/"}
+{"kind":"slide","id":"sl/5onypobq","slide":22,"title":"03 GCR AI Ambassador","textShapes":14}
+{"kind":"shape","id":"sh/3ixor29c","slide":22,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/6987itcr","slide":22,"name":"Rectangle 1","text":"03 GCR AI Ambassador","textPreview":"03 GCR AI Ambassador","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/7a18rydc","slide":22,"name":"Rectangle 2","text":"遇到不同问题时，需要寻找不同类型的支持","textPreview":"遇到不同问题时，需要寻找不同类型的支持","textChars":19,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/k7qpgjul","slide":22,"name":"Rectangle 3","text":"四类角色共同组成支持网络，但每一类角色承担的责任并不相同。","textPreview":"四类角色共同组成支持网络，但每一类角色承担的责任并不相同。","textChars":29,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/58zqpov6","slide":22,"name":"Rectangle 4","text":"16A","textPreview":"16A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/il87etcv","slide":22,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/jmh8nyd0","slide":22,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/43u9snu5","slide":22,"name":"Rectangle 7","text":"如何找到合适的支持","textPreview":"如何找到合适的支持","textChars":9,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/p43q1sva","slide":22,"name":"Rectangle 8","text":"Champion 负责确定整体方向和高价值场景，Ambassador 负责组织学习、分享经验，并帮助更多团队理解可以使用哪些工具。这两类角色主要解决方向和推广问题。\n\nCatalysts 更接近日常业务流程，他们会从真实工作中寻找适合 AI 的切入点。Guru 则把业务问题连接到合适的技术资源，并在开发、运行和改进过程中提供专业支持。\n\n因此，遇到学习和工具使用问题时，可以先联系 Ambassador；需要梳理业务场景时可以寻找 Catalysts；涉及技术实现和持续改进时，再与 Guru 及相关技术团队协作。","textPreview":"Champion 负责确定整体方向和高价值场景，Ambassador 负责组织学习、分享经验，并帮助更多团队理解可以使用哪些工具。这两类角色主要解决方向和推广问题。 |  | Catalysts 更接近日常业务流程，他们会从真实工作中寻找适合 AI 的切入点。Guru 则把...","textChars":258,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/p4z6tcri","slide":22,"name":"Rectangle 9","text":"先判断问题属于方向、推广、场景还是技术，再寻找对应角色。","textPreview":"先判断问题属于方向、推广、场景还是技术，再寻找对应角色。","textChars":28,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/436507qx","slide":22,"name":"Rectangle: Rounded Corners 10","text":"回到 AI Gateway  ↗","textPreview":"回到 AI Gateway  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/2honyx8r","slide":22,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/hgf6pcr6","slide":22,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/gf65w7ql","slide":22,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/fexon290","slide":22,"name":"逻辑标签 1","text":"确定方向","textPreview":"确定方向","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/udonux8v","slide":22,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/1cj61w7q","slide":22,"name":"逻辑标签 2","text":"梳理场景","textPreview":"梳理场景","textChars":4,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/0bap8rq5","slide":22,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/krihkz2d","slide":22,"name":"逻辑标签 3","text":"技术支持","textPreview":"技术支持","textChars":4,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/5onypobq","slide":22,"text":"[Sources]\n- GCR AI Network role material already cited on slide 16"}
+{"kind":"slide","id":"sl/c7uhcr6t","slide":23,"title":"03 GCR AI Ambassador","textShapes":8}
+{"kind":"shape","id":"sh/0fi94jmx","slide":23,"name":"Rectangle 13","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/90vqdczq","slide":23,"name":"Rectangle 1","text":"03 GCR AI Ambassador","textPreview":"03 GCR AI Ambassador","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/8zm9k7y5","slide":23,"name":"Rectangle 2","text":"按部门或业务单元找到对应的 AI Ambassador","textPreview":"按部门或业务单元找到对应的 AI Ambassador","textChars":27,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/v2d8fmhw","slide":23,"name":"Rectangle 3","text":"Alison Gu 担任 GCR AI Ambassador Representative Chair。名单按部门或业务单元、管理负责人和 AI Ambassador 三列排列。找到支持网络后，接下来进入 Copilot 的具体学习和实操。","textPreview":"Alison Gu 担任 GCR AI Ambassador Representative Chair。名单按部门或业务单元、管理负责人和 AI Ambassador 三列排列。找到支持网络后，接下来进入 Copilot 的具体学习和实操。","textChars":120,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/a14rmhgb","slide":23,"name":"Rectangle 4","text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/xovqhcz2","slide":23,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/jqd8jmhs","slide":23,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,384]}
+{"kind":"shape","id":"sh/ip4rqhgn","slide":23,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,380]}
+{"kind":"textbox","id":"sh/sby90zm1","slide":23,"name":"Rectangle 9","text":"关键内容","textPreview":"关键内容","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/tc7at436","slide":23,"name":"Rectangle 10","text":"首先看覆盖范围：名单包括市场、财务、法务、人力资源、战略、质量、法规、临床、创新、IT，以及各业务单元和区域市场。\n\n接着看角色分工：Function Lead 负责业务管理；AI Ambassador 分享学习资源和实践经验，帮助团队梳理适合 AI 的问题。\n\n使用时，先在第一列找到部门或业务单元，再查看同一行的大使；工具和学习问题可与大使交流，业务决定和数据授权仍由本部门负责人确认。","textPreview":"首先看覆盖范围：名单包括市场、财务、法务、人力资源、战略、质量、法规、临床、创新、IT，以及各业务单元和区域市场。 |  | 接着看角色分工：Function Lead 负责业务管理；AI Ambassador 分享学习资源和实践经验，帮助团队梳理适合 AI 的问题。 | ...","textChars":195,"textLines":5,"bbox":[824,251,360,292]}
+{"kind":"textbox","id":"sh/69gry94v","slide":23,"name":"Rectangle: Rounded Corners 11","text":"进入 Copilot 学习与实操  ↗","textPreview":"进入 Copilot 学习与实操  ↗","textChars":19,"textLines":1,"bbox":[72,616,280,36]}
+{"kind":"textbox","id":"sh/rapsrelg","slide":23,"name":"Rectangle: Rounded Corners 12","text":"打开 M365 Copilot  ↗","textPreview":"打开 M365 Copilot  ↗","textChars":18,"textLines":1,"bbox":[370,616,230,36]}
+{"kind":"image","id":"im/694nu1of","slide":23,"name":"Picture 21","geometry":"roundRect","bbox":[72,187.2,702,375.59]}
+{"kind":"notes","id":"nt/c7uhcr6t","slide":23,"text":"[Sources]\n- User-provided GCR AI Ambassador image\n- https://www.aigateway.ai.inside.philips.com/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/"}
+{"kind":"slide","id":"sl/7qto7e10","slide":24,"title":"PART 4","textShapes":6}
+{"kind":"shape","id":"sh/3ydonyd8","slide":24,"name":"Rectangle 7","bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/1sfqxsv6","slide":24,"name":"Rectangle 1","text":"PART 4","textPreview":"PART 4","textChars":6,"textLines":1,"bbox":[84,88,350,36]}
+{"kind":"textbox","id":"sh/0r6p4nul","slide":24,"name":"Rectangle 2","text":"日常工作中的 Copilot 实操","textPreview":"日常工作中的 Copilot 实操","textChars":17,"textLines":1,"bbox":[84,160,1030,115]}
+{"kind":"textbox","id":"sh/nux8zidc","slide":24,"name":"Rectangle 3","text":"这一部分不只是介绍 Copilot 的按钮，而是练习怎样把真实资料转化为可以行动的结果。\n\n首先从 AI Skills Navigator 找到官方学习内容，再进入 MS-4004，观察不同岗位怎样使用 Copilot。\n\n随后用绿色办公周案例完整练习：加入资料、写清提示词、核对冲突，并把结果整理成项目简报和跟进邮件。","textPreview":"这一部分不只是介绍 Copilot 的按钮，而是练习怎样把真实资料转化为可以行动的结果。 |  | 首先从 AI Skills Navigator 找到官方学习内容，再进入 MS-4004，观察不同岗位怎样使用 Copilot。 |  | 随后用绿色办公周案例完整练习：加入...","textChars":160,"textLines":5,"bbox":[84,306,1020,245]}
+{"kind":"textbox","id":"sh/2to76dcr","slide":24,"name":"Rectangle: Rounded Corners 4","text":"AI Skills Navigator  ↗","textPreview":"AI Skills Navigator  ↗","textChars":22,"textLines":1,"bbox":[84,602,232,36]}
+{"kind":"textbox","id":"sh/9wzq1svi","slide":24,"name":"Rectangle: Rounded Corners 5","text":"MS-4004 学习路径  ↗","textPreview":"MS-4004 学习路径  ↗","textChars":15,"textLines":1,"bbox":[336,602,232,36]}
+{"kind":"textbox","id":"sh/ov6p8nux","slide":24,"name":"Rectangle: Rounded Corners 6","text":"打开 M365 Copilot  ↗","textPreview":"打开 M365 Copilot  ↗","textChars":18,"textLines":1,"bbox":[588,602,232,36]}
+{"kind":"notes","id":"nt/7qto7e10","slide":24,"text":"[Sources]\n- https://aiskillsnavigator.microsoft.com/\n- https://aiskillsnavigator.microsoft.com/playlists/291ff1ba-c754-44f1-9814-ef8917f8c989\n- https://m365.cloud.microsoft/chat"}
+{"kind":"slide","id":"sl/69wfm9o7","slide":25,"title":"04 日常工作中的 Copilot 实操","textShapes":7}
+{"kind":"shape","id":"sh/vy1sj694","slide":25,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/xg7axgf2","slide":25,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/cfyt4beh","slide":25,"name":"Rectangle 2","text":"AI Skills Navigator：从 For you 首页开始选择学习内容","textPreview":"AI Skills Navigator：从 For you 首页开始选择学习内容","textChars":40,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/napsr6x0","slide":25,"name":"Rectangle 3","text":"AI Skills Navigator 是微软官方 AI 学习网站。For you 首页根据学习记录和个人资料推荐内容，左侧提供课程搜索、学习播放列表、证书和学习报告等入口。","textPreview":"AI Skills Navigator 是微软官方 AI 学习网站。For you 首页根据学习记录和个人资料推荐内容，左侧提供课程搜索、学习播放列表、证书和学习报告等入口。","textChars":87,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/29wby1wf","slide":25,"name":"Rectangle 4","text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/pc7atgf6","slide":25,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/fm5snmx4","slide":25,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/elwbu1wj","slide":25,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/wza9cbqp","slide":25,"name":"Rectangle 9","text":"首页怎么使用","textPreview":"首页怎么使用","textChars":6,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/h0jalgra","slide":25,"name":"Rectangle 10","text":"首先看左侧导航：For you 查看个性化内容，Explore content 搜索主题，Skilling playlists 进入学习路径，Credentials 和 Reporting 查看证书与记录。\n\n接着看首页推荐：Recommended for you 展示课程，Pick up where you left off 用于继续学习，右上角提示帮助保持学习习惯。\n\n首次进入时先更新 profile，再按岗位或工作问题搜索；Bootcamp 结束后也可以从这里继续学习。","textPreview":"首先看左侧导航：For you 查看个性化内容，Explore content 搜索主题，Skilling playlists 进入学习路径，Credentials 和 Reporting 查看证书与记录。 |  | 接着看首页推荐：Recommended for you ...","textChars":240,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/uxsra18j","slide":25,"name":"Rectangle: Rounded Corners 11","text":"访问微软官方学习网站  ↗","textPreview":"访问微软官方学习网站  ↗","textChars":13,"textLines":1,"bbox":[72,616,280,36]}
+{"kind":"image","id":"im/vap0v2lo","slide":25,"name":"Picture 20","geometry":"roundRect","bbox":[72,193.53,702,372.94]}
+{"kind":"notes","id":"nt/69wfm9o7","slide":25,"text":"[Sources]\n- User-provided AI Skills Navigator screenshot\n- https://aiskillsnavigator.microsoft.com/"}
+{"kind":"slide","id":"sl/l0bepsfm","slide":26,"title":"04 日常工作中的 Copilot 实操","textShapes":7}
+{"kind":"shape","id":"sh/y5sr69kr","slide":26,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/uhk36lk7","slide":26,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/vitkzqlc","slide":26,"name":"Rectangle 2","text":"Skilling playlists：把相关课程放进一条学习路线","textPreview":"Skilling playlists：把相关课程放进一条学习路线","textChars":32,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/8fil4b21","slide":26,"name":"Rectangle 3","text":"当前页面打开的是 Philips: Summer 2026 M365 Copilot Courses。顶部显示学习内容数量和完成进度，下面按顺序排列 AI 基础、Copilot Chat 基础和 MS-4004 业务案例。","textPreview":"当前页面打开的是 Philips: Summer 2026 M365 Copilot Courses。顶部显示学习内容数量和完成进度，下面按顺序排列 AI 基础、Copilot Chat 基础和 MS-4004 业务案例。","textChars":111,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/tgr2xg3m","slide":26,"name":"Rectangle 4","text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/md0321kv","slide":26,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/kbil0r2p","slide":26,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/lcr2tw3a","slide":26,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/lsja143i","slide":26,"name":"Rectangle 9","text":"播放列表的结构","textPreview":"播放列表的结构","textChars":7,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/krat8z2x","slide":26,"name":"Rectangle 10","text":"首先看顶部信息：33 items 表示共有 33 项内容，进度条显示完成比例，Continue learning 用于回到上次位置。\n\n建议先完成 AI 和 Copilot Chat 基础，熟悉提示词、文件分析和协作方式，再进入 Microsoft 365 Copilot Use Cases（MS-4004）。\n\n向下滚动即可找到 MS-4004；其中的案例按管理者、销售、市场、财务、IT、人力资源、运营、企业沟通、客户服务和法务分类。","textPreview":"首先看顶部信息：33 items 表示共有 33 项内容，进度条显示完成比例，Continue learning 用于回到上次位置。 |  | 建议先完成 AI 和 Copilot Chat 基础，熟悉提示词、文件分析和协作方式，再进入 Microsoft 365 Copi...","textChars":220,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/z61szulc","slide":26,"name":"Rectangle: Rounded Corners 11","text":"打开当前播放列表  ↗","textPreview":"打开当前播放列表  ↗","textChars":11,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"image","id":"im/qpofa1sn","slide":26,"name":"Picture 20","geometry":"roundRect","bbox":[72,193.53,702,372.94]}
+{"kind":"notes","id":"nt/l0bepsfm","slide":26,"text":"[Sources]\n- User-provided AI Skills Navigator screenshot\n- https://aiskillsnavigator.microsoft.com/playlists/291ff1ba-c754-44f1-9814-ef8917f8c989"}
+{"kind":"slide","id":"sl/4vyxknqp","slide":27,"title":"04 日常工作中的 Copilot 实操","textShapes":8}
+{"kind":"shape","id":"sh/bq5gr298","slide":27,"name":"Rectangle 13","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/kn694nmx","slide":27,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/lofadsni","slide":27,"name":"Rectangle 2","text":"从左侧目录进入 MS-4004，再按岗位选择案例","textPreview":"从左侧目录进入 MS-4004，再按岗位选择案例","textChars":24,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/mpor6x43","slide":27,"name":"Rectangle 3","text":"进入课程后，左侧目录列出播放列表中的课程和单元。当前截图选中的是 Copilot Chat Basic 的介绍单元；向下找到 MS-4004 并展开，就可以进入不同岗位的案例。","textPreview":"进入课程后，左侧目录列出播放列表中的课程和单元。当前截图选中的是 Copilot Chat Basic 的介绍单元；向下找到 MS-4004 并展开，就可以进入不同岗位的案例。","textChars":88,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/7qxsfi5o","slide":27,"name":"Rectangle 4","text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/8r698nm9","slide":27,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/utobax4f","slide":27,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/vuxsj250","slide":27,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/ju5gv294","slide":27,"name":"Rectangle 9","text":"课程页面怎么读","textPreview":"课程页面怎么读","textChars":7,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/ytwfmx8j","slide":27,"name":"Rectangle 10","text":"首先看左侧目录：点击课程名称可以展开单元；当前基础模块包括介绍、Copilot Pages、Agents、练习和总结，下方就是 MS-4004。\n\n接着看右侧学习区：这里显示正文、提醒和学习目标，顶部还提供单元总结和播客等复习功能。\n\n今天先记住课程入口，再进入 MS-4004 选择接近自己岗位的案例；后面的实操会练习其中可以跨岗位复用的方法。","textPreview":"首先看左侧目录：点击课程名称可以展开单元；当前基础模块包括介绍、Copilot Pages、Agents、练习和总结，下方就是 MS-4004。 |  | 接着看右侧学习区：这里显示正文、提醒和学习目标，顶部还提供单元总结和播客等复习功能。 |  | 今天先记住课程入口，再...","textChars":173,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/lw7yxcra","slide":27,"name":"Rectangle: Rounded Corners 11","text":"打开 MS-4004 播放列表  ↗","textPreview":"打开 MS-4004 播放列表  ↗","textChars":18,"textLines":1,"bbox":[72,616,280,36]}
+{"kind":"textbox","id":"sh/kvyxo7qp","slide":27,"name":"Rectangle: Rounded Corners 12","text":"查看 Microsoft Learn  ↗","textPreview":"查看 Microsoft Learn  ↗","textChars":21,"textLines":1,"bbox":[370,616,250,36]}
+{"kind":"image","id":"im/dori5s3u","slide":27,"name":"Picture 21","geometry":"roundRect","bbox":[72,193.53,702,372.94]}
+{"kind":"notes","id":"nt/4vyxknqp","slide":27,"text":"[Sources]\n- User-provided AI Skills Navigator screenshot\n- https://aiskillsnavigator.microsoft.com/playlists/291ff1ba-c754-44f1-9814-ef8917f8c989\n- https://learn.microsoft.com/zh-cn/training/courses/ms-4004"}
+{"kind":"slide","id":"sl/3mdove10","slide":28,"title":"04 日常工作中的 Copilot 实操","textShapes":26}
+{"kind":"shape","id":"sh/ix4zaxsn","slide":28,"name":"Rectangle 38","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/q9cz6xkv","slide":28,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/ralgf21g","slide":28,"name":"Rectangle 2","text":"MS-4004 覆盖的十类岗位","textPreview":"MS-4004 覆盖的十类岗位","textChars":15,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/0zehcr2x","slide":28,"name":"Rectangle 3","text":"MS-4004 按岗位组织 Copilot 案例。浏览时可以先看与自己最接近的岗位，也可以直接寻找熟悉的任务，例如读懂上下文、比较多份资料、整理风险和起草下一步沟通。","textPreview":"MS-4004 按岗位组织 Copilot 案例。浏览时可以先看与自己最接近的岗位，也可以直接寻找熟悉的任务，例如读懂上下文、比较多份资料、整理风险和起草下一步沟通。","textChars":83,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/10nylwji","slide":28,"name":"Rectangle 4","text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/exwzahkr","slide":28,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/zy5gjm1c","slide":28,"name":"Rectangle: Rounded Corners 6","bbox":[82,210,206,102]}
+{"kind":"textbox","id":"sh/o3ehgr29","slide":28,"name":"Rectangle 7","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[102,230,38,25]}
+{"kind":"textbox","id":"sh/947ipwje","slide":28,"name":"Rectangle 8","text":"管理者","textPreview":"管理者","textChars":3,"textLines":1,"bbox":[145,226,125,38]}
+{"kind":"shape","id":"sh/lg3690fq","slide":28,"name":"Rectangle: Rounded Corners 9","bbox":[314,210,206,102]}
+{"kind":"textbox","id":"sh/kfu5gfe5","slide":28,"name":"Rectangle 10","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[334,230,38,25]}
+{"kind":"textbox","id":"sh/je1o7ax0","slide":28,"name":"Rectangle 11","text":"销售","textPreview":"销售","textChars":2,"textLines":1,"bbox":[377,226,125,38]}
+{"kind":"shape","id":"sh/ytsne5wf","slide":28,"name":"Rectangle: Rounded Corners 12","bbox":[546,210,206,102]}
+{"kind":"textbox","id":"sh/tk36dkf2","slide":28,"name":"Rectangle 13","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[566,230,38,25]}
+{"kind":"textbox","id":"sh/8ju5kfeh","slide":28,"name":"Rectangle 14","text":"市场营销","textPreview":"市场营销","textChars":4,"textLines":1,"bbox":[609,226,125,38]}
+{"kind":"shape","id":"sh/7ilobaxw","slide":28,"name":"Rectangle: Rounded Corners 15","bbox":[778,210,206,102]}
+{"kind":"textbox","id":"sh/6hcni5wb","slide":28,"name":"Rectangle 16","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[798,230,38,25]}
+{"kind":"textbox","id":"sh/9ojm1gfi","slide":28,"name":"Rectangle 17","text":"财务","textPreview":"财务","textChars":2,"textLines":1,"bbox":[841,226,125,38]}
+{"kind":"shape","id":"sh/ona58ved","slide":28,"name":"Rectangle: Rounded Corners 18","bbox":[1010,210,206,102]}
+{"kind":"textbox","id":"sh/0jex4fq5","slide":28,"name":"Rectangle 19","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1030,230,38,25]}
+{"kind":"textbox","id":"sh/1knedkrq","slide":28,"name":"Rectangle 20","text":"IT","textPreview":"IT","textChars":2,"textLines":1,"bbox":[1073,226,125,38]}
+{"kind":"shape","id":"sh/ehwf2p8z","slide":28,"name":"Rectangle: Rounded Corners 21","bbox":[82,345,206,102]}
+{"kind":"textbox","id":"sh/zi5wba9k","slide":28,"name":"Rectangle 22","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[102,365,38,25]}
+{"kind":"textbox","id":"sh/o7yx8zqh","slide":28,"name":"Rectangle 23","text":"人力资源","textPreview":"人力资源","textChars":4,"textLines":1,"bbox":[145,361,125,38]}
+{"kind":"shape","id":"sh/987eh4rm","slide":28,"name":"Rectangle: Rounded Corners 24","bbox":[314,345,206,102]}
+{"kind":"textbox","id":"sh/m5wf6p8b","slide":28,"name":"Rectangle 25","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[334,365,38,25]}
+{"kind":"textbox","id":"sh/n6pwfu9w","slide":28,"name":"Rectangle 26","text":"运营","textPreview":"运营","textChars":2,"textLines":1,"bbox":[377,361,125,38]}
+{"kind":"shape","id":"sh/wbyxczqd","slide":28,"name":"Rectangle: Rounded Corners 27","bbox":[546,345,206,102]}
+{"kind":"textbox","id":"sh/xc7yl4ry","slide":28,"name":"Rectangle 28","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[566,365,38,25]}
+{"kind":"textbox","id":"sh/76t0byt0","slide":28,"name":"Rectangle 29","text":"企业沟通","textPreview":"企业沟通","textChars":4,"textLines":1,"bbox":[609,361,125,38]}
+{"kind":"shape","id":"sh/65kz2tsf","slide":28,"name":"Rectangle: Rounded Corners 30","bbox":[778,345,206,102]}
+{"kind":"textbox","id":"sh/t8bid8b6","slide":28,"name":"Rectangle 31","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[798,365,38,25]}
+{"kind":"textbox","id":"sh/872h43al","slide":28,"name":"Rectangle 32","text":"客户服务","textPreview":"客户服务","textChars":4,"textLines":1,"bbox":[841,361,125,38]}
+{"kind":"shape","id":"sh/j2907yt4","slide":28,"name":"Rectangle: Rounded Corners 33","bbox":[1010,345,206,102]}
+{"kind":"textbox","id":"sh/y10zytsj","slide":28,"name":"Rectangle 34","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1030,365,38,25]}
+{"kind":"textbox","id":"sh/l4ri98ba","slide":28,"name":"Rectangle 35","text":"法务","textPreview":"法务","textChars":2,"textLines":1,"bbox":[1073,361,125,38]}
+{"kind":"textbox","id":"sh/k3ih03ap","slide":28,"name":"Rectangle 36","text":"首先，可以从与自己最接近的岗位进入 MS-4004，例如管理、销售、市场、财务、IT 或人力资源。接着，不要停留在岗位名称上，而要观察案例实际解决的是阅读资料、比较来源、整理风险还是起草沟通。这样学习到的方法才能跨越岗位，迁移到自己的日常工作。","textPreview":"首先，可以从与自己最接近的岗位进入 MS-4004，例如管理、销售、市场、财务、IT 或人力资源。接着，不要停留在岗位名称上，而要观察案例实际解决的是阅读资料、比较来源、整理风险还是起草沟通。这样学习到的方法才能跨越岗位，迁移到自己的日常工作。","textChars":122,"textLines":1,"bbox":[130,485,1020,105]}
+{"kind":"textbox","id":"sh/3yd0jit8","slide":28,"name":"Rectangle: Rounded Corners 37","text":"进入 MS-4004  ↗","textPreview":"进入 MS-4004  ↗","textChars":13,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/3mdove10","slide":28,"text":"[Sources]\n- https://aiskillsnavigator.microsoft.com/playlists/291ff1ba-c754-44f1-9814-ef8917f8c989\n- https://learn.microsoft.com/zh-cn/training/courses/ms-4004"}
+{"kind":"slide","id":"sl/i5o3q10v","slide":29,"title":"04 日常工作中的 Copilot 实操","textShapes":14}
+{"kind":"shape","id":"sh/idkbuxsv","slide":29,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/tk36hwby","slide":29,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/8jup8rad","slide":29,"name":"Rectangle 2","text":"可以从岗位进入课程，但不要被岗位名称限制","textPreview":"可以从岗位进入课程，但不要被岗位名称限制","textChars":20,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/vmlojmto","slide":29,"name":"Rectangle 3","text":"MS-4004 用岗位组织案例，真正可以迁移到日常工作的，是案例背后的通用任务。","textPreview":"MS-4004 用岗位组织案例，真正可以迁移到日常工作的，是案例背后的通用任务。","textChars":40,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/ulc7a1s3","slide":29,"name":"Rectangle 4","text":"22A","textPreview":"22A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/h8n6lwbu","slide":29,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/g7upcra9","slide":29,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/bq1o72tk","slide":29,"name":"Rectangle 7","text":"如何选择学习入口","textPreview":"如何选择学习入口","textChars":8,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/apsnyxcz","slide":29,"name":"Rectangle 8","text":"首先，可以从与自己最接近的岗位开始浏览。管理者、销售、市场、财务、IT、人力资源、运营、企业沟通、客户服务和法务，都有对应的 Copilot 案例。\n\n接着，不要只看岗位名称，还要观察案例实际解决的任务。例如，快速理解上下文、比较多份资料、整理风险、准备会议和起草沟通，这些任务通常会跨越多个岗位。\n\n因此，学习时可以先选择熟悉的场景，再把其中的提示词结构、资料处理方式和检查方法迁移到自己的工作，而不是机械复制案例中的岗位背景。","textPreview":"首先，可以从与自己最接近的岗位开始浏览。管理者、销售、市场、财务、IT、人力资源、运营、企业沟通、客户服务和法务，都有对应的 Copilot 案例。 |  | 接着，不要只看岗位名称，还要观察案例实际解决的任务。例如，快速理解上下文、比较多份资料、整理风险、准备会议和起草沟...","textChars":215,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/kf2tw7a1","slide":29,"name":"Rectangle 9","text":"岗位帮助你找到入口，通用任务决定方法能否迁移到自己的工作。","textPreview":"岗位帮助你找到入口，通用任务决定方法能否迁移到自己的工作。","textChars":29,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/5gbupcrm","slide":29,"name":"Rectangle: Rounded Corners 10","text":"进入 MS-4004  ↗","textPreview":"进入 MS-4004  ↗","textChars":13,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/jetc329g","slide":29,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/s32t07ax","slide":29,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/t4butcri","slide":29,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/6hkbyhs7","slide":29,"name":"逻辑标签 1","text":"选择岗位","textPreview":"选择岗位","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/7itcr29s","slide":29,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/87itonat","slide":29,"name":"逻辑标签 2","text":"识别任务","textPreview":"识别任务","textChars":4,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/98ruxsre","slide":29,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/p4jal432","slide":29,"name":"逻辑标签 3","text":"迁移方法","textPreview":"迁移方法","textChars":4,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/i5o3q10v","slide":29,"text":"[Sources]\n- Microsoft MS-4004 playlist already cited on slide 22"}
+{"kind":"slide","id":"sl/wnqh07ex","slide":30,"title":"04 日常工作中的 Copilot 实操","textShapes":17}
+{"kind":"shape","id":"sh/5srmpw7u","slide":30,"name":"Rectangle 27","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/po72d8nm","slide":30,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/o3yl4361","slide":30,"name":"Rectangle 2","text":"把岗位差异提炼为四类通用任务","textPreview":"把岗位差异提炼为四类通用任务","textChars":14,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/bqpkfy5s","slide":30,"name":"Rectangle 3","text":"无论岗位是什么，Copilot 的高频价值通常集中在“读、理、查、写”。课堂案例会把这四类动作串成完整工作流：先理解资料，再形成结构，检查问题，最后把结果转化为可执行的沟通。","textPreview":"无论岗位是什么，Copilot 的高频价值通常集中在“读、理、查、写”。课堂案例会把这四类动作串成完整工作流：先理解资料，再形成结构，检查问题，最后把结果转化为可执行的沟通。","textChars":87,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/apg36do7","slide":30,"name":"Rectangle 4","text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/xsr2h8ni","slide":30,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/cril836d","slide":30,"name":"Rectangle: Rounded Corners 6","bbox":[92,210,240,285]}
+{"kind":"shape","id":"sh/ru5k3ep8","slide":30,"name":"Oval 7","bbox":[114,232,42,42]}
+{"kind":"textbox","id":"sh/6twju9o3","slide":30,"name":"Rectangle 8","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[114,238,42,25]}
+{"kind":"textbox","id":"sh/onqx8zix","slide":30,"name":"Rectangle 9","text":"读：快速理解","textPreview":"读：快速理解","textChars":6,"textLines":1,"bbox":[172,230,138,32]}
+{"kind":"textbox","id":"sh/p8ze14zi","slide":30,"name":"Rectangle 10","text":"阅读项目简介、会议纪要、邮件或文档，提取目标、背景和关键事实。","textPreview":"阅读项目简介、会议纪要、邮件或文档，提取目标、背景和关键事实。","textChars":31,"textLines":1,"bbox":[114,284,196,193]}
+{"kind":"shape","id":"sh/2l8f6p0r","slide":30,"name":"Rectangle: Rounded Corners 11","bbox":[382,210,240,285]}
+{"kind":"shape","id":"sh/3mhwzu1c","slide":30,"name":"Oval 12","bbox":[404,232,42,42]}
+{"kind":"textbox","id":"sh/cbaxczit","slide":30,"name":"Rectangle 13","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[404,238,42,25]}
+{"kind":"textbox","id":"sh/dcje54ze","slide":30,"name":"Rectangle 14","text":"理：形成结构","textPreview":"理：形成结构","textChars":6,"textLines":1,"bbox":[462,230,138,32]}
+{"kind":"textbox","id":"sh/q9sfap03","slide":30,"name":"Rectangle 15","text":"按决策、行动、风险、截止日期和负责人重新组织信息。","textPreview":"按决策、行动、风险、截止日期和负责人重新组织信息。","textChars":25,"textLines":1,"bbox":[404,284,196,193]}
+{"kind":"shape","id":"sh/ba1w3uh8","slide":30,"name":"Rectangle: Rounded Corners 16","bbox":[672,210,240,285]}
+{"kind":"shape","id":"sh/sf6d0fip","slide":30,"name":"Oval 17","bbox":[694,232,42,42]}
+{"kind":"textbox","id":"sh/tgfetkja","slide":30,"name":"Rectangle 18","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[694,238,42,25]}
+{"kind":"textbox","id":"sh/907mhc7m","slide":30,"name":"Rectangle 19","text":"查：发现问题","textPreview":"查：发现问题","textChars":6,"textLines":1,"bbox":[752,230,138,32]}
+{"kind":"textbox","id":"sh/8zel8761","slide":30,"name":"Rectangle 20","text":"比较多个来源，标记冲突、缺失信息和需要人工确认的内容。","textPreview":"比较多个来源，标记冲突、缺失信息和需要人工确认的内容。","textChars":27,"textLines":1,"bbox":[694,284,196,193]}
+{"kind":"shape","id":"sh/7y5kf2pw","slide":30,"name":"Rectangle: Rounded Corners 21","bbox":[962,210,240,285]}
+{"kind":"shape","id":"sh/mxw36xob","slide":30,"name":"Oval 22","bbox":[984,232,42,42]}
+{"kind":"textbox","id":"sh/h47mlc7y","slide":30,"name":"Rectangle 23","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[984,238,42,25]}
+{"kind":"textbox","id":"sh/w3ylc76d","slide":30,"name":"Rectangle 24","text":"写：推动行动","textPreview":"写：推动行动","textChars":6,"textLines":1,"bbox":[1042,230,138,32]}
+{"kind":"textbox","id":"sh/v2p4jmps","slide":30,"name":"Rectangle 25","text":"把结果整理成可以发给同事的项目简报或跟进邮件。","textPreview":"把结果整理成可以发给同事的项目简报或跟进邮件。","textChars":23,"textLines":1,"bbox":[984,284,196,193]}
+{"kind":"textbox","id":"sh/u1g3aho7","slide":30,"name":"Rectangle: Rounded Corners 26","text":"打开 Microsoft 365 Copilot  ↗","textPreview":"打开 Microsoft 365 Copilot  ↗","textChars":27,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/wnqh07ex","slide":30,"text":"[Sources]\n- https://aiskillsnavigator.microsoft.com/playlists/291ff1ba-c754-44f1-9814-ef8917f8c989\n- https://m365.cloud.microsoft/chat"}
+{"kind":"slide","id":"sl/lcn6tkb6","slide":31,"title":"04 日常工作中的 Copilot 实操","textShapes":14}
+{"kind":"shape","id":"sh/it4nexsf","slide":31,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/dgja98fe","slide":31,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/cfa903yt","slide":31,"name":"Rectangle 2","text":"读、理、查、写是一条连续的工作链","textPreview":"读、理、查、写是一条连续的工作链","textChars":16,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/zilsbyx4","slide":31,"name":"Rectangle 3","text":"Copilot 的价值不只是生成一段文字，而是帮助我们把资料逐步转化为可以采取行动的沟通。","textPreview":"Copilot 的价值不只是生成一段文字，而是帮助我们把资料逐步转化为可以采取行动的沟通。","textChars":45,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/ehsr2dgz","slide":31,"name":"Rectangle 4","text":"23A","textPreview":"23A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/1k3ad8fa","slide":31,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/0jut43yp","slide":31,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/fmhszex0","slide":31,"name":"Rectangle 7","text":"怎样把资料变成沟通","textPreview":"怎样把资料变成沟通","textChars":9,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/ul8rq9gf","slide":31,"name":"Rectangle 8","text":"第一步是读，也就是快速理解项目简介、会议纪要、邮件或其他资料，提取目标、背景、关键事实和限制条件。没有完成这一步，后面的总结很容易失去上下文。\n\n第二步是理和查。先把信息按照决定、行动项、风险、负责人和截止日期重新组织，再比较多个来源，找出冲突、缺失信息和需要人工确认的内容。\n\n最后一步是写。把已经核对过的分析结果转化为邮件、简报或下一步安排，同时保留待确认事项，避免把模型推测写成已经确定的事实。","textPreview":"第一步是读，也就是快速理解项目简介、会议纪要、邮件或其他资料，提取目标、背景、关键事实和限制条件。没有完成这一步，后面的总结很容易失去上下文。 |  | 第二步是理和查。先把信息按照决定、行动项、风险、负责人和截止日期重新组织，再比较多个来源，找出冲突、缺失信息和需要人工确...","textChars":200,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/4vm5g7al","slide":31,"name":"Rectangle 9","text":"先理解，再组织和核对，最后才把结果写成可执行的沟通。","textPreview":"先理解，再组织和核对，最后才把结果写成可执行的沟通。","textChars":26,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/5wvmpcr6","slide":31,"name":"Rectangle: Rounded Corners 10","text":"打开 Microsoft 365 Copilot  ↗","textPreview":"打开 Microsoft 365 Copilot  ↗","textChars":27,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/3ud4n290","slide":31,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/sz65k7ah","slide":31,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/d0fmtcr2","slide":31,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/qx4nihsb","slide":31,"name":"逻辑标签 1","text":"阅读资料","textPreview":"阅读资料","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/ryd4rm9w","slide":31,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/832l8nad","slide":31,"name":"逻辑标签 2","text":"组织核对","textPreview":"组织核对","textChars":4,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/t4bmhsry","slide":31,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/9032l43m","slide":31,"name":"逻辑标签 3","text":"形成沟通","textPreview":"形成沟通","textChars":4,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/lcn6tkb6","slide":31,"text":"[Sources]\n- Microsoft 365 Copilot workflow summarized from slides 19–23"}
+{"kind":"slide","id":"sl/6l0j294r","slide":32,"title":"04 日常工作中的 Copilot 实操","textShapes":13}
+{"kind":"shape","id":"sh/y1gnadsv","slide":32,"name":"Rectangle 19","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/kr61sfy1","slide":32,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/lszilkfm","slide":32,"name":"Rectangle 2","text":"通用案例：快速接手一个新项目","textPreview":"通用案例：快速接手一个新项目","textChars":14,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/6t8jupg7","slide":32,"name":"Rectangle 3","text":"我们用一组虚构的“绿色办公周”资料，完整演示一次从阅读材料到形成沟通输出的过程。","textPreview":"我们用一组虚构的“绿色办公周”资料，完整演示一次从阅读材料到形成沟通输出的过程。","textChars":40,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/7uh0nuxs","slide":32,"name":"Rectangle 4","text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/8vq1wzyd","slide":32,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/twzipkfy","slide":32,"name":"Rectangle: Rounded Corners 6","bbox":[82,178,1116,116]}
+{"kind":"textbox","id":"sh/mx4zilg3","slide":32,"name":"Rectangle 7","text":"你的任务","textPreview":"你的任务","textChars":4,"textLines":1,"bbox":[112,202,160,32]}
+{"kind":"textbox","id":"sh/nyd0bqxo","slide":32,"name":"Rectangle 8","text":"今天你将接手“绿色办公周”项目。首先读懂三份资料，再向负责人说明当前进展、主要风险和下一步安排。","textPreview":"今天你将接手“绿色办公周”项目。首先读懂三份资料，再向负责人说明当前进展、主要风险和下一步安排。","textChars":48,"textLines":1,"bbox":[112,239,1038,44]}
+{"kind":"shape","id":"sh/ry94z29w","slide":32,"name":"Rectangle: Rounded Corners 9","bbox":[82,322,344,220]}
+{"kind":"textbox","id":"sh/qx0nqx8b","slide":32,"name":"Rectangle 10","text":"你会拿到","textPreview":"你会拿到","textChars":4,"textLines":1,"bbox":[110,348,288,34]}
+{"kind":"textbox","id":"sh/d0bm1c7m","slide":32,"name":"Rectangle 11","text":"项目简介说明背景；\n会议纪要记录决定；\n时间表呈现进度。","textPreview":"项目简介说明背景； | 会议纪要记录决定； | 时间表呈现进度。","textChars":28,"textLines":3,"bbox":[110,398,288,112]}
+{"kind":"shape","id":"sh/szi5s7qh","slide":32,"name":"Rectangle: Rounded Corners 12","bbox":[458,322,344,220]}
+{"kind":"textbox","id":"sh/3a94vi9k","slide":32,"name":"Rectangle 13","text":"请 Copilot 帮你","textPreview":"请 Copilot 帮你","textChars":12,"textLines":1,"bbox":[486,348,288,34]}
+{"kind":"textbox","id":"sh/i903mx8z","slide":32,"name":"Rectangle 14","text":"先提炼目标与进展；\n再整理负责人和截止日期；\n最后找出冲突与待确认事项。","textPreview":"先提炼目标与进展； | 再整理负责人和截止日期； | 最后找出冲突与待确认事项。","textChars":36,"textLines":3,"bbox":[486,398,288,112]}
+{"kind":"shape","id":"sh/5crmxsrq","slide":32,"name":"Rectangle: Rounded Corners 15","bbox":[834,322,344,220]}
+{"kind":"textbox","id":"sh/4bilonq5","slide":32,"name":"Rectangle 16","text":"最后交付","textPreview":"最后交付","textChars":4,"textLines":1,"bbox":[862,348,288,34]}
+{"kind":"textbox","id":"sh/v6p4ri9o","slide":32,"name":"Rectangle 17","text":"最后形成一页项目接手简报，\n再起草一封跟进邮件，把分析转化为可执行的沟通。","textPreview":"最后形成一页项目接手简报， | 再起草一封跟进邮件，把分析转化为可执行的沟通。","textChars":37,"textLines":2,"bbox":[862,398,288,112]}
+{"kind":"textbox","id":"sh/u5g3yd83","slide":32,"name":"Rectangle: Rounded Corners 18","text":"进入 Copilot 实操  ↗","textPreview":"进入 Copilot 实操  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/6l0j294r","slide":32,"text":"[Sources]\n- https://m365.cloud.microsoft/chat\n- Local fictional Green Office Week training data"}
+{"kind":"slide","id":"sl/nax4b2dk","slide":33,"title":"04 日常工作中的 Copilot 实操","textShapes":14}
+{"kind":"shape","id":"sh/upsv6psb","slide":33,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/lk3m50nq","slide":33,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/0jalwfm5","slide":33,"name":"Rectangle 2","text":"绿色办公周练习，要把三份资料变成两项交付","textPreview":"绿色办公周练习，要把三份资料变成两项交付","textChars":20,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/nml47a5w","slide":33,"name":"Rectangle 3","text":"这个练习模拟临时接手项目，因此重点不是复述附件，而是形成清楚、可靠的接手判断。","textPreview":"这个练习模拟临时接手项目，因此重点不是复述附件，而是形成清楚、可靠的接手判断。","textChars":39,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/mlc3y54b","slide":33,"name":"Rectangle 4","text":"24A","textPreview":"24A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/9o3m9knm","slide":33,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/8nul0fmh","slide":33,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/vql4bu5s","slide":33,"name":"Rectangle 7","text":"练习要完成什么","textPreview":"练习要完成什么","textChars":7,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/apc32p47","slide":33,"name":"Rectangle 8","text":"练习开始时，你会拿到项目简介、会议纪要和时间表。首先需要理解项目目标、成功指标、预算、范围和关键日期，同时区分已经确认的决定与仍在讨论的问题。\n\n接着，需要比较三份资料，而不是只做单份摘要。报名开放日期存在两个版本，部分供应商和合同信息也没有提供，这些内容都必须保留来源并标记为待确认。\n\n最后需要形成两项交付：一页项目接手简报和一封跟进邮件。简报负责呈现进展、行动项、风险和缺口，邮件则把这些分析转化为明确的确认问题和下一步安排。","textPreview":"练习开始时，你会拿到项目简介、会议纪要和时间表。首先需要理解项目目标、成功指标、预算、范围和关键日期，同时区分已经确认的决定与仍在讨论的问题。 |  | 接着，需要比较三份资料，而不是只做单份摘要。报名开放日期存在两个版本，部分供应商和合同信息也没有提供，这些内容都必须保留...","textChars":216,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/grad8zah","slide":33,"name":"Rectangle 9","text":"练习的核心是比较来源、保留不确定性，并把分析转化为行动。","textPreview":"练习的核心是比较来源、保留不确定性，并把分析转化为行动。","textChars":28,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/hsjuhkb2","slide":33,"name":"Rectangle: Rounded Corners 10","text":"进入 Copilot 实操  ↗","textPreview":"进入 Copilot 实操  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/vq1cfutw","slide":33,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/4vadczad","slide":33,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/5w3ul4by","slide":33,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/itsvapsn","slide":33,"name":"逻辑标签 1","text":"理解资料","textPreview":"理解资料","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/3u1cjut8","slide":33,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/czudgjap","slide":33,"name":"逻辑标签 2","text":"发现冲突","textPreview":"发现冲突","textChars":4,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/dk3ep4ba","slide":33,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/lgzu94je","slide":33,"name":"逻辑标签 3","text":"形成交付","textPreview":"形成交付","textChars":4,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/nax4b2dk","slide":33,"text":"[Sources]\n- Green Office Week fictional training files described on slides 24–27"}
+{"kind":"slide","id":"sl/ofu103u5","slide":34,"title":"04 日常工作中的 Copilot 实操","textShapes":7}
+{"kind":"shape","id":"sh/1wredkbq","slide":34,"name":"Rectangle 10","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/pwzm1kbm","slide":34,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/ovq58fu1","slide":34,"name":"Rectangle 2","text":"资料 1：项目简介","textPreview":"资料 1：项目简介","textChars":9,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/byh43utc","slide":34,"name":"Rectangle 3","text":"先从项目简介建立全貌：项目为什么做、如何衡量、预算和范围是什么、关键日期有哪些。这里记录的报名开放日期是 28 Aug，稍后会和时间表进行对照。","textPreview":"先从项目简介建立全貌：项目为什么做、如何衡量、预算和范围是什么、关键日期有哪些。这里记录的报名开放日期是 28 Aug，稍后会和时间表进行对照。","textChars":72,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/qx8napc7","slide":34,"name":"Rectangle 4","text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/d0zm54bi","slide":34,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/czq5czux","slide":34,"name":"Rectangle: Rounded Corners 6","bbox":[110,190,1060,380]}
+{"kind":"textbox","id":"sh/z2147eto","slide":34,"name":"Rectangle 7","text":"GREEN OFFICE WEEK｜PROJECT BRIEF（虚构培训数据）","textPreview":"GREEN OFFICE WEEK｜PROJECT BRIEF（虚构培训数据）","textChars":39,"textLines":1,"bbox":[150,222,980,32]}
+{"kind":"textbox","id":"sh/y18ne9c3","slide":34,"name":"Rectangle 8","text":"目的与受众： 9 月 14–18 日举行，面向 400 名内部同事，鼓励简单、可衡量的可持续办公习惯。\n\n成功指标： 报名 150 人、出席率达到报名人数的 80%、参与者反馈达到 4.2/5。\n\n预算与范围： 工作预算 25,000 元；仅内部沟通；材料需中英双语；供应商尚未确定，也未签署合同。\n\n关键日期： 项目简介写明 8 月 28 日开放报名，9 月 9 日关闭报名。","textPreview":"目的与受众： 9 月 14–18 日举行，面向 400 名内部同事，鼓励简单、可衡量的可持续办公习惯。 |  | 成功指标： 报名 150 人、出席率达到报名人数的 80%、参与者反馈达到 4.2/5。 |  | 预算与范围： 工作预算 25,000 元；仅内部沟通；材料需...","textChars":189,"textLines":7,"bbox":[150,278,970,235]}
+{"kind":"textbox","id":"sh/0vidkfu5","slide":34,"name":"Rectangle: Rounded Corners 9","text":"打开 Copilot  ↗","textPreview":"打开 Copilot  ↗","textChars":13,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/ofu103u5","slide":34,"text":"[Sources]\n- Local fictional Green Office Week Project Brief\n- https://m365.cloud.microsoft/chat"}
+{"kind":"slide","id":"sl/1obmtofm","slide":35,"title":"04 日常工作中的 Copilot 实操","textShapes":7}
+{"kind":"shape","id":"sh/4n65o7ax","slide":35,"name":"Rectangle 10","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/idonexon","slide":35,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/3ex47ip8","slide":35,"name":"Rectangle 2","text":"资料 2：会议纪要","textPreview":"资料 2：会议纪要","textChars":9,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/gb6lcn6x","slide":35,"name":"Rectangle 3","text":"会议纪要补充了负责人、截止日期和讨论状态。阅读这一份时，把内容分成“已确认”“行动项”和“开放问题”，后续简报就能清楚区分决定与待确认事项。","textPreview":"会议纪要补充了负责人、截止日期和讨论状态。阅读这一份时，把内容分成“已确认”“行动项”和“开放问题”，后续简报就能清楚区分决定与待确认事项。","textChars":70,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/hcfm5s72","slide":35,"name":"Rectangle 4","text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/u943ador","slide":35,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/vad43ipc","slide":35,"name":"Rectangle: Rounded Corners 6","bbox":[110,190,1060,380]}
+{"kind":"textbox","id":"sh/87ml836l","slide":35,"name":"Rectangle 7","text":"PLANNING MEETING NOTES｜17 AUG 2026（虚构培训数据）","textPreview":"PLANNING MEETING NOTES｜17 AUG 2026（虚构培训数据）","textChars":42,"textLines":1,"bbox":[150,222,980,32]}
+{"kind":"textbox","id":"sh/t8vm1876","slide":35,"name":"Rectangle 8","text":"已确认： 活动日期、内部沟通、双语材料和场地原则已经明确。\n\n行动项： 项目负责人 8 月 21 日确认五天议程；设施协调人 8 月 25 日确认房间布置；沟通负责人 8 月 28 日发布双语报名通知。\n\n开放问题： 餐饮供应商未确定，合同金额尚未确定，团队尚未决定是否增加可选闭幕活动。","textPreview":"已确认： 活动日期、内部沟通、双语材料和场地原则已经明确。 |  | 行动项： 项目负责人 8 月 21 日确认五天议程；设施协调人 8 月 25 日确认房间布置；沟通负责人 8 月 28 日发布双语报名通知。 |  | 开放问题： 餐饮供应商未确定，合同金额尚未确定，团队...","textChars":144,"textLines":5,"bbox":[150,286,970,215]}
+{"kind":"textbox","id":"sh/5of6xcbi","slide":35,"name":"Rectangle: Rounded Corners 9","text":"打开 Copilot  ↗","textPreview":"打开 Copilot  ↗","textChars":13,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/1obmtofm","slide":35,"text":"[Sources]\n- Local fictional Green Office Week Meeting Notes\n- https://m365.cloud.microsoft/chat"}
+{"kind":"slide","id":"sl/m9s3ehgf","slide":36,"title":"04 日常工作中的 Copilot 实操","textShapes":24}
+{"kind":"shape","id":"sh/l432t8ry","slide":36,"name":"Rectangle 32","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/5s3atkbq","slide":36,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/4rut0fa5","slide":36,"name":"Rectangle 2","text":"资料 3：时间表里出现了另一个日期","textPreview":"资料 3：时间表里出现了另一个日期","textChars":17,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/rulsvutw","slide":36,"name":"Rectangle 3","text":"时间表把报名开放写成 31 Aug，而项目简介写的是 28 Aug。简报中保留两个日期和各自来源，并把它列为需要项目负责人确认的问题。","textPreview":"时间表把报名开放写成 31 Aug，而项目简介写的是 28 Aug。简报中保留两个日期和各自来源，并把它列为需要项目负责人确认的问题。","textChars":67,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/qtcb2psb","slide":36,"name":"Rectangle 4","text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/dwnax4bm","slide":36,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/svet4zah","slide":36,"name":"Rectangle: Rounded Corners 6","bbox":[110,190,1060,360]}
+{"kind":"textbox","id":"sh/fy5szuts","slide":36,"name":"Rectangle 7","text":"里程碑","textPreview":"里程碑","textChars":3,"textLines":1,"bbox":[160,226,560,30]}
+{"kind":"textbox","id":"sh/exwb69s7","slide":36,"name":"Rectangle 8","text":"截止日期","textPreview":"截止日期","textChars":4,"textLines":1,"bbox":[760,226,180,30]}
+{"kind":"textbox","id":"sh/kfi54n2l","slide":36,"name":"Rectangle 9","text":"状态","textPreview":"状态","textChars":2,"textLines":1,"bbox":[970,226,130,30]}
+{"kind":"shape","id":"sh/lgr6xs36","slide":36,"name":"Rectangle 10","bbox":[148,264,964,40]}
+{"kind":"textbox","id":"sh/ydgn2xkf","slide":36,"name":"Rectangle 11","text":"五天议程确认","textPreview":"五天议程确认","textChars":6,"textLines":1,"bbox":[160,270,560,25]}
+{"kind":"textbox","id":"sh/zepovil0","slide":36,"name":"Rectangle 12","text":"21 Aug","textPreview":"21 Aug","textChars":6,"textLines":1,"bbox":[760,270,180,25]}
+{"kind":"textbox","id":"sh/83i5872h","slide":36,"name":"Rectangle 13","text":"进行中","textPreview":"进行中","textChars":3,"textLines":1,"bbox":[970,270,130,25]}
+{"kind":"shape","id":"sh/94r61c32","slide":36,"name":"Rectangle 14","bbox":[148,312,964,40]}
+{"kind":"textbox","id":"sh/m10n6xkr","slide":36,"name":"Rectangle 15","text":"房间布局确认","textPreview":"房间布局确认","textChars":6,"textLines":1,"bbox":[160,318,560,25]}
+{"kind":"textbox","id":"sh/729oz2lw","slide":36,"name":"Rectangle 16","text":"25 Aug","textPreview":"25 Aug","textChars":6,"textLines":1,"bbox":[760,318,180,25]}
+{"kind":"textbox","id":"sh/w72pc72t","slide":36,"name":"Rectangle 17","text":"未开始","textPreview":"未开始","textChars":3,"textLines":1,"bbox":[970,318,130,25]}
+{"kind":"shape","id":"sh/h8b65cje","slide":36,"name":"Rectangle 18","bbox":[148,360,964,40]}
+{"kind":"textbox","id":"sh/5o76pcbi","slide":36,"name":"Rectangle 19","text":"双语公告批准","textPreview":"双语公告批准","textChars":6,"textLines":1,"bbox":[160,366,560,25]}
+{"kind":"textbox","id":"sh/4ny5w7ux","slide":36,"name":"Rectangle 20","text":"27 Aug","textPreview":"27 Aug","textChars":6,"textLines":1,"bbox":[760,366,180,25]}
+{"kind":"textbox","id":"sh/3mpon2tc","slide":36,"name":"Rectangle 21","text":"未开始","textPreview":"未开始","textChars":3,"textLines":1,"bbox":[970,366,130,25]}
+{"kind":"shape","id":"sh/i1wnuxcr","slide":36,"name":"Rectangle 22","bbox":[148,408,964,40]}
+{"kind":"textbox","id":"sh/ds76tcbe","slide":36,"name":"Rectangle 23","text":"报名开放","textPreview":"报名开放","textChars":4,"textLines":1,"bbox":[160,414,560,25]}
+{"kind":"textbox","id":"sh/sry50rut","slide":36,"name":"Rectangle 24","text":"31 Aug","textPreview":"31 Aug","textChars":6,"textLines":1,"bbox":[760,414,180,25]}
+{"kind":"textbox","id":"sh/rqpormt8","slide":36,"name":"Rectangle 25","text":"未开始","textPreview":"未开始","textChars":3,"textLines":1,"bbox":[970,414,130,25]}
+{"kind":"shape","id":"sh/qpgnyhc3","slide":36,"name":"Rectangle 26","bbox":[148,456,964,40]}
+{"kind":"textbox","id":"sh/twnmhsva","slide":36,"name":"Rectangle 27","text":"报名关闭","textPreview":"报名关闭","textChars":4,"textLines":1,"bbox":[160,462,560,25]}
+{"kind":"textbox","id":"sh/8ve5onup","slide":36,"name":"Rectangle 28","text":"09 Sep","textPreview":"09 Sep","textChars":6,"textLines":1,"bbox":[760,462,180,25]}
+{"kind":"textbox","id":"sh/y1s3ytsn","slide":36,"name":"Rectangle 29","text":"未开始","textPreview":"未开始","textChars":3,"textLines":1,"bbox":[970,462,130,25]}
+{"kind":"textbox","id":"sh/j2lkry9s","slide":36,"name":"Rectangle 30","text":"待确认：项目简介 28 Aug ｜ 时间表 31 Aug","textPreview":"待确认：项目简介 28 Aug ｜ 时间表 31 Aug","textChars":28,"textLines":1,"bbox":[150,520,980,36]}
+{"kind":"textbox","id":"sh/k3ul03ad","slide":36,"name":"Rectangle: Rounded Corners 31","text":"用 Copilot 比较资料  ↗","textPreview":"用 Copilot 比较资料  ↗","textChars":17,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/m9s3ehgf","slide":36,"text":"[Sources]\n- Local fictional Green Office Week Timeline\n- https://m365.cloud.microsoft/chat"}
+{"kind":"slide","id":"sl/jyhsreh4","slide":37,"title":"04 日常工作中的 Copilot 实操","textShapes":13}
+{"kind":"shape","id":"sh/gjetgzyl","slide":37,"name":"Rectangle 23","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/61c7md0r","slide":37,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/7m58vyhw","slide":37,"name":"Rectangle 2","text":"提示词结构：背景 + 任务 + 输出 + 约束","textPreview":"提示词结构：背景 + 任务 + 输出 + 约束","textChars":23,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/kzupk3il","slide":37,"name":"Rectangle 3","text":"一个可靠的提示词可以按顺序展开：先交代背景，再明确任务和输出，最后用约束限定 Copilot 的判断边界。","textPreview":"一个可靠的提示词可以按顺序展开：先交代背景，再明确任务和输出，最后用约束限定 Copilot 的判断边界。","textChars":53,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/503qt8z6","slide":37,"name":"Rectangle 4","text":"28","textPreview":"28","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/ixc7it0f","slide":37,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/jyl8ryh0","slide":37,"name":"Rectangle: Rounded Corners 6","bbox":[110,190,1060,80]}
+{"kind":"shape","id":"sh/4vy9wnyp","slide":37,"name":"Rectangle: Rounded Corners 7","bbox":[128,204,105,52]}
+{"kind":"textbox","id":"sh/pw7q5sza","slide":37,"name":"Rectangle 8","text":"背景","textPreview":"背景","textChars":2,"textLines":1,"bbox":[128,216,105,25]}
+{"kind":"textbox","id":"sh/9cfa9gry","slide":37,"name":"Rectangle 9","text":"首先说明背景：我刚接手绿色办公周项目，需要快速理解三份附件。","textPreview":"首先说明背景：我刚接手绿色办公周项目，需要快速理解三份附件。","textChars":30,"textLines":1,"bbox":[260,207,860,48]}
+{"kind":"shape","id":"sh/8b69gbqd","slide":37,"name":"Rectangle: Rounded Corners 10","bbox":[110,292,1060,80]}
+{"kind":"shape","id":"sh/naxs7q9s","slide":37,"name":"Rectangle: Rounded Corners 11","bbox":[128,306,105,52]}
+{"kind":"textbox","id":"sh/m94rel87","slide":37,"name":"Rectangle 12","text":"任务","textPreview":"任务","textChars":2,"textLines":1,"bbox":[128,318,105,25]}
+{"kind":"textbox","id":"sh/l8va5grm","slide":37,"name":"Rectangle 13","text":"接着说明任务：请总结目标、成功指标、已确认决策、行动项、风险和开放问题，并比较不同来源。","textPreview":"接着说明任务：请总结目标、成功指标、已确认决策、行动项、风险和开放问题，并比较不同来源。","textChars":44,"textLines":1,"bbox":[260,309,860,48]}
+{"kind":"shape","id":"sh/07m9cbq1","slide":37,"name":"Rectangle: Rounded Corners 14","bbox":[110,394,1060,80]}
+{"kind":"shape","id":"sh/z6ds369w","slide":37,"name":"Rectangle: Rounded Corners 15","bbox":[128,408,105,52]}
+{"kind":"textbox","id":"sh/y54ra18b","slide":37,"name":"Rectangle 16","text":"输出","textPreview":"输出","textChars":2,"textLines":1,"bbox":[128,420,105,25]}
+{"kind":"textbox","id":"sh/54zah0r6","slide":37,"name":"Rectangle 17","text":"然后规定输出：先给出一页项目简报，再起草一封简洁的跟进邮件。","textPreview":"然后规定输出：先给出一页项目简报，再起草一封简洁的跟进邮件。","textChars":30,"textLines":1,"bbox":[260,411,860,48]}
+{"kind":"shape","id":"sh/43qtofql","slide":37,"name":"Rectangle: Rounded Corners 18","bbox":[110,496,1060,80]}
+{"kind":"shape","id":"sh/47ydkjyh","slide":37,"name":"Rectangle: Rounded Corners 19","bbox":[128,510,105,52]}
+{"kind":"textbox","id":"sh/p87udof2","slide":37,"name":"Rectangle 20","text":"约束","textPreview":"约束","textChars":2,"textLines":1,"bbox":[128,522,105,25]}
+{"kind":"textbox","id":"sh/2lgvi9gr","slide":37,"name":"Rectangle 21","text":"最后说明约束：不要补充资料中没有的事实；发现冲突时列出来源和两个版本，并标记“待确认”。","textPreview":"最后说明约束：不要补充资料中没有的事实；发现冲突时列出来源和两个版本，并标记“待确认”。","textChars":44,"textLines":1,"bbox":[260,513,860,48]}
+{"kind":"textbox","id":"sh/36pcbexc","slide":37,"name":"Rectangle: Rounded Corners 22","text":"打开 Copilot 并输入提示  ↗","textPreview":"打开 Copilot 并输入提示  ↗","textChars":19,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/jyhsreh4","slide":37,"text":"[Sources]\n- https://m365.cloud.microsoft/chat"}
+{"kind":"slide","id":"sl/ofahkri5","slide":38,"title":"04 日常工作中的 Copilot 实操","textShapes":14}
+{"kind":"shape","id":"sh/5kbilcnu","slide":38,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/kvy1kbep","slide":38,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/lw7idgva","slide":38,"name":"Rectangle 2","text":"一个好提示词，先说明边界，再要求结果","textPreview":"一个好提示词，先说明边界，再要求结果","textChars":18,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/mxgjmlwv","slide":38,"name":"Rectangle 3","text":"背景、任务、输出和约束共同决定 Copilot 应该处理什么，以及不能自行补充什么。","textPreview":"背景、任务、输出和约束共同决定 Copilot 应该处理什么，以及不能自行补充什么。","textChars":42,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/7yp0f6dg","slide":38,"name":"Rectangle 4","text":"28A","textPreview":"28A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/8zi1obe1","slide":38,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/90rihgv6","slide":38,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/u10jqlwr","slide":38,"name":"Rectangle 7","text":"提示词应该包含什么","textPreview":"提示词应该包含什么","textChars":9,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/v290jqdc","slide":38,"name":"Rectangle 8","text":"首先说明背景，让 Copilot 知道你刚接手什么项目、手上有哪些资料，以及为什么需要完成这项工作。背景不需要很长，但要让任务拥有足够上下文。\n\n接着写清任务和输出。任务说明需要分析什么，输出说明结果应当采用简报、表格、邮件还是其他形式，并明确需要包含哪些栏目。\n\n最后加入约束，例如只能依据附件、冲突要列出不同来源、缺失内容要标记待确认。这里展示的结构和后面的提示词都只是示例，实际使用时应根据任务和资料进行调整。","textPreview":"首先说明背景，让 Copilot 知道你刚接手什么项目、手上有哪些资料，以及为什么需要完成这项工作。背景不需要很长，但要让任务拥有足够上下文。 |  | 接着写清任务和输出。任务说明需要分析什么，输出说明结果应当采用简报、表格、邮件还是其他形式，并明确需要包含哪些栏目。 |...","textChars":208,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/3it0j25o","slide":38,"name":"Rectangle 9","text":"提示词不是越长越好，而是要把上下文、交付物和判断边界说清楚。","textPreview":"提示词不是越长越好，而是要把上下文、交付物和判断边界说清楚。","textChars":30,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/ih0zqxoj","slide":38,"name":"Rectangle: Rounded Corners 10","text":"打开 Copilot 并输入提示  ↗","textPreview":"打开 Copilot 并输入提示  ↗","textChars":19,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/4j2hs7m9","slide":38,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/ve90f25s","slide":38,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/ud0zmxo7","slide":38,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/hgrihsny","slide":38,"name":"逻辑标签 1","text":"说明背景","textPreview":"说明背景","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/gfihon6d","slide":38,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/fad0rm5w","slide":38,"name":"逻辑标签 2","text":"任务与输出","textPreview":"任务与输出","textChars":5,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/e94jyh4b","slide":38,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/a5o3qloj","slide":38,"name":"逻辑标签 3","text":"加入约束","textPreview":"加入约束","textChars":4,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/ofahkri5","slide":38,"text":"[Sources]\n- Green Office Week fictional training prompt structure on slide 28"}
+{"kind":"slide","id":"sl/twb2lg7e","slide":39,"title":"04 日常工作中的 Copilot 实操","textShapes":7}
+{"kind":"shape","id":"sh/rid8vi1c","slide":39,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/50769kvu","slide":39,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/4ze50fu9","slide":39,"name":"Rectangle 2","text":"Microsoft 365 Copilot：确认工作账号，加入资料，开始任务","textPreview":"Microsoft 365 Copilot：确认工作账号，加入资料，开始任务","textChars":38,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/r2pobudk","slide":39,"name":"Rectangle 3","text":"打开页面后，先确认左下角显示工作账号，再点击输入框左侧的加号加入本次练习使用的三份资料，最后在中央输入任务。","textPreview":"打开页面后，先确认左下角显示工作账号，再点击输入框左侧的加号加入本次练习使用的三份资料，最后在中央输入任务。","textChars":54,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/q1gn2pcf","slide":39,"name":"Rectangle 4","text":"29","textPreview":"29","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/do76d4vq","slide":39,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/76lozqdg","slide":39,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/65cnq5cv","slide":39,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/sjmpon2x","slide":39,"name":"Rectangle 9","text":"关键内容","textPreview":"关键内容","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/dkvqxsji","slide":39,"name":"Rectangle 10","text":"首先开始新任务：左侧 New chat 用于新建对话，Search 用于查找历史内容；Library、Notebooks 和 Agents 可以之后再探索。\n\n接着加入资料：中央 Message Copilot 是任务输入框，点击左侧加号即可添加文件；下方按钮提供文件分析、邮件整理等快捷入口。\n\n提交前再检查：确认左下角显示 Philips 工作账号，只加入当前任务需要的资料；对敏感信息有疑问时，先查看企业规则或咨询支持人员。","textPreview":"首先开始新任务：左侧 New chat 用于新建对话，Search 用于查找历史内容；Library、Notebooks 和 Agents 可以之后再探索。 |  | 接着加入资料：中央 Message Copilot 是任务输入框，点击左侧加号即可添加文件；下方按钮提供文...","textChars":215,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/qx47mdkr","slide":39,"name":"Rectangle: Rounded Corners 11","text":"打开 Microsoft 365 Copilot  ↗","textPreview":"打开 Microsoft 365 Copilot  ↗","textChars":27,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"image","id":"im/3qh4bmxk","slide":39,"name":"Picture 20","geometry":"roundRect","bbox":[72,195.73,702,368.55]}
+{"kind":"notes","id":"nt/twb2lg7e","slide":39,"text":"[Sources]\n- User-provided M365 Copilot screenshot\n- https://m365.cloud.microsoft/chat"}
+{"kind":"slide","id":"sl/5ojatgfe","slide":40,"title":"04 日常工作中的 Copilot 实操","textShapes":15}
+{"kind":"shape","id":"sh/vmp43al8","slide":40,"name":"Rectangle 22","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/y9gzu50n","slide":40,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/zapg3qh8","slide":40,"name":"Rectangle 2","text":"现场演示：把三份资料整理成简报和跟进邮件","textPreview":"现场演示：把三份资料整理成简报和跟进邮件","textChars":20,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/cnexsvih","slide":40,"name":"Rectangle 3","text":"接下来我会在 Copilot 中完整做一遍。大家可以跟着看资料是怎样加入的、提示词怎样写，以及第一次结果出来后还可以怎样继续调整。","textPreview":"接下来我会在 Copilot 中完整做一遍。大家可以跟着看资料是怎样加入的、提示词怎样写，以及第一次结果出来后还可以怎样继续调整。","textChars":65,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/x8ny10z2","slide":40,"name":"Rectangle 4","text":"30","textPreview":"30","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/alwfql0r","slide":40,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/bm5gzqhw","slide":40,"name":"Oval 6","bbox":[112,185,42,42]}
+{"kind":"textbox","id":"sh/ojexobil","slide":40,"name":"Rectangle 7","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[112,194,42,25]}
+{"kind":"textbox","id":"sh/pknyxgz6","slide":40,"name":"Rectangle 8","text":"首先上传项目简介、会议纪要和里程碑时间表。","textPreview":"首先上传项目简介、会议纪要和里程碑时间表。","textChars":21,"textLines":1,"bbox":[178,183,940,55]}
+{"kind":"shape","id":"sh/1wnmx4vq","slide":40,"name":"Oval 9","bbox":[112,263,42,42]}
+{"kind":"textbox","id":"sh/gvel4ze5","slide":40,"name":"Rectangle 10","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[112,272,42,25]}
+{"kind":"textbox","id":"sh/fu54vudk","slide":40,"name":"Rectangle 11","text":"接着输入“背景 + 任务 + 输出 + 约束”四段式提示词。","textPreview":"接着输入“背景 + 任务 + 输出 + 约束”四段式提示词。","textChars":30,"textLines":1,"bbox":[178,261,940,55]}
+{"kind":"shape","id":"sh/etw32pwz","slide":40,"name":"Oval 12","bbox":[112,341,42,42]}
+{"kind":"textbox","id":"sh/tsnmt4vu","slide":40,"name":"Rectangle 13","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[112,350,42,25]}
+{"kind":"textbox","id":"sh/s7el0ze9","slide":40,"name":"Rectangle 14","text":"结果生成后，先查看项目接手简报和跟进邮件草稿是否完整。","textPreview":"结果生成后，先查看项目接手简报和跟进邮件草稿是否完整。","textChars":27,"textLines":1,"bbox":[178,339,940,55]}
+{"kind":"shape","id":"sh/r6l4rudo","slide":40,"name":"Oval 15","bbox":[112,419,42,42]}
+{"kind":"textbox","id":"sh/65c3ypw3","slide":40,"name":"Rectangle 16","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[112,428,42,25]}
+{"kind":"textbox","id":"sh/543mpkvi","slide":40,"name":"Rectangle 17","text":"然后核对 28 Aug 与 31 Aug 两个报名日期，保留来源并标记待确认。","textPreview":"然后核对 28 Aug 与 31 Aug 两个报名日期，保留来源并标记待确认。","textChars":39,"textLines":1,"bbox":[178,417,940,55]}
+{"kind":"shape","id":"sh/43ulwfex","slide":40,"name":"Oval 18","bbox":[112,497,42,42]}
+{"kind":"textbox","id":"sh/wny5cfmt","slide":40,"name":"Rectangle 19","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[112,506,42,25]}
+{"kind":"textbox","id":"sh/x87m5k3e","slide":40,"name":"Rectangle 20","text":"确认事实后，再追问并把行动项整理成负责人、截止日期和状态三列。","textPreview":"确认事实后，再追问并把行动项整理成负责人、截止日期和状态三列。","textChars":31,"textLines":1,"bbox":[178,495,940,55]}
+{"kind":"textbox","id":"sh/alg3ap4n","slide":40,"name":"Rectangle: Rounded Corners 21","text":"进入现场演示  ↗","textPreview":"进入现场演示  ↗","textChars":9,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/5ojatgfe","slide":40,"text":"[Sources]\n- https://m365.cloud.microsoft/chat"}
+{"kind":"slide","id":"sl/cnmpwjmp","slide":41,"title":"04 日常工作中的 Copilot 实操","textShapes":14}
+{"kind":"shape","id":"sh/qt872t8b","slide":41,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/t0rqhkju","slide":41,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/szi98fi9","slide":41,"name":"Rectangle 2","text":"现场演示时，重点观察三次检查","textPreview":"现场演示时，重点观察三次检查","textChars":14,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/f298ju10","slide":41,"name":"Rectangle 3","text":"演示不是为了得到一次漂亮答案，而是展示怎样逐步确认资料、结果和最终沟通。","textPreview":"演示不是为了得到一次漂亮答案，而是展示怎样逐步确认资料、结果和最终沟通。","textChars":36,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/u10rap0f","slide":41,"name":"Rectangle 4","text":"30A","textPreview":"30A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/h4bqlkj6","slide":41,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/g3i9czil","slide":41,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/36t8nu1w","slide":41,"name":"Rectangle 7","text":"演示中观察什么","textPreview":"演示中观察什么","textChars":7,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/25krep0r","slide":41,"name":"Rectangle 8","text":"第一次检查发生在提交以前。确认三份资料都已经加入，提示词包含背景、任务、输出和约束，并且当前使用的是 Philips 工作账号。\n\n第二次检查发生在结果生成以后。先看项目简报和邮件是否覆盖目标、行动项、风险和待确认事项，再核对报名开放日期是否保留了 28 Aug 和 31 Aug 两个来源。\n\n第三次检查是继续追问。要求 Copilot 把行动项整理成负责人、截止日期和状态三列，并在最终沟通中保留仍需团队确认的信息。只有完成这些检查，输出才接近可以使用。","textPreview":"第一次检查发生在提交以前。确认三份资料都已经加入，提示词包含背景、任务、输出和约束，并且当前使用的是 Philips 工作账号。 |  | 第二次检查发生在结果生成以后。先看项目简报和邮件是否覆盖目标、行动项、风险和待确认事项，再核对报名开放日期是否保留了 28 Aug 和...","textChars":229,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/cvqp43qh","slide":41,"name":"Rectangle 9","text":"生成只是开始，提交前、生成后和改写前都需要检查。","textPreview":"生成只是开始，提交前、生成后和改写前都需要检查。","textChars":24,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/dwjqd8r2","slide":41,"name":"Rectangle: Rounded Corners 10","text":"进入现场演示  ↗","textPreview":"进入现场演示  ↗","textChars":9,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/ruh8by9w","slide":41,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/0za983qd","slide":41,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/10jqh8ry","slide":41,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/exsr6t87","slide":41,"name":"逻辑标签 1","text":"提交以前","textPreview":"提交以前","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/zy18fy9s","slide":41,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/83u9cnqp","slide":41,"name":"逻辑标签 2","text":"生成以后","textPreview":"生成以后","textChars":4,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/943qlsru","slide":41,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/hkzq58je","slide":41,"name":"逻辑标签 3","text":"改写以前","textPreview":"改写以前","textChars":4,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/cnmpwjmp","slide":41,"text":"[Sources]\n- Green Office Week fictional training workflow on slides 24–30"}
+{"kind":"slide","id":"sl/7mdw7yh8","slide":42,"title":"04 日常工作中的 Copilot 实操","textShapes":8}
+{"kind":"shape","id":"sh/jul8nahw","slide":42,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/mlovmtcr","slide":42,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/nmxwfetc","slide":42,"name":"Rectangle 2","text":"轮到你：用同样的方法完成一个小任务","textPreview":"轮到你：用同样的方法完成一个小任务","textChars":17,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/0j6dkjul","slide":42,"name":"Rectangle 3","text":"可以继续使用绿色办公周资料，也可以选择会议纪要整理、邮件改写或项目资料总结。在 Copilot 中写出背景、任务、输出和约束，并让结果列出仍需确认的信息。","textPreview":"可以继续使用绿色办公周资料，也可以选择会议纪要整理、邮件改写或项目资料总结。在 Copilot 中写出背景、任务、输出和约束，并让结果列出仍需确认的信息。","textChars":77,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/lkfedov6","slide":42,"name":"Rectangle 4","text":"31","textPreview":"31","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/yh4vi9cv","slide":42,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/zixcbedg","slide":42,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,235]}
+{"kind":"textbox","id":"sh/cfmdgzup","slide":42,"name":"Rectangle 7","text":"练习要求","textPreview":"练习要求","textChars":4,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/dgvu94va","slide":42,"name":"Rectangle 8","text":"1. 首先用背景、任务、输出、约束四段结构写一个提示词。\n\n2. 然后要求 Copilot 指出至少一个不确定项、冲突或需要人工核对的事实。\n\n3. 最后把结果改写成可直接用于沟通的一段文字、邮件或简报。","textPreview":"1. 首先用背景、任务、输出、约束四段结构写一个提示词。 |  | 2. 然后要求 Copilot 指出至少一个不确定项、冲突或需要人工核对的事实。 |  | 3. 最后把结果改写成可直接用于沟通的一段文字、邮件或简报。","textChars":102,"textLines":5,"bbox":[170,288,910,120]}
+{"kind":"textbox","id":"sh/5w3qp0z2","slide":42,"name":"Rectangle 9","text":"完成后与同事交流：你的提示词中，哪一条约束最重要？","textPreview":"完成后与同事交流：你的提示词中，哪一条约束最重要？","textChars":25,"textLines":1,"bbox":[150,492,980,42]}
+{"kind":"textbox","id":"sh/4vu9wvih","slide":42,"name":"Rectangle: Rounded Corners 10","text":"打开 Copilot 开始练习  ↗","textPreview":"打开 Copilot 开始练习  ↗","textChars":18,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/7mdw7yh8","slide":42,"text":"[Sources]\n- https://m365.cloud.microsoft/chat"}
+{"kind":"slide","id":"sl/qhkbqxoz","slide":43,"title":"04 日常工作中的 Copilot 实操","textShapes":13}
+{"kind":"shape","id":"sh/xsnylcvu","slide":43,"name":"Rectangle 23","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/5ojy5gr2","slide":43,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/43axcvqx","slide":43,"name":"Rectangle 2","text":"绿色办公周实操｜任务、示例提示词与预期结果","textPreview":"绿色办公周实操｜任务、示例提示词与预期结果","textChars":21,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/vyhgz690","slide":43,"name":"Rectangle 3","text":"练习材料将在课程群内发放。下面提示词只是一种示例；重点是把背景、任务、输出和约束说清楚。完成练习后，下一部分会把同样的方法固化为可重复使用的 Agent。","textPreview":"练习材料将在课程群内发放。下面提示词只是一种示例；重点是把背景、任务、输出和约束说清楚。完成练习后，下一部分会把同样的方法固化为可重复使用的 Agent。","textChars":77,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/ux8f618f","slide":43,"name":"Rectangle 4","text":"31A","textPreview":"31A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/h0jy1gr6","slide":43,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/wzax8bql","slide":43,"name":"Rectangle: Rounded Corners 6","bbox":[110,190,1060,80]}
+{"kind":"shape","id":"sh/fulgba9k","slide":43,"name":"Rectangle: Rounded Corners 7","bbox":[128,204,105,52]}
+{"kind":"textbox","id":"sh/etczi58z","slide":43,"name":"Rectangle 8","text":"要做什么","textPreview":"要做什么","textChars":4,"textLines":1,"bbox":[128,216,105,25]}
+{"kind":"textbox","id":"sh/grq10fmp","slide":43,"name":"Rectangle 9","text":"阅读群内发放的三份虚构资料，用 Copilot 总结项目目标、进展和行动项，比较来源并找出冲突。","textPreview":"阅读群内发放的三份虚构资料，用 Copilot 总结项目目标、进展和行动项，比较来源并找出冲突。","textChars":48,"textLines":1,"bbox":[260,207,860,48]}
+{"kind":"shape","id":"sh/1szitk3a","slide":43,"name":"Rectangle: Rounded Corners 10","bbox":[110,292,1060,80]}
+{"kind":"shape","id":"sh/epojyp4j","slide":43,"name":"Rectangle: Rounded Corners 11","bbox":[128,306,105,52]}
+{"kind":"textbox","id":"sh/fqh0rul4","slide":43,"name":"Rectangle 12","text":"示例","textPreview":"示例","textChars":2,"textLines":1,"bbox":[128,318,105,25]}
+{"kind":"textbox","id":"sh/sn61wfmt","slide":43,"name":"Rectangle 13","text":"“仅根据三份资料，总结目标、指标、预算、日期、决定、行动项、风险和缺失；比较来源。先输出简报，再起草邮件。不要补充资料中没有的事实；冲突列出两个版本和来源，标记‘待确认’。”","textPreview":"“仅根据三份资料，总结目标、指标、预算、日期、决定、行动项、风险和缺失；比较来源。先输出简报，再起草邮件。不要补充资料中没有的事实；冲突列出两个版本和来源，标记‘待确认’。”","textChars":87,"textLines":1,"bbox":[260,309,860,48]}
+{"kind":"shape","id":"sh/tofipk3y","slide":43,"name":"Rectangle: Rounded Corners 14","bbox":[110,394,1060,80]}
+{"kind":"shape","id":"sh/6loju54n","slide":43,"name":"Rectangle: Rounded Corners 15","bbox":[128,408,105,52]}
+{"kind":"textbox","id":"sh/rmx0nal8","slide":43,"name":"Rectangle 16","text":"结果","textPreview":"结果","textChars":2,"textLines":1,"bbox":[128,420,105,25]}
+{"kind":"textbox","id":"sh/4z61svmh","slide":43,"name":"Rectangle 17","text":"一页项目接手简报（含行动项表格）＋一封跟进邮件草稿＋一份待确认事项清单。","textPreview":"一页项目接手简报（含行动项表格）＋一封跟进邮件草稿＋一份待确认事项清单。","textChars":36,"textLines":1,"bbox":[260,411,860,48]}
+{"kind":"shape","id":"sh/50fil032","slide":43,"name":"Rectangle: Rounded Corners 18","bbox":[110,496,1060,80]}
+{"kind":"shape","id":"sh/lg7ypwvq","slide":43,"name":"Rectangle: Rounded Corners 19","bbox":[128,510,105,52]}
+{"kind":"textbox","id":"sh/kfyhwre5","slide":43,"name":"Rectangle 20","text":"检查","textPreview":"检查","textChars":2,"textLines":1,"bbox":[128,522,105,25]}
+{"kind":"textbox","id":"sh/je5gnmd0","slide":43,"name":"Rectangle 21","text":"应发现“8月28日 / 8月31日”冲突；供应商、合同金额等缺失内容应写“资料中未找到”。","textPreview":"应发现“8月28日 / 8月31日”冲突；供应商、合同金额等缺失内容应写“资料中未找到”。","textChars":45,"textLines":1,"bbox":[260,513,860,48]}
+{"kind":"textbox","id":"sh/ytwzuhwf","slide":43,"name":"Rectangle: Rounded Corners 22","text":"打开 Microsoft 365 Copilot  ↗","textPreview":"打开 Microsoft 365 Copilot  ↗","textChars":27,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/qhkbqxoz","slide":43,"text":"讲解提示：这是示例提示词，不是唯一写法。重点是把背景、任务、输出和约束说清楚。\n[Sources]\n- Bootcamp_AI培训资料汇总_20260820/02_Copilot日常实操案例/01_绿色办公周_项目简介_虚构数据.txt\n- Bootcamp_AI培训资料汇总_20260820/02_Copilot日常实操案例/02_绿色办公周_会议纪要_虚构数据.txt\n- Bootcamp_AI培训资料汇总_20260820/02_Copilot日常实操案例/03_绿色办公周_时间表_虚构数据.txt"}
+{"kind":"slide","id":"sl/pcvutcvy","slide":44,"title":"04 日常工作中的 Copilot 实操","textShapes":14}
+{"kind":"shape","id":"sh/6poz69cf","slide":44,"name":"Rectangle 11","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/tozulw3e","slide":44,"name":"Rectangle 1","text":"04 日常工作中的 Copilot 实操","textPreview":"04 日常工作中的 Copilot 实操","textChars":20,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/s3qdcr2t","slide":44,"name":"Rectangle 2","text":"练习完成的标准，不是只得到一段答案","textPreview":"练习完成的标准，不是只得到一段答案","textChars":17,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/fqhcn6lk","slide":44,"name":"Rectangle 3","text":"最终结果需要同时满足信息完整、来源清楚、冲突保留和沟通可执行四项要求。","textPreview":"最终结果需要同时满足信息完整、来源清楚、冲突保留和沟通可执行四项要求。","textChars":35,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/ep8ve1kz","slide":44,"name":"Rectangle 4","text":"32A","textPreview":"32A","textChars":3,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/1szepg3q","slide":44,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/grqdgb25","slide":44,"name":"Rectangle: Rounded Corners 6","bbox":[130,205,1020,315]}
+{"kind":"textbox","id":"sh/vuxcb2lg","slide":44,"name":"Rectangle 7","text":"怎样判断练习完成","textPreview":"怎样判断练习完成","textChars":8,"textLines":1,"bbox":[170,238,220,34]}
+{"kind":"textbox","id":"sh/ut4b2xkv","slide":44,"name":"Rectangle 8","text":"练习材料会在课程群内发放。页面上的提示词只是一种示例，可以直接试用，也可以根据自己的表达方式调整；关键是保留背景、任务、输出和约束四个组成部分。\n\n完成后，应当得到一页项目接手简报、一封跟进邮件草稿和一份待确认事项清单。行动项需要包含负责人、截止日期和状态，不能只做宽泛总结。\n\n最后检查质量：结果应发现 8 月 28 日与 8 月 31 日的日期冲突；供应商、合同金额等未提供的信息应写成“资料中未找到”，而不是由 Copilot 自行补全。","textPreview":"练习材料会在课程群内发放。页面上的提示词只是一种示例，可以直接试用，也可以根据自己的表达方式调整；关键是保留背景、任务、输出和约束四个组成部分。 |  | 完成后，应当得到一页项目接手简报、一封跟进邮件草稿和一份待确认事项清单。行动项需要包含负责人、截止日期和状态，不能只做...","textChars":222,"textLines":5,"bbox":[170,286,910,210]}
+{"kind":"textbox","id":"sh/8rqh8jul","slide":44,"name":"Rectangle 9","text":"可靠结果要能说明知道什么、不知道什么，以及下一步需要谁确认。","textPreview":"可靠结果要能说明知道什么、不知道什么，以及下一步需要谁确认。","textChars":30,"textLines":1,"bbox":[150,535,980,50]}
+{"kind":"textbox","id":"sh/tszihov6","slide":44,"name":"Rectangle: Rounded Corners 10","text":"打开 Microsoft 365 Copilot  ↗","textPreview":"打开 Microsoft 365 Copilot  ↗","textChars":27,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"shape","id":"sh/7qx0fed0","slide":44,"name":"逻辑箭头 1","bbox":[660,246,34,14]}
+{"kind":"shape","id":"sh/gvqhcjuh","slide":44,"name":"逻辑箭头 2","bbox":[880,246,34,14]}
+{"kind":"textbox","id":"sh/hwzilov2","slide":44,"name":"逻辑节点 1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[500,237,30,30]}
+{"kind":"textbox","id":"sh/ut8za9cr","slide":44,"name":"逻辑标签 1","text":"信息完整","textPreview":"信息完整","textChars":4,"textLines":1,"bbox":[538,235,115,34]}
+{"kind":"textbox","id":"sh/vuh0jedw","slide":44,"name":"逻辑节点 2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[720,237,30,30]}
+{"kind":"textbox","id":"sh/wz6h0zud","slide":44,"name":"逻辑标签 2","text":"来源清楚","textPreview":"来源清楚","textChars":4,"textLines":1,"bbox":[758,235,115,34]}
+{"kind":"textbox","id":"sh/x0fi9kvy","slide":44,"name":"逻辑节点 3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[940,237,30,30]}
+{"kind":"textbox","id":"sh/dw7ydgnm","slide":44,"name":"逻辑标签 3","text":"沟通可执行","textPreview":"沟通可执行","textChars":5,"textLines":1,"bbox":[978,235,115,34]}
+{"kind":"notes","id":"nt/pcvutcvy","slide":44,"text":"[Sources]\n- Green Office Week fictional training files and example prompt on slides 24–32"}
+{"kind":"slide","id":"sl/kvipwnmh","slide":45,"title":"PART 5","textShapes":6}
+{"kind":"shape","id":"sh/vi1kjyd0","slide":45,"name":"Rectangle 7","bbox":[0,0,18,720]}
+{"kind":"textbox","id":"sh/lsz2dofy","slide":45,"name":"Rectangle 1","text":"PART 5","textPreview":"PART 5","textChars":6,"textLines":1,"bbox":[84,88,350,36]}
+{"kind":"textbox","id":"sh/0rq1kjed","slide":45,"name":"Rectangle 2","text":"业务案例与最佳实践：AI Tool Lab × Agent Builder","textPreview":"业务案例与最佳实践：AI Tool Lab × Agent Builder","textChars":37,"textLines":1,"bbox":[84,160,1030,115]}
+{"kind":"textbox","id":"sh/ne1kfydo","slide":45,"name":"Rectangle 3","text":"AI Tool Lab 目前包含两条工具路线和 10 个 Lab。本课程第五部分聚焦 Microsoft 365 Copilot 路线中的前四个 Agent Builder Lab，并以第 3 个“会议跟进助手”作为讲师示范。","textPreview":"AI Tool Lab 目前包含两条工具路线和 10 个 Lab。本课程第五部分聚焦 Microsoft 365 Copilot 路线中的前四个 Agent Builder Lab，并以第 3 个“会议跟进助手”作为讲师示范。","textChars":113,"textLines":1,"bbox":[84,306,900,126]}
+{"kind":"textbox","id":"sh/mtsjmtw3","slide":45,"name":"Rectangle: Rounded Corners 4","text":"AI Tool Lab  ↗","textPreview":"AI Tool Lab  ↗","textChars":14,"textLines":1,"bbox":[84,602,232,36]}
+{"kind":"textbox","id":"sh/9gj2hovu","slide":45,"name":"Rectangle: Rounded Corners 5","text":"Agent Builder 路径  ↗","textPreview":"Agent Builder 路径  ↗","textChars":19,"textLines":1,"bbox":[336,602,232,36]}
+{"kind":"textbox","id":"sh/8fa1oje9","slide":45,"name":"Rectangle: Rounded Corners 6","text":"M365 Copilot  ↗","textPreview":"M365 Copilot  ↗","textChars":15,"textLines":1,"bbox":[588,602,232,36]}
+{"kind":"notes","id":"nt/kvipwnmh","slide":45,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/#agent-builder-path\n- https://m365.cloud.microsoft/"}
+{"kind":"slide","id":"sl/zixsf2ps","slide":46,"title":"05 Agent Builder 动手 Lab","textShapes":8}
+{"kind":"shape","id":"sh/9orm5wrq","slide":46,"name":"Rectangle 13","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/a9s3uhcv","slide":46,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/va14nmtg","slide":46,"name":"Rectangle 2","text":"AI Tool Lab：两条路线、十个 Lab，本课程聚焦前四个","textPreview":"AI Tool Lab：两条路线、十个 Lab，本课程聚焦前四个","textChars":32,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/kful0rud","slide":46,"name":"Rectangle 3","text":"网站当前包含 6 个 Microsoft 365 Copilot Lab 和 4 个 Enterprise ChatGPT Lab。第五部分只展开站内 Lab 01–04，其余六个可在课后继续探索。","textPreview":"网站当前包含 6 个 Microsoft 365 Copilot Lab 和 4 个 Enterprise ChatGPT Lab。第五部分只展开站内 Lab 01–04，其余六个可在课后继续探索。","textChars":99,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/5g3mtwbi","slide":46,"name":"Rectangle 4","text":"33","textPreview":"33","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/ids3yhc7","slide":46,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/s3ul4bu9","slide":46,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/t43mxwbu","slide":46,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/l0721wre","slide":46,"name":"Rectangle 9","text":"关键内容","textPreview":"关键内容","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/0zylsrat","slide":46,"name":"Rectangle 10","text":"首先从四个场景中选择一个：Chief of Staff、Product Manual FAQ、Meeting Follow-up Assistant 或 Funnel Data Analyst。\n\n在课堂上，PPT 用于解释关键画面，AI Tool Lab 网站提供步骤和材料，真正的配置、预览与创建在 Microsoft 365 Copilot 中完成。\n\n完成后，你可以沿用同样的步骤，把自己的重复任务改造成一个简单、可测试的 Agent。","textPreview":"首先从四个场景中选择一个：Chief of Staff、Product Manual FAQ、Meeting Follow-up Assistant 或 Funnel Data Analyst。 |  | 在课堂上，PPT 用于解释关键画面，AI Tool Lab 网站提供...","textChars":222,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/zypkzm9o","slide":46,"name":"Rectangle: Rounded Corners 11","text":"打开 AI Tool Lab  ↗","textPreview":"打开 AI Tool Lab  ↗","textChars":17,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"textbox","id":"sh/yxg3qhs3","slide":46,"name":"Rectangle: Rounded Corners 12","text":"进入 Agent Builder 路径  ↗","textPreview":"进入 Agent Builder 路径  ↗","textChars":22,"textLines":1,"bbox":[320,616,260,36]}
+{"kind":"image","id":"im/32lobm18","slide":46,"name":"Picture 21","geometry":"roundRect","bbox":[72,195.68,702,368.64]}
+{"kind":"notes","id":"nt/zixsf2ps","slide":46,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/#agent-builder-path"}
+{"kind":"slide","id":"sl/atcnytkf","slide":47,"title":"05 Agent Builder 动手 Lab","textShapes":20}
+{"kind":"shape","id":"sh/r2t0nu58","slide":47,"name":"Rectangle 30","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/503e9ora","slide":47,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/4zadgjap","slide":47,"name":"Rectangle 2","text":"课堂动手范围：站内 Lab 01–04","textPreview":"课堂动手范围：站内 Lab 01–04","textChars":19,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/rmlwby90","slide":47,"name":"Rectangle 3","text":"这四个 Lab 是网站 Microsoft 365 Copilot 路线中的前四个 Agent Builder 场景，分别练习事务协调、产品资料问答、会议跟进和销售数据分析。讲师演示 Lab 03，实践时可任选一个，并以所选页面的当前检查清单为准。","textPreview":"这四个 Lab 是网站 Microsoft 365 Copilot 路线中的前四个 Agent Builder 场景，分别练习事务协调、产品资料问答、会议跟进和销售数据分析。讲师演示 Lab 03，实践时可任选一个，并以所选页面的当前检查清单为准。","textChars":124,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/6lcvitsf","slide":47,"name":"Rectangle 4","text":"34","textPreview":"34","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/do3edor6","slide":47,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/snudk3al","slide":47,"name":"Rectangle: Rounded Corners 6","bbox":[86,188,540,164]}
+{"kind":"shape","id":"sh/7qhczu9w","slide":47,"name":"Oval 7","bbox":[108,212,46,46]}
+{"kind":"textbox","id":"sh/mp8v6psb","slide":47,"name":"Rectangle 8","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[108,223,46,24]}
+{"kind":"textbox","id":"sh/szy5wbeh","slide":47,"name":"Rectangle 9","text":"Chief of Staff｜事务协调","textPreview":"Chief of Staff｜事务协调","textChars":19,"textLines":1,"bbox":[174,210,400,32]}
+{"kind":"textbox","id":"sh/d07mpgv2","slide":47,"name":"Rectangle 10","text":"整理任务、优先级和会议准备，练习怎样写清 Agent 的服务对象和工作方式。","textPreview":"整理任务、优先级和会议准备，练习怎样写清 Agent 的服务对象和工作方式。","textChars":38,"textLines":1,"bbox":[174,255,410,70]}
+{"kind":"shape","id":"sh/qxgnu1wb","slide":47,"name":"Rectangle: Rounded Corners 11","bbox":[654,188,540,164]}
+{"kind":"shape","id":"sh/ryp4n6dw","slide":47,"name":"Oval 12","bbox":[676,212,46,46]}
+{"kind":"textbox","id":"sh/03y50ved","slide":47,"name":"Rectangle 13","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[676,223,46,24]}
+{"kind":"textbox","id":"sh/14rmtgvy","slide":47,"name":"Rectangle 14","text":"Product Manual FAQ｜产品问答","textPreview":"Product Manual FAQ｜产品问答","textChars":23,"textLines":1,"bbox":[742,210,400,32]}
+{"kind":"textbox","id":"sh/e1gnylwn","slide":47,"name":"Rectangle 15","text":"依据产品资料回答问题，练习怎样限定参考范围，以及资料不足时怎样回应。","textPreview":"依据产品资料回答问题，练习怎样限定参考范围，以及资料不足时怎样回应。","textChars":34,"textLines":1,"bbox":[742,255,410,70]}
+{"kind":"shape","id":"sh/f2p4rqd8","slide":47,"name":"Rectangle: Rounded Corners 16","bbox":[86,376,540,164]}
+{"kind":"shape","id":"sh/g7elore9","slide":47,"name":"Oval 17","bbox":[108,400,46,46]}
+{"kind":"textbox","id":"sh/h8nmhwvu","slide":47,"name":"Rectangle 18","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[108,411,46,24]}
+{"kind":"textbox","id":"sh/xof2lsni","slide":47,"name":"Rectangle 19","text":"Meeting Follow-up｜会议跟进","textPreview":"Meeting Follow-up｜会议跟进","textChars":22,"textLines":1,"bbox":[174,398,400,32]}
+{"kind":"textbox","id":"sh/wn6lsn6x","slide":47,"name":"Rectangle 20","text":"把会议内容转为摘要、行动项和跟进邮件。本次讲师示范使用这一案例。","textPreview":"把会议内容转为摘要、行动项和跟进邮件。本次讲师示范使用这一案例。","textChars":32,"textLines":1,"bbox":[174,443,410,70]}
+{"kind":"shape","id":"sh/b2xkjips","slide":47,"name":"Rectangle: Rounded Corners 21","bbox":[654,376,540,164]}
+{"kind":"shape","id":"sh/a1ojqdo7","slide":47,"name":"Oval 22","bbox":[676,400,46,46]}
+{"kind":"textbox","id":"sh/5sf2psnu","slide":47,"name":"Rectangle 23","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[676,411,46,24]}
+{"kind":"textbox","id":"sh/kr6lwn69","slide":47,"name":"Rectangle 24","text":"Funnel Data Analyst｜销售分析","textPreview":"Funnel Data Analyst｜销售分析","textChars":24,"textLines":1,"bbox":[742,398,400,32]}
+{"kind":"textbox","id":"sh/jqxkni5o","slide":47,"name":"Rectangle 25","text":"分析销售机会数据并解释图表，练习怎样写清筛选条件、输出内容和业务问题。","textPreview":"分析销售机会数据并解释图表，练习怎样写清筛选条件、输出内容和业务问题。","textChars":35,"textLines":1,"bbox":[742,443,410,70]}
+{"kind":"textbox","id":"sh/ipo3udo3","slide":47,"name":"Rectangle: Rounded Corners 26","text":"Lab 1  ↗","textPreview":"Lab 1  ↗","textChars":8,"textLines":1,"bbox":[72,616,120,36]}
+{"kind":"textbox","id":"sh/twz2tcnq","slide":47,"name":"Rectangle: Rounded Corners 27","text":"Lab 2  ↗","textPreview":"Lab 2  ↗","textChars":8,"textLines":1,"bbox":[205,616,120,36]}
+{"kind":"textbox","id":"sh/svql0765","slide":47,"name":"Rectangle: Rounded Corners 28","text":"Lab 3  ↗","textPreview":"Lab 3  ↗","textChars":8,"textLines":1,"bbox":[338,616,120,36]}
+{"kind":"textbox","id":"sh/q10zu94n","slide":47,"name":"Rectangle: Rounded Corners 29","text":"Lab 4  ↗","textPreview":"Lab 4  ↗","textChars":8,"textLines":1,"bbox":[471,616,120,36]}
+{"kind":"notes","id":"nt/atcnytkf","slide":47,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/chief-of-staff/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/product-manual-faq/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/meeting-follow-up/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/funnel-data-analyst/"}
+{"kind":"slide","id":"sl/pwb6x4jy","slide":48,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/bupwr6hk","slide":48,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/94va1sf2","slide":48,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/83m9snyx","slide":48,"name":"Rectangle 2","text":"Lab 01｜Chief of Staff：整理日程、优先级和会议准备","textPreview":"Lab 01｜Chief of Staff：整理日程、优先级和会议准备","textChars":35,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/zyt8vix0","slide":48,"name":"Rectangle 3","text":"这个 Agent 读取本人真实的 Microsoft 365 日历、会议、邮件和任务，整理优先级、冲突和后续准备。当前网页配置的三个快捷入口是今日日程、紧急事项和明日提醒；预览图中的 Top priorities 可作为扩展入口。","textPreview":"这个 Agent 读取本人真实的 Microsoft 365 日历、会议、邮件和任务，整理优先级、冲突和后续准备。当前网页配置的三个快捷入口是今日日程、紧急事项和明日提醒；预览图中的 Top priorities 可作为扩展入口。","textChars":115,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/yxkrmdgf","slide":48,"name":"Rectangle 4","text":"35","textPreview":"35","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/l0vaxsf6","slide":48,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/juxs7mxk","slide":48,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/itoryhgz","slide":48,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/cvyxkbi5","slide":48,"name":"Rectangle 9","text":"关键内容","textPreview":"关键内容","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/dw7etgzq","slide":48,"name":"Rectangle 10","text":"首先明确输入范围：日历、紧急事项和当前目标，Agent 会结合时间冲突与任务重要性进行整理。\n\n接着按照处理规则，区分必须今天处理、可推迟和需要协调的事项，并为重要会议补充目标、风险与谈话要点。\n\n因此你会看到带理由的优先级、清楚标出的时间冲突，以及可直接用于当天安排的建议。","textPreview":"首先明确输入范围：日历、紧急事项和当前目标，Agent 会结合时间冲突与任务重要性进行整理。 |  | 接着按照处理规则，区分必须今天处理、可推迟和需要协调的事项，并为重要会议补充目标、风险与谈话要点。 |  | 因此你会看到带理由的优先级、清楚标出的时间冲突，以及可直接用...","textChars":138,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/qtgfy10z","slide":48,"name":"Rectangle: Rounded Corners 11","text":"打开 Lab 01  ↗","textPreview":"打开 Lab 01  ↗","textChars":12,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"image","id":"im/fip4bypk","slide":48,"name":"Picture 20","geometry":"roundRect","bbox":[72,187.92,702,384.16]}
+{"kind":"notes","id":"nt/pwb6x4jy","slide":48,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/chief-of-staff/"}
+{"kind":"slide","id":"sl/oz2xg3q1","slide":49,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/kz6tcbad","slide":49,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/0ra1w7al","slide":49,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/1sj2psbq","slide":49,"name":"Rectangle 2","text":"Lab 02｜产品手册问答：验证权限、引用与拒答","textPreview":"Lab 02｜产品手册问答：验证权限、引用与拒答","textChars":24,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/ql8jqdc3","slide":49,"name":"Rectangle 3","text":"这个 Lab 不只检查答案是否正确，还要确认 SharePoint 权限、知识源连接和拒答机制。成功标准是：资料内问题带可打开引用，资料外问题明确拒答。","textPreview":"这个 Lab 不只检查答案是否正确，还要确认 SharePoint 权限、知识源连接和拒答机制。成功标准是：资料内问题带可打开引用，资料外问题明确拒答。","textChars":76,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/rmhkjito","slide":49,"name":"Rectangle 4","text":"36","textPreview":"36","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/cnq1snu9","slide":49,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/ahc3mhsn","slide":49,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/vilkvmt8","slide":49,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/jyxcj6ts","slide":49,"name":"Rectangle 9","text":"关键内容","textPreview":"关键内容","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/ixoba1c7","slide":49,"name":"Rectangle 10","text":"首先明确任务边界：只依据已加载的产品手册回答，不把模型常识、营销想象或其他产品信息混入答案。\n\n在此基础上组织回答：先概括减少氦气维护、AI 辅助工作流、成像质量和长期使用成本等卖点，再把规格转化为客户价值。\n\n最后检查来源：关键规格旁应显示资料出处；如果资料未覆盖或版本不同，回答要直接说明当前无法确认。","textPreview":"首先明确任务边界：只依据已加载的产品手册回答，不把模型常识、营销想象或其他产品信息混入答案。 |  | 在此基础上组织回答：先概括减少氦气维护、AI 辅助工作流、成像质量和长期使用成本等卖点，再把规格转化为客户价值。 |  | 最后检查来源：关键规格旁应显示资料出处；如果资...","textChars":153,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/50fulgbi","slide":49,"name":"Rectangle: Rounded Corners 11","text":"打开 Lab 02  ↗","textPreview":"打开 Lab 02  ↗","textChars":12,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"image","id":"im/8zud4nil","slide":49,"name":"Picture 20","geometry":"roundRect","alt":"新版 Agent Builder 中 Product Manual FAQ 的 Knowledge 与 Work content 设置","bbox":[101.59,185,642.82,390]}
+{"kind":"notes","id":"nt/oz2xg3q1","slide":49,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/product-manual-faq/\n- Current site screenshot: lab2-product-manual-new-ui.png"}
+{"kind":"slide","id":"sl/a9gvuxsb","slide":50,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/s32p4n6t","slide":50,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/ofq943e5","slide":50,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/pgzax8vq","slide":50,"name":"Rectangle 2","text":"Lab 03｜会议跟进：开启 Outlook、Teams 并添加模板","textPreview":"Lab 03｜会议跟进：开启 Outlook、Teams 并添加模板","textChars":34,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/eporytw3","slide":50,"name":"Rectangle 3","text":"当前页面要求先在 Work content 中开启 Outlook 和 Teams，再通过 Add knowledge 或 Message Agent Builder 添加 Mail Template CN 或 EN。模板只选与输出语言一致的一份。","textPreview":"当前页面要求先在 Work content 中开启 Outlook 和 Teams，再通过 Add knowledge 或 Message Agent Builder 添加 Mail Template CN 或 EN。模板只选与输出语言一致的一份。","textChars":124,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/fqhsrydo","slide":50,"name":"Rectangle 4","text":"37","textPreview":"37","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/gbq90jet","slide":50,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/6loru9wr","slide":50,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/rmx8nedc","slide":50,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/r2tobip8","slide":50,"name":"Rectangle 9","text":"关键内容","textPreview":"关键内容","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/q1072xon","slide":50,"name":"Rectangle 10","text":"首先提供原始会议内容、阅读对象和所需栏目，并要求标出尚未确认的信息，避免只生成普通会议摘要。\n\n接着加入邮件模板作为参考资料，让不同会议沿用相同的管理层汇报结构和语言风格。\n\n最终结果要把决策与讨论分开，行动项带负责人和时间，尚未确定的产品演示继续标记为待确认。","textPreview":"首先提供原始会议内容、阅读对象和所需栏目，并要求标出尚未确认的信息，避免只生成普通会议摘要。 |  | 接着加入邮件模板作为参考资料，让不同会议沿用相同的管理层汇报结构和语言风格。 |  | 最终结果要把决策与讨论分开，行动项带负责人和时间，尚未确定的产品演示继续标记为待确认。","textChars":131,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/d4b6ds7e","slide":50,"name":"Rectangle: Rounded Corners 11","text":"打开讲师示范 Lab 03  ↗","textPreview":"打开讲师示范 Lab 03  ↗","textChars":16,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"image","id":"im/oneho7up","slide":50,"name":"Picture 20","geometry":"roundRect","alt":"新版 Agent Builder 的 Add knowledge 完整文件选择界面","bbox":[72,186.74,702,386.53]}
+{"kind":"notes","id":"nt/a9gvuxsb","slide":50,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/meeting-follow-up/\n- Current site screenshot: lab3-add-knowledge-full-ui.png"}
+{"kind":"slide","id":"sl/36hsrmts","slide":51,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/j21czqdw","slide":51,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/l8rat03a","slide":51,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/07yt0vmp","slide":51,"name":"Rectangle 2","text":"Lab 04｜销售漏斗分析：准备附件、能力与测试","textPreview":"Lab 04｜销售漏斗分析：准备附件、能力与测试","textChars":24,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/na9sval0","slide":51,"name":"Rectangle 3","text":"这个 Lab 先用自然语言生成草稿，再添加 Funnel Sample Data.xlsx 和 Chart Sample.pptx，并开启创建文档和创建图片能力。必做测试包括分类汇总和金额达成率，PPT 图表更新为选做挑战。","textPreview":"这个 Lab 先用自然语言生成草稿，再添加 Funnel Sample Data.xlsx 和 Chart Sample.pptx，并开启创建文档和创建图片能力。必做测试包括分类汇总和金额达成率，PPT 图表更新为选做挑战。","textChars":112,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/m90b254v","slide":51,"name":"Rectangle 4","text":"38","textPreview":"38","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/9craxk36","slide":51,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/3e5sj65w","slide":51,"name":"Rectangle: Rounded Corners 7","bbox":[70,183,706,394]}
+{"kind":"shape","id":"sh/2dwrql4b","slide":51,"name":"Rectangle: Rounded Corners 8","bbox":[800,185,408,390]}
+{"kind":"textbox","id":"sh/43ad8ve1","slide":51,"name":"Rectangle 9","text":"关键内容","textPreview":"关键内容","textChars":4,"textLines":1,"bbox":[824,207,360,30]}
+{"kind":"textbox","id":"sh/54ju10vm","slide":51,"name":"Rectangle 10","text":"首先理解类别：Omitted 是暂未纳入预测的机会，Pipeline 是仍在推进的机会，Best Case 是较乐观的预期，Commit 是团队承诺的预期，Closed 是已经关闭的机会。\n\n从图上可以观察到 Omitted 最高、Pipeline 第二；不过图表只能说明金额分布，不能直接解释差异原因。\n\n因此下一步要让 Agent 列出筛选条件、明显异常和待确认问题，例如 Omitted 由哪些机会组成、停留多久，以及其他区域是否相同。","textPreview":"首先理解类别：Omitted 是暂未纳入预测的机会，Pipeline 是仍在推进的机会，Best Case 是较乐观的预期，Commit 是团队承诺的预期，Closed 是已经关闭的机会。 |  | 从图上可以观察到 Omitted 最高、Pipeline 第二；不过图表只...","textChars":221,"textLines":5,"bbox":[824,251,360,302]}
+{"kind":"textbox","id":"sh/ihsv6lwb","slide":51,"name":"Rectangle: Rounded Corners 11","text":"打开 Lab 04  ↗","textPreview":"打开 Lab 04  ↗","textChars":12,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"image","id":"im/zals3254","slide":51,"name":"Picture 20","geometry":"roundRect","alt":"新版 Agent Builder Attachments 中的 Funnel Excel 与 PPT 文件","bbox":[97.25,185,651.5,390]}
+{"kind":"notes","id":"nt/36hsrmts","slide":51,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/funnel-data-analyst/\n- Current site screenshot: lab4-funnel-attachments-new-ui.png"}
+{"kind":"slide","id":"sl/gfe1wbu1","slide":52,"title":"05 Agent Builder 动手 Lab","textShapes":18}
+{"kind":"shape","id":"sh/6twzuxc3","slide":52,"name":"Rectangle 37","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/hozadsnm","slide":52,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/gnq94n61","slide":52,"name":"Rectangle 2","text":"构建 Agent 的八步流程，可以归纳成六组动作","textPreview":"构建 Agent 的八步流程，可以归纳成六组动作","textChars":24,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/3q1sf25s","slide":52,"name":"Rectangle 3","text":"网站把通用路线更新为八步：进入 Builder、新建 Agent、选择方式、填写字段、添加并验证知识源、设置能力、添加提示，最后测试、创建和分享。下图将相邻步骤合并为六组，便于记忆。","textPreview":"网站把通用路线更新为八步：进入 Builder、新建 Agent、选择方式、填写字段、添加并验证知识源、设置能力、添加提示，最后测试、创建和分享。下图将相邻步骤合并为六组，便于记忆。","textChars":91,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/2psr6xo7","slide":52,"name":"Rectangle 4","text":"39","textPreview":"39","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/psjahcny","slide":52,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/4ra987md","slide":52,"name":"Rectangle: Rounded Corners 6","bbox":[62,240,174,176]}
+{"kind":"shape","id":"sh/bu1sj254","slide":52,"name":"Oval 7","bbox":[122,260,54,54]}
+{"kind":"textbox","id":"sh/qtsbah4j","slide":52,"name":"Rectangle 8","text":"1–2","textPreview":"1–2","textChars":3,"textLines":1,"bbox":[122,274,54,26]}
+{"kind":"textbox","id":"sh/ob6t4fql","slide":52,"name":"Rectangle 9","text":"进入 Agents\n并新建","textPreview":"进入 Agents | 并新建","textChars":13,"textLines":2,"bbox":[80,338,138,58]}
+{"kind":"shape","id":"sh/pcfuxk76","slide":52,"name":"Arrow: Chevron 10","bbox":[238,305,24,38]}
+{"kind":"shape","id":"sh/29ob258v","slide":52,"name":"Rectangle: Rounded Corners 11","bbox":[264,240,174,176]}
+{"kind":"shape","id":"sh/3axcvap0","slide":52,"name":"Oval 12","bbox":[324,260,54,54]}
+{"kind":"textbox","id":"sh/czqt8f6x","slide":52,"name":"Rectangle 13","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[324,274,54,26]}
+{"kind":"textbox","id":"sh/d0zu1k7i","slide":52,"name":"Rectangle 14","text":"选择构建\n方式","textPreview":"选择构建 | 方式","textChars":7,"textLines":2,"bbox":[282,338,138,58]}
+{"kind":"shape","id":"sh/qdob6por","slide":52,"name":"Arrow: Chevron 15","bbox":[440,305,24,38]}
+{"kind":"shape","id":"sh/byhczapc","slide":52,"name":"Rectangle: Rounded Corners 16","bbox":[466,240,174,176]}
+{"kind":"shape","id":"sh/k3qtcz6t","slide":52,"name":"Oval 17","bbox":[526,260,54,54]}
+{"kind":"textbox","id":"sh/l4zu547e","slide":52,"name":"Rectangle 18","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[526,274,54,26]}
+{"kind":"textbox","id":"sh/98v290v6","slide":52,"name":"Rectangle 19","text":"填写名称、用途\n和工作规则","textPreview":"填写名称、用途 | 和工作规则","textChars":13,"textLines":2,"bbox":[484,338,138,58]}
+{"kind":"shape","id":"sh/87ml0vul","slide":52,"name":"Arrow: Chevron 20","bbox":[642,305,24,38]}
+{"kind":"shape","id":"sh/nmtk7qdg","slide":52,"name":"Rectangle: Rounded Corners 21","bbox":[668,240,174,176]}
+{"kind":"shape","id":"sh/mlkjylcv","slide":52,"name":"Oval 22","bbox":[728,260,54,54]}
+{"kind":"textbox","id":"sh/hcv2d0vi","slide":52,"name":"Rectangle 23","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[728,274,54,26]}
+{"kind":"textbox","id":"sh/wbml4fux","slide":52,"name":"Rectangle 24","text":"添加参考\n资料","textPreview":"添加参考 | 资料","textChars":7,"textLines":2,"bbox":[686,338,138,58]}
+{"kind":"shape","id":"sh/vadkbadc","slide":52,"name":"Arrow: Chevron 25","bbox":[844,305,24,38]}
+{"kind":"shape","id":"sh/u94325cr","slide":52,"name":"Rectangle: Rounded Corners 26","bbox":[870,240,174,176]}
+{"kind":"shape","id":"sh/dgb21gvy","slide":52,"name":"Oval 27","bbox":[930,260,54,54]}
+{"kind":"textbox","id":"sh/cfi1sbut","slide":52,"name":"Rectangle 28","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[930,274,54,26]}
+{"kind":"textbox","id":"sh/2lgz2hsb","slide":52,"name":"Rectangle 29","text":"设置常用\n快捷问题","textPreview":"设置常用 | 快捷问题","textChars":9,"textLines":2,"bbox":[888,338,138,58]}
+{"kind":"shape","id":"sh/3mp0bmtw","slide":52,"name":"Arrow: Chevron 30","bbox":[1046,305,24,38]}
+{"kind":"shape","id":"sh/onyh4rah","slide":52,"name":"Rectangle: Rounded Corners 31","bbox":[1072,240,174,176]}
+{"kind":"shape","id":"sh/poridwb2","slide":52,"name":"Oval 32","bbox":[1132,260,54,54]}
+{"kind":"textbox","id":"sh/qp0z6hsn","slide":52,"name":"Rectangle 33","text":"7–8","textPreview":"7–8","textChars":3,"textLines":1,"bbox":[1132,274,54,26]}
+{"kind":"textbox","id":"sh/bq90fmt8","slide":52,"name":"Rectangle 34","text":"试运行并\n创建","textPreview":"试运行并 | 创建","textChars":7,"textLines":2,"bbox":[1090,338,138,58]}
+{"kind":"textbox","id":"sh/crih8rad","slide":52,"name":"Rectangle 35","text":"因此，构建不止是把字段填完：定义任务以后，还要验证知识源是否真的可用、只开启必要能力，并通过试运行确认结果可靠。创建完成后再按需要分享，同时检查接收者是否拥有底层资料权限。","textPreview":"因此，构建不止是把字段填完：定义任务以后，还要验证知识源是否真的可用、只开启必要能力，并通过试运行确认结果可靠。创建完成后再按需要分享，同时检查接收者是否拥有底层资料权限。","textChars":86,"textLines":1,"bbox":[130,485,1020,52]}
+{"kind":"textbox","id":"sh/dsrihwby","slide":52,"name":"Rectangle: Rounded Corners 36","text":"打开 Agent Builder 路径  ↗","textPreview":"打开 Agent Builder 路径  ↗","textChars":22,"textLines":1,"bbox":[72,616,230,36]}
+{"kind":"notes","id":"nt/gfe1wbu1","slide":52,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/#agent-builder-path"}
+{"kind":"slide","id":"sl/9w7yt8zy","slide":53,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/m54vu18f","slide":53,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/m9kfqxo3","slide":53,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/natwz2po","slide":53,"name":"Rectangle 2","text":"步骤 1–2｜进入 Agent Builder 并新建 Agent","textPreview":"步骤 1–2｜进入 Agent Builder 并新建 Agent","textChars":33,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/0n2xon6x","slide":53,"name":"Rectangle 3","text":"先从 Microsoft 365 Copilot 左侧进入 Agents，再点击 Create agent。网站把“进入 Agent Builder”和“新建 Agent”分为两个步骤，本页合并展示入口与动作。","textPreview":"先从 Microsoft 365 Copilot 左侧进入 Agents，再点击 Create agent。网站把“进入 Agent Builder”和“新建 Agent”分为两个步骤，本页合并展示入口与动作。","textChars":105,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/1obexs7i","slide":53,"name":"Rectangle 4","text":"40","textPreview":"40","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/elkfmx87","slide":53,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/cjixknq1","slide":53,"name":"Rectangle: Rounded Corners 7","bbox":[70,178,738,414]}
+{"kind":"shape","id":"sh/dkbets7m","slide":53,"name":"Rectangle: Rounded Corners 8","bbox":[830,190,378,340]}
+{"kind":"textbox","id":"sh/98vu5grq","slide":53,"name":"Rectangle 9","text":"本步要点","textPreview":"本步要点","textChars":4,"textLines":1,"bbox":[858,224,322,32]}
+{"kind":"textbox","id":"sh/o7mdwbq5","slide":53,"name":"Rectangle 10","text":"首先从左侧导航进入 Agents；Search for an agent 用于查找已有 Agent，Your agents 显示当前可用项。\n\n接下来点击右侧 Create agent 开始新建；Researcher、Analyst 等则是已经可以使用的 Agent。","textPreview":"首先从左侧导航进入 Agents；Search for an agent 用于查找已有 Agent，Your agents 显示当前可用项。 |  | 接下来点击右侧 Create agent 开始新建；Researcher、Analyst 等则是已经可以使用的 Agent。","textChars":134,"textLines":3,"bbox":[858,272,322,240]}
+{"kind":"textbox","id":"sh/n6dc369k","slide":53,"name":"Rectangle: Rounded Corners 11","text":"打开 M365 Copilot  ↗","textPreview":"打开 M365 Copilot  ↗","textChars":18,"textLines":1,"bbox":[830,552,378,36]}
+{"kind":"image","id":"im/mt07mtcr","slide":53,"name":"Picture 20","geometry":"roundRect","bbox":[72,192.25,734,385.51]}
+{"kind":"notes","id":"nt/9w7yt8zy","slide":53,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/#agent-builder-path\n- https://m365.cloud.microsoft/"}
+{"kind":"slide","id":"sl/uhgfqdcf","slide":54,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/nmh83e58","slide":54,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/lwjyporq","slide":54,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/0vqxgja5","slide":54,"name":"Rectangle 2","text":"　步骤 3｜选择构建方式","textPreview":"步骤 3｜选择构建方式","textChars":12,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/b6hgju9o","slide":54,"name":"Rectangle 3","text":"页面提供三种方式：描述需求后自动生成草稿、点击 Skip 手动填写，或者从模板开始。","textPreview":"页面提供三种方式：描述需求后自动生成草稿、点击 Skip 手动填写，或者从模板开始。","textChars":42,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/q58faps3","slide":54,"name":"Rectangle 4","text":"41","textPreview":"41","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/dszyl4ru","slide":54,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/v21gvy9s","slide":54,"name":"Rectangle: Rounded Corners 7","bbox":[70,178,738,414]}
+{"kind":"shape","id":"sh/a1szmtsn","slide":54,"name":"Rectangle: Rounded Corners 8","bbox":[830,190,378,340]}
+{"kind":"textbox","id":"sh/8nq9cj6t","slide":54,"name":"Rectangle 9","text":"本步要点","textPreview":"本步要点","textChars":4,"textLines":1,"bbox":[858,224,322,32]}
+{"kind":"textbox","id":"sh/9ozq54ne","slide":54,"name":"Rectangle 10","text":"进入页面后，可以在输入框描述需求并让 Builder 生成草稿，也可以点击 Skip 手动设置，或从 Templates 的现成模板开始。\n\n本次演示选择手动填写，因此接下来会逐项查看名称、用途、工作规则和参考资料。","textPreview":"进入页面后，可以在输入框描述需求并让 Builder 生成草稿，也可以点击 Skip 手动设置，或从 Templates 的现成模板开始。 |  | 本次演示选择手动填写，因此接下来会逐项查看名称、用途、工作规则和参考资料。","textChars":108,"textLines":3,"bbox":[858,272,322,240]}
+{"kind":"textbox","id":"sh/mlo7a9o3","slide":54,"name":"Rectangle: Rounded Corners 11","text":"打开 Lab 操作指南  ↗","textPreview":"打开 Lab 操作指南  ↗","textChars":14,"textLines":1,"bbox":[830,552,378,36]}
+{"kind":"image","id":"im/vqpo3uho","slide":54,"name":"Picture 20","geometry":"roundRect","bbox":[72,208.4,734,353.21]}
+{"kind":"notes","id":"nt/uhgfqdcf","slide":54,"text":"[Sources]\n- User-provided Agent Builder guide screenshot\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/#agent-builder-path"}
+{"kind":"slide","id":"sl/vyd8bips","slide":55,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/yx0rmxsb","slide":55,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/q18b6l8r","slide":55,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/r2hszqpc","slide":55,"name":"Rectangle 2","text":"步骤 4｜填写核心字段与工作规则","textPreview":"步骤 4｜填写核心字段与工作规则","textChars":16,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/0rqtcfqt","slide":55,"name":"Rectangle 3","text":"截图标出了图标（Icon）、名称（Name）、用途说明（Description）和工作规则（Instructions）。","textPreview":"截图标出了图标（Icon）、名称（Name）、用途说明（Description）和工作规则（Instructions）。","textChars":60,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/1sju507e","slide":55,"name":"Rectangle 4","text":"42","textPreview":"42","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/ep8ba583","slide":55,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/gv6t0bqp","slide":55,"name":"Rectangle: Rounded Corners 7","bbox":[70,178,738,414]}
+{"kind":"shape","id":"sh/hwfatg7a","slide":55,"name":"Rectangle: Rounded Corners 8","bbox":[830,190,378,340]}
+{"kind":"textbox","id":"sh/l0raxsb2","slide":55,"name":"Rectangle 9","text":"本步要点","textPreview":"本步要点","textChars":4,"textLines":1,"bbox":[858,224,322,32]}
+{"kind":"textbox","id":"sh/kzi9o7ah","slide":55,"name":"Rectangle 10","text":"填写时先用图标和名称帮助用户识别 Agent，再用一句用途说明告诉大家它能做什么。\n\n最后通过工作规则写清输入内容、处理步骤、输出栏目、参考资料范围，以及信息不足时怎样回应。","textPreview":"填写时先用图标和名称帮助用户识别 Agent，再用一句用途说明告诉大家它能做什么。 |  | 最后通过工作规则写清输入内容、处理步骤、输出栏目、参考资料范围，以及信息不足时怎样回应。","textChars":87,"textLines":3,"bbox":[858,272,322,240]}
+{"kind":"textbox","id":"sh/zy9sv2tw","slide":55,"name":"Rectangle: Rounded Corners 11","text":"打开讲师示范 Lab  ↗","textPreview":"打开讲师示范 Lab  ↗","textChars":13,"textLines":1,"bbox":[830,552,378,36]}
+{"kind":"image","id":"im/mdc3ypgf","slide":55,"name":"Picture 20","geometry":"roundRect","bbox":[72,222.83,734,324.34]}
+{"kind":"notes","id":"nt/vyd8bips","slide":55,"text":"[Sources]\n- User-provided Agent Builder guide screenshot\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/meeting-follow-up/"}
+{"kind":"slide","id":"sl/83ix4rex","slide":56,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/gfq1c7y1","slide":56,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/gb2pcjuh","slide":56,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/hcbqlob2","slide":56,"name":"Rectangle 2","text":"　步骤 5–6｜验证知识源，并设置所需能力","textPreview":"步骤 5–6｜验证知识源，并设置所需能力","textChars":21,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/2dk7etcn","slide":56,"name":"Rectangle 3","text":"知识源名称出现在页面上并不代表已经连接成功。添加最少必要的资料后，还要用一条能够命中的问题和一条没有答案的问题，验证检索、引用和拒答行为。","textPreview":"知识源名称出现在页面上并不代表已经连接成功。添加最少必要的资料后，还要用一条能够命中的问题和一条没有答案的问题，验证检索、引用和拒答行为。","textChars":69,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/3et8nyts","slide":56,"name":"Rectangle 4","text":"43","textPreview":"43","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/4f29g3ud","slide":56,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/qh4ridcj","slide":56,"name":"Rectangle: Rounded Corners 7","bbox":[70,178,738,414]}
+{"kind":"shape","id":"sh/rid8ryt4","slide":56,"name":"Rectangle: Rounded Corners 8","bbox":[830,190,378,340]}
+{"kind":"textbox","id":"sh/fehk32hg","slide":56,"name":"Rectangle 9","text":"本步要点","textPreview":"本步要点","textChars":4,"textLines":1,"bbox":[858,224,322,32]}
+{"kind":"textbox","id":"sh/ed8jaxgv","slide":56,"name":"Rectangle 10","text":"添加资料时，先在上方输入网址、搜索名称或拖入文件；来源可以是 SharePoint、Teams、Outlook、网站，以及个人文件、聊天、会议和邮件。\n\n本次会议跟进助手只加入邮件模板和会议内容，因此其他无关资料暂时不选。","textPreview":"添加资料时，先在上方输入网址、搜索名称或拖入文件；来源可以是 SharePoint、Teams、Outlook、网站，以及个人文件、聊天、会议和邮件。 |  | 本次会议跟进助手只加入邮件模板和会议内容，因此其他无关资料暂时不选。","textChars":111,"textLines":3,"bbox":[858,272,322,240]}
+{"kind":"textbox","id":"sh/10j25czm","slide":56,"name":"Rectangle: Rounded Corners 11","text":"进入 Agent Builder  ↗","textPreview":"进入 Agent Builder  ↗","textChars":19,"textLines":1,"bbox":[830,552,378,36]}
+{"kind":"image","id":"im/wva9gba1","slide":56,"name":"Picture 20","geometry":"roundRect","bbox":[72,189.74,734,390.51]}
+{"kind":"notes","id":"nt/83ix4rex","slide":56,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/#agent-builder-path\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/product-manual-faq/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/meeting-follow-up/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/funnel-data-analyst/"}
+{"kind":"slide","id":"sl/p8vetc3e","slide":57,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/nqdsjq5w","slide":57,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/1cbm9or6","slide":57,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/gb250ja1","slide":57,"name":"Rectangle 2","text":"步骤 5 补充｜用新版 Add knowledge 查找会议模板","textPreview":"步骤 5 补充｜用新版 Add knowledge 查找会议模板","textChars":32,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/7m943e94","slide":57,"name":"Rectangle 3","text":"在 Configure 页面点击 Add knowledge，可以按 Files、Sites、Chats 或 Meetings 筛选，也可以通过左侧 Message Agent Builder 要求添加 Mail Template。","textPreview":"在 Configure 页面点击 Add knowledge，可以按 Files、Sites、Chats 或 Meetings 筛选，也可以通过左侧 Message Agent Builder 要求添加 Mail Template。","textChars":116,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/6l03u9sj","slide":57,"name":"Rectangle 4","text":"44","textPreview":"44","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/tobm5ora","slide":57,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/ji94zu98","slide":57,"name":"Rectangle: Rounded Corners 7","bbox":[70,178,738,414]}
+{"kind":"shape","id":"sh/ih0369sn","slide":57,"name":"Rectangle: Rounded Corners 8","bbox":[830,190,378,340]}
+{"kind":"textbox","id":"sh/obm9cvmh","slide":57,"name":"Rectangle 9","text":"本步要点","textPreview":"本步要点","textChars":4,"textLines":1,"bbox":[858,224,322,32]}
+{"kind":"textbox","id":"sh/pcval0n2","slide":57,"name":"Rectangle 10","text":"搜索时先输入 Mail Template，再核对修改时间、修改人和保存位置，确认模板来自哪个团队、是否为当前版本。\n\n确认版本后，中文管理层邮件选择 Mail Template CN，英文沟通选择 EN；若有多个同名文件，再打开查看栏目和适用范围。","textPreview":"搜索时先输入 Mail Template，再核对修改时间、修改人和保存位置，确认模板来自哪个团队、是否为当前版本。 |  | 确认版本后，中文管理层邮件选择 Mail Template CN，英文沟通选择 EN；若有多个同名文件，再打开查看栏目和适用范围。","textChars":124,"textLines":3,"bbox":[858,272,322,240]}
+{"kind":"textbox","id":"sh/2p4ra54b","slide":57,"name":"Rectangle: Rounded Corners 11","text":"打开 Lab 03  ↗","textPreview":"打开 Lab 03  ↗","textChars":12,"textLines":1,"bbox":[830,552,378,36]}
+{"kind":"image","id":"im/vmlsjy94","slide":57,"name":"Picture 20","geometry":"roundRect","alt":"新版 Add knowledge 文件搜索与筛选界面","bbox":[130.75,180,616.5,410]}
+{"kind":"notes","id":"nt/p8vetc3e","slide":57,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/meeting-follow-up/\n- Current site screenshot: lab3-add-knowledge-picker-ui.png"}
+{"kind":"slide","id":"sl/mdo3u583","slide":58,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/3edkra5w","slide":58,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/9wb6x87y","slide":58,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/8v2p43qt","slide":58,"name":"Rectangle 2","text":"　步骤 7｜添加 Starter prompts","textPreview":"步骤 7｜添加 Starter prompts","textChars":24,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/zqtorypw","slide":58,"name":"Rectangle 3","text":"每条 Starter prompt 包括一个简短标题（Title）和一段可以直接执行的任务（Message）。它不是关键词，而是用户点击后会完整发送的工作请求。","textPreview":"每条 Starter prompt 包括一个简短标题（Title）和一段可以直接执行的任务（Message）。它不是关键词，而是用户点击后会完整发送的工作请求。","textChars":80,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/yp07yt8b","slide":58,"name":"Rectangle 4","text":"45","textPreview":"45","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/lsb6to72","slide":58,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/jmd83ipg","slide":58,"name":"Rectangle: Rounded Corners 7","bbox":[70,178,738,414]}
+{"kind":"shape","id":"sh/il47adov","slide":58,"name":"Rectangle: Rounded Corners 8","bbox":[830,190,378,340]}
+{"kind":"textbox","id":"sh/4fm10fmh","slide":58,"name":"Rectangle 9","text":"本步要点","textPreview":"本步要点","textChars":4,"textLines":1,"bbox":[858,224,322,32]}
+{"kind":"textbox","id":"sh/pgf2tkn2","slide":58,"name":"Rectangle 10","text":"首先用 Title 的短语说明任务，例如“行动项”。\n\n接着在 Message 中写清输入、结果和必要限制，也可以注明负责人、截止日期与状态。\n\n为了减少选择成本，最后只保留 2–3 个常用入口；新增时点击 Add a suggested prompt。","textPreview":"首先用 Title 的短语说明任务，例如“行动项”。 |  | 接着在 Message 中写清输入、结果和必要限制，也可以注明负责人、截止日期与状态。 |  | 为了减少选择成本，最后只保留 2–3 个常用入口；新增时点击 Add a suggested prompt。","textChars":127,"textLines":5,"bbox":[858,272,322,240]}
+{"kind":"textbox","id":"sh/2d4jyp4b","slide":58,"name":"Rectangle: Rounded Corners 11","text":"打开 Lab 操作指南  ↗","textPreview":"打开 Lab 操作指南  ↗","textChars":14,"textLines":1,"bbox":[830,552,378,36]}
+{"kind":"image","id":"im/fehwzq98","slide":58,"name":"Picture 20","geometry":"roundRect","bbox":[72,260.18,734,249.64]}
+{"kind":"notes","id":"nt/mdo3u583","slide":58,"text":"[Sources]\n- User-provided Agent Builder guide screenshot\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/#agent-builder-path"}
+{"kind":"slide","id":"sl/7uxozyps","slide":59,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/6x4zuxw7","slide":59,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/udcri1kn","slide":59,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/velsb618","slide":59,"name":"Rectangle 2","text":"步骤 8｜测试、创建并按需要分享","textPreview":"步骤 8｜测试、创建并按需要分享","textChars":16,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/43e9ob25","slide":59,"name":"Rectangle 3","text":"先在 Preview 中测试，再返回 Configure 调整；确认稳定后点击 Create。创建成功以后才进入 Share，并根据培训要求选择仅自己、特定用户或组织范围。","textPreview":"先在 Preview 中测试，再返回 Configure 调整；确认稳定后点击 Create。创建成功以后才进入 Share，并根据培训要求选择仅自己、特定用户或组织范围。","textChars":86,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/54nahgja","slide":59,"name":"Rectangle 4","text":"46","textPreview":"46","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/ihwrm1kz","slide":59,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/k7a9c72l","slide":59,"name":"Rectangle: Rounded Corners 7","bbox":[70,178,738,414]}
+{"kind":"shape","id":"sh/l8ja5cj6","slide":59,"name":"Rectangle: Rounded Corners 8","bbox":[830,190,378,340]}
+{"kind":"textbox","id":"sh/tkvypsfi","slide":59,"name":"Rectangle 9","text":"本步要点","textPreview":"本步要点","textChars":4,"textLines":1,"bbox":[858,224,322,32]}
+{"kind":"textbox","id":"sh/szmhw7ex","slide":59,"name":"Rectangle 10","text":"先用一份信息完整的材料试一次，确认任务和输出结构。再删除负责人或日期，看 Agent 会不会指出信息缺失，而不是自己补出来。\n\n如果结果不稳定，返回 Configure 修改工作规则、参考资料或快捷问题。确认可用后再点 Create；Draft auto-saved 只表示草稿已保存。","textPreview":"先用一份信息完整的材料试一次，确认任务和输出结构。再删除负责人或日期，看 Agent 会不会指出信息缺失，而不是自己补出来。 |  | 如果结果不稳定，返回 Configure 修改工作规则、参考资料或快捷问题。确认可用后再点 Create；Draft auto-saved...","textChars":143,"textLines":3,"bbox":[858,272,322,240]}
+{"kind":"textbox","id":"sh/7ydgn2xc","slide":59,"name":"Rectangle: Rounded Corners 11","text":"打开 M365 Copilot  ↗","textPreview":"打开 M365 Copilot  ↗","textChars":18,"textLines":1,"bbox":[830,552,378,36]}
+{"kind":"image","id":"im/atwfuhcz","slide":59,"name":"Picture 20","geometry":"roundRect","alt":"Agent Builder 的 Preview、Create 和 Share 操作区域","bbox":[72,190.85,734,388.31]}
+{"kind":"notes","id":"nt/7uxozyps","slide":59,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/#agent-builder-path\n- https://m365.cloud.microsoft/\n- Current site screenshot: preview-create-share.png"}
+{"kind":"slide","id":"sl/bapcne9c","slide":60,"title":"05 Agent Builder 动手 Lab","textShapes":7}
+{"kind":"shape","id":"sh/qxwritkj","slide":60,"name":"Rectangle 12","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/6t4ze9cf","slide":60,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/rudg7et0","slide":60,"name":"Rectangle 2","text":"讲师示范结果｜会议跟进助手","textPreview":"讲师示范结果｜会议跟进助手","textChars":13,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/krmxcjup","slide":60,"name":"Rectangle 3","text":"示例要求使用管理层简报结构，并把尚未确认的信息保留下来。输出注明使用了 Mail Template CN.docx 模板。","textPreview":"示例要求使用管理层简报结构，并把尚未确认的信息保留下来。输出注明使用了 Mail Template CN.docx 模板。","textChars":61,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/5svy5obu","slide":60,"name":"Rectangle 4","text":"47","textPreview":"47","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/ipkfa9cj","slide":60,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"shape","id":"sh/on6ho3ut","slide":60,"name":"Rectangle: Rounded Corners 7","bbox":[70,178,738,414]}
+{"kind":"shape","id":"sh/pofyh8be","slide":60,"name":"Rectangle: Rounded Corners 8","bbox":[830,190,378,340]}
+{"kind":"textbox","id":"sh/d07qdo3a","slide":60,"name":"Rectangle 9","text":"本步要点","textPreview":"本步要点","textChars":4,"textLines":1,"bbox":[858,224,322,32]}
+{"kind":"textbox","id":"sh/czy9kj2p","slide":60,"name":"Rectangle 10","text":"先看会议背景有没有说清楚，再看已经决定的事项是否与讨论内容分开。然后检查负责人和日期是否完整，未决定的产品演示是否仍标记为待确认。\n\n最后确认输出确实使用了模板，并判断生成的跟进邮件是否只需少量修改就能使用。","textPreview":"先看会议背景有没有说清楚，再看已经决定的事项是否与讨论内容分开。然后检查负责人和日期是否完整，未决定的产品演示是否仍标记为待确认。 |  | 最后确认输出确实使用了模板，并判断生成的跟进邮件是否只需少量修改就能使用。","textChars":104,"textLines":3,"bbox":[858,272,322,240]}
+{"kind":"textbox","id":"sh/ryp8byl4","slide":60,"name":"Rectangle: Rounded Corners 11","text":"打开 Lab 03  ↗","textPreview":"打开 Lab 03  ↗","textChars":12,"textLines":1,"bbox":[830,552,378,36]}
+{"kind":"image","id":"im/y5gnyt8b","slide":60,"name":"Picture 20","geometry":"roundRect","alt":"Meeting Follow-up Assistant 按邮件模板生成的会议跟进结果","bbox":[72,182.93,734,404.15]}
+{"kind":"notes","id":"nt/bapcne9c","slide":60,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/meeting-follow-up/\n- Current site screenshot: meeting-output.png"}
+{"kind":"slide","id":"sl/atgzmloz","slide":61,"title":"05 Agent Builder 动手 Lab","textShapes":11}
+{"kind":"shape","id":"sh/gje587qh","slide":61,"name":"Rectangle 13","bbox":[0,0,1280,12]}
+{"kind":"textbox","id":"sh/9czu54ba","slide":61,"name":"Rectangle 1","text":"05 Agent Builder 动手 Lab","textPreview":"05 Agent Builder 动手 Lab","textChars":23,"textLines":1,"bbox":[72,30,530,30]}
+{"kind":"textbox","id":"sh/8bqdczap","slide":61,"name":"Rectangle 2","text":"轮到你：完成一个 Agent Lab","textPreview":"轮到你：完成一个 Agent Lab","textChars":18,"textLines":1,"bbox":[72,67,1136,54]}
+{"kind":"textbox","id":"sh/z6xczut8","slide":61,"name":"Rectangle 3","text":"从站内 Lab 01–04 中选择一个，按该页面的当前步骤和检查清单完成。不同场景的知识源、能力和测试方式不同。","textPreview":"从站内 Lab 01–04 中选择一个，按该页面的当前步骤和检查清单完成。不同场景的知识源、能力和测试方式不同。","textChars":56,"textLines":1,"bbox":[72,124,1136,50]}
+{"kind":"textbox","id":"sh/y5ob6pcn","slide":61,"name":"Rectangle 4","text":"48","textPreview":"48","textChars":2,"textLines":1,"bbox":[1160,676,48,18]}
+{"kind":"shape","id":"sh/l8zu14be","slide":61,"name":"Rectangle 5","bbox":[72,665,1136,1]}
+{"kind":"textbox","id":"sh/07qd8zut","slide":61,"name":"Rectangle 6","text":"首先完成可运行版本：Chief of Staff 使用本人 M365 数据；Product Manual FAQ 验证权限、引用与拒答；Meeting Follow-up 开启 Outlook、Teams 并加入一份模板；Funnel Lab 检查附件、能力和数据口径。\n\n接着按照该 Lab 的检查清单，运行一条正常任务，再运行一条资料缺失、来源不可用或范围不完整的任务。\n\n最后检查 Agent 是否引用正确来源、指出信息缺口，并且没有自行补充事实；满足这些条件后再创建和分享。","textPreview":"首先完成可运行版本：Chief of Staff 使用本人 M365 数据；Product Manual FAQ 验证权限、引用与拒答；Meeting Follow-up 开启 Outlook、Teams 并加入一份模板；Funnel Lab 检查附件、能力和数据口径。 |...","textChars":241,"textLines":5,"bbox":[100,185,1080,260]}
+{"kind":"textbox","id":"sh/j21cbytc","slide":61,"name":"Rectangle 7","text":"先按场景完成正确配置，再用正常与异常条件验证它是否可靠。","textPreview":"先按场景完成正确配置，再用正常与异常条件验证它是否可靠。","textChars":28,"textLines":1,"bbox":[130,474,1020,36]}
+{"kind":"textbox","id":"sh/i1svitsr","slide":61,"name":"Rectangle: Rounded Corners 8","text":"Lab 01  ↗","textPreview":"Lab 01  ↗","textChars":9,"textLines":1,"bbox":[72,616,130,36]}
+{"kind":"textbox","id":"sh/4ne5crqt","slide":61,"name":"Rectangle: Rounded Corners 9","text":"Lab 02  ↗","textPreview":"Lab 02  ↗","textChars":9,"textLines":1,"bbox":[214,616,130,36]}
+{"kind":"textbox","id":"sh/5on6lwry","slide":61,"name":"Rectangle: Rounded Corners 10","text":"Lab 03  ↗","textPreview":"Lab 03  ↗","textChars":9,"textLines":1,"bbox":[356,616,130,36]}
+{"kind":"textbox","id":"sh/ilwnah8n","slide":61,"name":"Rectangle: Rounded Corners 11","text":"Lab 04  ↗","textPreview":"Lab 04  ↗","textChars":9,"textLines":1,"bbox":[498,616,130,36]}
+{"kind":"textbox","id":"sh/3m5ojm98","slide":61,"name":"Rectangle: Rounded Corners 12","text":"M365 Copilot  ↗","textPreview":"M365 Copilot  ↗","textChars":15,"textLines":1,"bbox":[640,616,180,36]}
+{"kind":"notes","id":"nt/atgzmloz","slide":61,"text":"[Sources]\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/chief-of-staff/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/product-manual-faq/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/meeting-follow-up/\n- https://philips-ai-tool-lab.github.io/ai-tool-lab-preview/labs/funnel-data-analyst/\n- https://m365.cloud.microsoft/"}

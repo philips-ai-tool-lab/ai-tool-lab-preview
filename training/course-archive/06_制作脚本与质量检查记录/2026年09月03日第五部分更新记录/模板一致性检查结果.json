@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-09-03T02:12:48.640Z",
+  "workspace": "C:\\petproject\\.codex-build\\tool_lab_update_20260903",
+  "finalPptx": "C:\\petproject\\.codex-build\\tool_lab_update_20260903\\Philips_Young_Bootcamp_AI培训_最终版.pptx",
+  "starterPptx": "C:\\petproject\\.codex-build\\tool_lab_update_20260903\\template-starter.pptx",
+  "mapPath": "C:\\petproject\\.codex-build\\tool_lab_update_20260903\\template-frame-map.json",
+  "starterLayoutDir": "C:\\petproject\\.codex-build\\slides_28_37_narration_20260902\\layout",
+  "finalLayoutDir": "C:\\petproject\\.codex-build\\tool_lab_update_20260903\\layout",
+  "editDir": "C:\\petproject\\.codex-build\\tool_lab_update_20260903",
+  "issueCount": 0,
+  "issues": []
+}
