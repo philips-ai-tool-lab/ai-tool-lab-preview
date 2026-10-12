@@ -2,8 +2,8 @@
   "date": "2026-10-12",
   "repository": "philips-ai-tool-lab/ai-tool-lab-preview",
   "mode": "original-training-files-preserved",
-  "fileCount": 189,
-  "totalBytes": 264916124.0,
+  "fileCount": 192,
+  "totalBytes": 271541452,
   "excluded": [
     {
       "source": "Bootcamp培训会议材料_正式课件与绿色办公周实操文件/~$飞利浦新员工人工智能训练营_第一课_Copilot基础与实操_含智能体入口图.pptx",
@@ -1145,6 +1145,24 @@
       "source": "outputs/training-plan-20260922/30. AI通识技能入职培训_已填写.xlsx.inspect.ndjson",
       "bytes": 53304,
       "sha256": "0f98a455ec2f0d955b088da72b71bd31c7c403071133275e09df1c507bc21002"
+    },
+    {
+      "path": "training/service-sales-30min/Copilot服务销售培训_30分钟_示范版.pptx",
+      "source": "outputs/copilot-service-sales-30min/Copilot服务销售培训_30分钟_示范版.pptx",
+      "bytes": 547047,
+      "sha256": "c5ca90a4f78ba15179fa57ef9ce0c67e94667cf49eaef26a2846fcc8930abcec"
+    },
+    {
+      "path": "training/service-sales-30min/Copilot服务销售培训.html",
+      "source": "outputs/copilot-service-sales-30min/Copilot服务销售培训.html",
+      "bytes": 2470358,
+      "sha256": "bb3078393f8387123a13f29ebe261ddd085bd757c8cee5b9e7f86b924384cc4e"
+    },
+    {
+      "path": "training/service-sales-30min/Copilot服务销售30分钟_示范版材料包.zip",
+      "source": "outputs/Copilot服务销售30分钟_示范版材料包.zip",
+      "bytes": 3607923,
+      "sha256": "071557731d57e065a23d7706cd4f725e09bfdbfd3b21edcdde9603e5df614e8f"
     }
   ]
 }

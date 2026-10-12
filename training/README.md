@@ -1,6 +1,6 @@
 # 培训课件与配套资料
 
-2026-10-12 按交接要求原样补充，共 189 个原始文件，约 252.64 MiB。下方目录保留来源目录内部的层次和中文文件名；重复副本与历史版本未删减。
+2026-10-12 按交接要求原样补充，共 192 个原始文件，约 258.96 MiB。下方目录保留来源目录内部的层次和中文文件名；重复副本与历史版本未删减。
 
 ## 先找这些材料
 
@@ -15,13 +15,16 @@
 | 绿色办公周练习说明 | [打开说明](meeting-materials/00_绿色办公周三份练习资料说明_中英文.md) |
 | 培训计划表格 | [查看表格及检查记录](training-plan/training-plan-20260922/) |
 
+服务销售培训另见 [30分钟示范版资料入口](service-sales-30min/README.md)，含 PPT、离线 HTML 和完整材料包。
+
 ## 完整目录与来源
 
 | 仓库目录 | 本地来源目录名称 | 文件数 |
 |---|---|---:|
 | [meeting-materials/](meeting-materials/) | Bootcamp培训会议材料_正式课件与绿色办公周实操文件 | 10 |
 | [course-archive/](course-archive/) | 飞利浦新员工人工智能训练营_课件与配套资料归档 | 176 |
-| [training-plan/](training-plan/) | outputs | 3 |
+| [training-plan/](training-plan/) | outputs/training-plan-20260922 | 3 |
+| [service-sales-30min/](service-sales-30min/) | outputs 中的服务销售30分钟示范版交付文件 | 3 |
 
 course-archive/ 包括：
 
@@ -40,11 +43,11 @@ course-archive/ 包括：
 - 文件正文、备注、图片、内部链接及历史检查结果均未修改；历史验证结论不等于本次重新验证。
 - 部分 Markdown、脚本和记录仍引用原 Windows 本机路径。仓库位置请以 [manifest.json](manifest.json) 的 source/path 对照为准；不要直接执行历史脚本来覆盖现有资料。
 - 绿色办公周资料为虚构练习数据，故意保留的日期冲突没有修正。
-- 仅排除一份以 ~$ 开头的 PowerPoint 临时锁文件；依赖和构建缓存不在本次三个资料目录的交接范围内。
+- 仅排除一份以 ~$ 开头的 PowerPoint 临时锁文件；依赖和构建缓存不在原有三个资料目录及本次服务销售交付文件的交接范围内。
 - 本仓库保持公开，这些文件可以被公开下载。网站源码及三项未修正注意事项仍见根目录 [HANDOFF.md](../HANDOFF.md)。
 
 ## 校验
 
-[manifest.json](manifest.json) 记录全部 189 个原始文件的来源相对路径、仓库路径、字节数和 SHA256。上传前逐文件校验一致。
+[manifest.json](manifest.json) 记录全部 192 个原始文件的来源相对路径、仓库路径、字节数和 SHA256。上传前逐文件校验一致。
 
 此目录的 .gitattributes 使用 `* -text`，禁用 Git 文本转换，保留资料原始字节。本次没有编辑 PPT、修改表格、运行制作脚本或重新构建网站。

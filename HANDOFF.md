@@ -107,7 +107,9 @@ npm run build:pages
 - Funnel Sample Data.xlsx 和 Chart Sample.pptx。
 - SharePoint、Outlook、Teams 及 AI Asset Inventory MCP 的账号与连接权限。
 
-2026-10-12 已追加 [training/](training/README.md)：会议材料目录 10 个文件、课程归档目录 176 个文件、培训计划输出 3 个文件，共 189 个文件，包含正式 PPT、课堂配套资料、ZIP 材料包、历史课件、参考资料、制作脚本和检查记录。文件内容及原目录内的文件名均原样保留；重复副本也保留，以便对照来源。仅排除 1 个 PowerPoint 临时锁文件。
+2026-10-12 已追加 [training/](training/README.md)：会议材料目录 10 个文件、课程归档目录 176 个文件、培训计划输出 3 个文件，原有共 189 个文件；本次另补充服务销售培训 3 个交付文件，合计 192 个原始文件，包含正式 PPT、课堂配套资料、ZIP 材料包、历史课件、参考资料、制作脚本和检查记录。文件内容及原目录内的文件名均原样保留；重复副本也保留，以便对照来源。仅排除 1 个 PowerPoint 临时锁文件。
+
+服务销售30分钟示范版见 [专用索引](training/service-sales-30min/README.md)：PPT、离线 HTML 和完整 ZIP。ZIP 内包含讲师手册与提示词、使用说明、源文件、素材及练习资料。接收人和授课安排尚待业务交接确认。
 
 原路径与仓库路径映射、大小和 SHA256 见 training/manifest.json。training/.gitattributes 禁用文本换行转换，以保留原始文件字节。课件及表格未在本次上传中编辑或重新渲染，归档脚本未执行。历史说明里的本机绝对路径和版本描述仍按原文保留；查找仓库内文件时使用 training/README.md 和清单。
 
